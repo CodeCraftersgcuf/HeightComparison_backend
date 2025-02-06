@@ -1,0 +1,104 @@
+[
+    {
+        "id": "40b38412-cbbf-4f81-8b50-fa50d0b5deef",
+        "name": "Akari Hayasaka",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Dec 3",
+            "Age": "17-24",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Autumn Session",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "318df535-d281-4229-a559-e2bb5f23887a",
+        "name": "Haruki Serizawa",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Apr 5",
+            "Age": "17-24",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Autumn Session",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ad20da67-c88e-46f3-a618-01d3dbd26e0b",
+        "name": "Miou Aida",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "Mar 20",
+            "Age": "17-24",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Autumn Session",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5df98084-144c-49fa-8c73-9af3d7b41eb2",
+        "name": "Natsuki Enomoto",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": "Jun 27",
+            "Age": "17-24",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Autumn Session",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d9cfd009-0dd4-44eb-8bcc-9102ade0013b",
+        "name": "Souta Mochizuki",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17-24",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Autumn Session",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5bb76ef0-0335-4d33-8e1a-089a88ed54b2",
+        "name": "Yuu Setoguchi",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Jul 11",
+            "Age": "17-24",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Autumn Session",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

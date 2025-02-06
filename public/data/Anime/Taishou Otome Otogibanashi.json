@@ -1,0 +1,19 @@
+[
+    {
+        "id": "fd06b667-fc18-4f0c-aa78-84834aa90fed",
+        "name": "Ryou Atsumi",
+        "gender": "f",
+        "height": "151.00",
+        "extras": {
+            "Birthday": "Jul 17",
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Taishou Otome Otogibanashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

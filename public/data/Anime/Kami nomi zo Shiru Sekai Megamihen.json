@@ -1,0 +1,53 @@
+[
+    {
+        "id": "209408b8-0ab1-4ce1-b27f-11acb9201058",
+        "name": "Haqua Du Lot Herminium",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Apr 24",
+            "Age": "300",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kami nomi zo Shiru Sekai Megamihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6b1ed8b6-d43e-4c05-a30a-8f28648149ed",
+        "name": "Kanon Nakagawa",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": "Mar 3",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kami nomi zo Shiru Sekai Megamihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "01eb8e13-1a90-45d3-b206-a35f543c00f0",
+        "name": "Tsukiyo Kujou",
+        "gender": "f",
+        "height": "142.00",
+        "extras": {
+            "Birthday": "Jul 22",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kami nomi zo Shiru Sekai Megamihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

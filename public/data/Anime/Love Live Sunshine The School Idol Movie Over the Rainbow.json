@@ -1,0 +1,121 @@
+[
+    {
+        "id": "c31a3dfd-ef19-4f5e-b7bd-6d9a81b5e44f",
+        "name": "Chika Takami",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Aug 1",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Sunshine The School Idol Movie Over the Rainbow",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cd18c01a-ca75-4a5d-a556-e63bd4fb2c93",
+        "name": "Dia Kurosawa",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Jan 1",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Sunshine The School Idol Movie Over the Rainbow",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4846f3cc-405d-4c7e-94f9-1c580b2ddc6f",
+        "name": "Hanamaru Kunikida",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Mar 4",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Sunshine The School Idol Movie Over the Rainbow",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fa7619a0-b8c2-4232-9d95-75e9802d01c7",
+        "name": "Kanull Matsuura",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Feb 10",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Sunshine The School Idol Movie Over the Rainbow",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "89c0d690-2ef4-4b72-ba37-8667e4f6ac0d",
+        "name": "Mari Ohara",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Jun 13",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Sunshine The School Idol Movie Over the Rainbow",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bfbcf4df-c5e1-4db6-98bb-f26be779c92a",
+        "name": "Ruby Kurosawa",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Sep 21",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Sunshine The School Idol Movie Over the Rainbow",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4a1d7003-0bca-4385-9a52-dd9165f63eff",
+        "name": "Yoshiko Tsushima",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Jul 13",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Sunshine The School Idol Movie Over the Rainbow",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

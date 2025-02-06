@@ -1,0 +1,36 @@
+[
+    {
+        "id": "404e08cd-a158-466a-afb9-75f68bcb3525",
+        "name": "Megumi Tadokoro",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Dec 19",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shokugeki no Souma Ni no Sara",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e4665000-0b03-430d-80ce-97a7f27fca31",
+        "name": "Souma Yukihira",
+        "gender": "m",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Nov 6",
+            "Age": "15-25",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shokugeki no Souma Ni no Sara",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

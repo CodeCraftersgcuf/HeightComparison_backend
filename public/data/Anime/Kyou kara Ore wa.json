@@ -1,0 +1,36 @@
+[
+    {
+        "id": "01f009ea-1fa9-458f-a85f-ca5c77e99ca9",
+        "name": "Shinji Itou",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "15-16",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kyou kara Ore wa",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "819a7c0c-0b38-4a57-b696-9a1c39d944bd",
+        "name": "Takashi Mitsuhashi",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "15-16",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kyou kara Ore wa",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

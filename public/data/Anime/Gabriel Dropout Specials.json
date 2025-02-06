@@ -1,0 +1,70 @@
+[
+    {
+        "id": "3ded87f9-374f-4091-9f42-5e6fad7732c6",
+        "name": "Gabriel Tenma White",
+        "gender": "f",
+        "height": "144.00",
+        "extras": {
+            "Birthday": "Apr 20",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gabriel Dropout Specials",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b697401a-f052-417f-9b4d-a5d4042a8f89",
+        "name": "Raphiel Shiraha Ainsworth",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Mar 19",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gabriel Dropout Specials",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2e1bc487-cb4f-494f-a0eb-56049789809b",
+        "name": "Satanichia Kurumizawa Mcdowell",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Aug 15",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gabriel Dropout Specials",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e411ccba-e45d-4884-bada-55c8318ae68d",
+        "name": "Vignette Tsukinose April",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Oct 10",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gabriel Dropout Specials",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

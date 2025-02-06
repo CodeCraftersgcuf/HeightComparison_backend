@@ -1,0 +1,19 @@
+[
+    {
+        "id": "d3631c26-5832-4191-96d9-3f6f3ff795d5",
+        "name": "Hanbee Kikaku",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Jan 11",
+            "Age": "24",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Uramichi Oniisan",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

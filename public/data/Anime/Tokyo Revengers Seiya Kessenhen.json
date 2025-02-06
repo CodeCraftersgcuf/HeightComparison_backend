@@ -1,0 +1,19 @@
+[
+    {
+        "id": "e2c1f68d-feb3-4da9-a2e6-6d70faa1afe2",
+        "name": "Taiju Shiba",
+        "gender": "m",
+        "height": "198.00",
+        "extras": {
+            "Birthday": "Dec 15, 1989",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Seiya Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

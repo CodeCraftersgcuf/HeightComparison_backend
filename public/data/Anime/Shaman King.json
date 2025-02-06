@@ -1,0 +1,36 @@
+[
+    {
+        "id": "3277cd86-8468-4af2-96ff-cef3ffd6c17b",
+        "name": "Iron Maiden Jeanne",
+        "gender": "f",
+        "height": "141.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shaman King",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2ec02a07-9ab7-4988-a1d0-e8de434a3ba5",
+        "name": "Marion Phauna",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shaman King",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

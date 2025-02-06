@@ -1,0 +1,53 @@
+[
+    {
+        "id": "c4cbb610-c2ca-4cb6-922e-59da531d9102",
+        "name": "Mai Sakurajima",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Dec 2",
+            "Age": "17-18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bcff8faa-a841-4899-ab52-37352a0dc7ce",
+        "name": "Sakuta Azusagawa",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Apr 10",
+            "Age": "16-17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "29f89c4f-45d7-4cf1-91c3-86f13d02fb37",
+        "name": "Tomoe Koga",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "May 23",
+            "Age": "15-16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

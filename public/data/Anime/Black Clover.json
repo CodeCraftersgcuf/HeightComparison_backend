@@ -1,0 +1,291 @@
+[
+    {
+        "id": "126589cd-8c1c-4cab-8b85-e9437d908f01",
+        "name": "Augustus Kira Clover Xiii",
+        "gender": "m",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Oct 22",
+            "Age": "35",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "85788183-10de-46ca-ad6f-0e959f2e3b4f",
+        "name": "Dominullte Code",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Sep 15",
+            "Age": "26",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d412d3a0-4c0e-43cc-81e4-6e0d620fb996",
+        "name": "Fanzell Kruger",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Oct 7",
+            "Age": "28",
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ede70394-5286-419f-875e-dddfd0b896c7",
+        "name": "Gueldre Poizot",
+        "gender": "m",
+        "height": "194.00",
+        "extras": {
+            "Birthday": "Dec 5",
+            "Age": "28",
+            "gender": null,
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c1b38ce9-3f5f-4c7b-9b35-ce35b574405f",
+        "name": "Heath Grice",
+        "gender": "m",
+        "height": "187.00",
+        "extras": {
+            "Birthday": "Nov 14",
+            "Age": "31",
+            "gender": null,
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1a9612c0-530b-445a-80a2-54b5902b804c",
+        "name": "Kahono",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Nov 15",
+            "Age": "15",
+            "gender": null,
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0193ce18-6d44-4847-9eda-9666811e1656",
+        "name": "Kirsch Vermillion",
+        "gender": "m",
+        "height": "182.00",
+        "extras": {
+            "Birthday": "Apr 24",
+            "Age": "20",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b5d563a1-9ed1-46bc-a781-8f3efbffcf10",
+        "name": "Ladros",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Jul 4",
+            "Age": "20",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "69b65213-1219-4211-9c4a-736982d40562",
+        "name": "Lily Aquaria",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Jul 2",
+            "Age": "26",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3f04bb8d-35a8-4f82-bc0f-721b9fada0a6",
+        "name": "Lotus Whomalt",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Dec 1",
+            "Age": "36",
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1ecc3ced-ed34-4f05-902c-f4c3aaa1865e",
+        "name": "Marie Adlai",
+        "gender": "f",
+        "height": "135.00",
+        "extras": {
+            "Birthday": "Dec 21",
+            "Age": "10",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "27101014-9b96-4760-bafb-95886a4b4157",
+        "name": "Mariella",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Oct 26",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d1991e85-a222-4fd9-b68e-31588919b202",
+        "name": "Rades Spirito",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Oct 17",
+            "Age": "21",
+            "gender": null,
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7396dadd-1b12-40a1-98bf-0e7b7043c364",
+        "name": "Rebecca Scarlet",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Apr 18",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f853c00b-a72f-4617-8f20-5296906bc7aa",
+        "name": "Revchi Salik",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Jan 16",
+            "Age": "32",
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ac8683da-8b19-4081-bc1d-dd701c8138a1",
+        "name": "Theresa Rapual",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Mar 28",
+            "Age": "65",
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2a3681fe-ee9e-4b7b-8d0c-4425b26d80f4",
+        "name": "Valtos",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Dec 27",
+            "Age": "25",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

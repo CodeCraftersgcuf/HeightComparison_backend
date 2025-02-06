@@ -1,0 +1,19 @@
+[
+    {
+        "id": "94d11349-7f30-4fd8-9348-f2a95a3b0e51",
+        "name": "Kirie Fujyou",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kara no Kyoukai Garan no Dou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

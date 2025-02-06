@@ -1,0 +1,19 @@
+[
+    {
+        "id": "a52a209c-3e7f-496d-ab84-1c0e5b59d6e2",
+        "name": "Hifumi Takimoto",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Jan 23",
+            "Age": "21-23",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "NEW GAME",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

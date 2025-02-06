@@ -1,0 +1,189 @@
+[
+    {
+        "id": "41837a08-3d71-4d1c-8b8d-b0eda7581252",
+        "name": "Amazoness",
+        "gender": "f",
+        "height": "198.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Arakawa Under the Bridge x Bridge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b7b7ef1a-aaa8-41e5-a08c-f0eecb2d9f61",
+        "name": "Billy",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Arakawa Under the Bridge x Bridge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c82ebc08-a511-41ee-9949-ef7cf8857eb0",
+        "name": "Jacqueline",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Arakawa Under the Bridge x Bridge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2db92353-af4d-43c8-89df-461764c3b11c",
+        "name": "Last Samurai",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Arakawa Under the Bridge x Bridge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e9b3444b-cd1d-4187-96e3-34ff26d0bcc4",
+        "name": "Seki Ichinomiya",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Arakawa Under the Bridge x Bridge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "52ea29dd-8e6f-48a1-a042-3103689f6f8d",
+        "name": "Shimazaki",
+        "gender": "f",
+        "height": "169.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "32",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Arakawa Under the Bridge x Bridge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "42bef70a-1f7a-43a8-864d-ac50c7632fe5",
+        "name": "Sister",
+        "gender": "f",
+        "height": "208.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "29",
+            "gender": null,
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Arakawa Under the Bridge x Bridge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "47d9c2fb-3f5a-4c6b-bd77-92cf5d8b67d3",
+        "name": "Terumasa Takai",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "51",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Arakawa Under the Bridge x Bridge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "371843dd-8a25-404c-8a7d-914ecce7da85",
+        "name": "Tetsuo Tetsujin",
+        "gender": "m",
+        "height": "90.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Arakawa Under the Bridge x Bridge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e5d91214-2691-4981-97a4-48f198ca98a5",
+        "name": "Tetsurou Tetsujin",
+        "gender": "m",
+        "height": "90.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Arakawa Under the Bridge x Bridge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "293ef3a7-3674-44dc-8b78-4fb4ed178933",
+        "name": "Tooru Shirai",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "43",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Arakawa Under the Bridge x Bridge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

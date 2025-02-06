@@ -1,0 +1,53 @@
+[
+    {
+        "id": "bb2648bb-d7ca-4ff9-ba9b-3e2b9a35b829",
+        "name": "Ai Hoshino",
+        "gender": "f",
+        "height": "151.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16-20",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Idol",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e741105b-693e-4323-bd6e-438e65ef0ccb",
+        "name": "Aquamarine Hoshino",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Idol",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a8b9abc8-9a73-45aa-b805-d36c78658d3a",
+        "name": "Ruby Hoshino",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Idol",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "9a4d3f8a-b664-45dd-a5e2-c6ac8c544e1d",
+        "name": "Mitsuko Yokoyama",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Prison School",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

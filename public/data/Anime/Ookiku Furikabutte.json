@@ -1,0 +1,19 @@
+[
+    {
+        "id": "734433a8-6efa-4577-9a46-fbfc078ddb2b",
+        "name": "Motoki Haruna",
+        "gender": "m",
+        "height": "182.00",
+        "extras": {
+            "Birthday": "May 24",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ookiku Furikabutte",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

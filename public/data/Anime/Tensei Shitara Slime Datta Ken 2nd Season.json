@@ -1,0 +1,36 @@
+[
+    {
+        "id": "d78587a1-3c4a-438a-89cc-aad00bbd64cd",
+        "name": "Souei",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tensei Shitara Slime Datta Ken 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cf381c65-247f-4b45-81fd-8412e57125c0",
+        "name": "Veldora Tempest",
+        "gender": "m",
+        "height": "210.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "2000+",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tensei Shitara Slime Datta Ken 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "id": "3be4f1bb-9bb2-4fa7-9882-a5c4163a548d",
+        "name": "Chiaki Minami",
+        "gender": "f",
+        "height": "147.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Minamike Tadaima",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "12aa29c0-467a-4a5f-b83b-43c2515412b7",
+        "name": "Haruka Minami",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Minamike Tadaima",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "27f6e73a-2848-406b-bf3c-6077761109d6",
+        "name": "Kana Minami",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Minamike Tadaima",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

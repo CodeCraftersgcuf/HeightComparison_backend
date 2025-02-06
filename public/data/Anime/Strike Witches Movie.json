@@ -1,0 +1,53 @@
+[
+    {
+        "id": "49736a95-d0c4-46ca-ac26-f378ae6e5a42",
+        "name": "Heinrike Prinzessin Zu Sayn-wittgenstein",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Aug 14, 1928",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Strike Witches Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d62fd8b2-f397-4ca4-9fb5-32057cdfb57b",
+        "name": "Nikka Edvardine Katajainen",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "May 31, 1929",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Strike Witches Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4e0a337d-5d59-49aa-ac9f-7ed36211fa05",
+        "name": "Perrine H. Clostermann",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Feb 28",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Strike Witches Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

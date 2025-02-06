@@ -1,0 +1,36 @@
+[
+    {
+        "id": "3343a7d9-6cfa-455e-becf-1d3595cf2c46",
+        "name": "Daichi Shinagawa",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Apr 2",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yamadakun to 7nin no Majo",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fe09cfbf-5609-4751-8b2d-1ca4c80b21d5",
+        "name": "Miyabi Itou",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Jun 6",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yamadakun to 7nin no Majo",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

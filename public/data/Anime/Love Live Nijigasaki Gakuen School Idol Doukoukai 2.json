@@ -1,0 +1,172 @@
+[
+    {
+        "id": "77ba8f6d-5e39-4275-aabc-ca7e002ffd85",
+        "name": "Ai Miyashita",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "May 30",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Nijigasaki Gakuen School Idol Doukoukai 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "95f4fc62-aae9-489c-89ab-d11e6ac0cdf0",
+        "name": "Ayumu Uehara",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "Mar 1",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Nijigasaki Gakuen School Idol Doukoukai 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2d82d152-3acf-41f9-89fb-35f29fb8b83e",
+        "name": "Emma Verde",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Feb 5",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Nijigasaki Gakuen School Idol Doukoukai 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1ba0b3e3-b7da-4aca-956b-5ee112648f4d",
+        "name": "Kanata Konoe",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Dec 16",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Nijigasaki Gakuen School Idol Doukoukai 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1812e7a4-87da-48b0-b107-2d9b8d0a6a15",
+        "name": "Karin Asaka",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Jun 29",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Nijigasaki Gakuen School Idol Doukoukai 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "680a1148-b4c1-4a1c-866d-f6e39033bb5f",
+        "name": "Kasumi Nakasu",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Jan 23",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Nijigasaki Gakuen School Idol Doukoukai 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "02e9360c-2782-430c-b7f2-49b752042be1",
+        "name": "Mia Taylor",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Dec 6",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Nijigasaki Gakuen School Idol Doukoukai 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d16011e2-16e1-4527-b163-7e02d43cec4c",
+        "name": "Rina Tennouji",
+        "gender": "f",
+        "height": "149.00",
+        "extras": {
+            "Birthday": "Nov 13",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Nijigasaki Gakuen School Idol Doukoukai 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c9a0dc18-a82b-4c63-814e-cd6d11c72231",
+        "name": "Setsuna Yuki",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Aug 8",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Nijigasaki Gakuen School Idol Doukoukai 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "804aeca1-d2e1-4200-97d6-2be9a4b19165",
+        "name": "Shizuku Ousaka",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Apr 3",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Nijigasaki Gakuen School Idol Doukoukai 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "id": "3b82fb03-7cf0-403e-803e-ad4d91567281",
+        "name": "Ai Asato",
+        "gender": "f",
+        "height": "169.00",
+        "extras": {
+            "Birthday": "May 5",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo TV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0f8c3fb2-af7f-48e0-970c-a01932760f92",
+        "name": "Matoi Giboshi",
+        "gender": "f",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Apr 30",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo TV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

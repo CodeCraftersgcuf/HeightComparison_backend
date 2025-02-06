@@ -1,0 +1,19 @@
+[
+    {
+        "id": "a0fe31d6-af91-4ae8-a5d3-29df9dd227dd",
+        "name": "Shouya Ishida",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Jun 6",
+            "Age": "12-20",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Koe no Katachi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

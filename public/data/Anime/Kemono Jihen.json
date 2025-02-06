@@ -1,0 +1,87 @@
+[
+    {
+        "id": "b9bbb3d3-2c62-42df-9e60-b280f96d436d",
+        "name": "Aya Tademaru",
+        "gender": "f",
+        "height": "121.00",
+        "extras": {
+            "Birthday": "Nov 22",
+            "Age": "8",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kemono Jihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "176c96b2-84e7-4b16-87ce-8eb70882a120",
+        "name": "Kabane Kusaka",
+        "gender": "m",
+        "height": "151.00",
+        "extras": {
+            "Birthday": "Jun 15",
+            "Age": "13",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kemono Jihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2db8d1d5-45b8-4539-9a2f-df99fe1a609e",
+        "name": "Mihai Florescu",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Oct 17",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kemono Jihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "55fb14de-1c05-415f-bab9-242173fa48e5",
+        "name": "Nowaki Homuramaru",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "May 30",
+            "Age": "13",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kemono Jihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7d272725-2a91-4f81-a512-be6314d34ba8",
+        "name": "Shiki Tademaru",
+        "gender": "m",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Nov 10",
+            "Age": "14",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kemono Jihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

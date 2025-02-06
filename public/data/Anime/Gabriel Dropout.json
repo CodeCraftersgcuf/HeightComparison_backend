@@ -1,0 +1,19 @@
+[
+    {
+        "id": "b72ec38b-a867-43d2-a95a-b8672146e5fe",
+        "name": "Tapris Sugarbell Chisaki",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Jun 4",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gabriel Dropout",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

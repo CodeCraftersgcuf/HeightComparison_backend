@@ -1,0 +1,172 @@
+[
+    {
+        "id": "9535c4a3-6278-4f03-bfce-604ca80ad524",
+        "name": "Giyuu Tomioka",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Feb 8",
+            "Age": "19-21",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimetsu no Yaiba Yuukakuhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2ddc48b6-d535-4819-838d-a63a0eef39cd",
+        "name": "Inosuke Hashibira",
+        "gender": "m",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Apr 22",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimetsu no Yaiba Yuukakuhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ee52b681-073c-4a69-ba25-b471ca996932",
+        "name": "Kyoujurou Rengoku",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "May 10",
+            "Age": "20",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimetsu no Yaiba Yuukakuhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "25f04851-45c4-4d73-94c6-332ff6147897",
+        "name": "Mitsuri Kanroji",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Jun 1",
+            "Age": "19",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimetsu no Yaiba Yuukakuhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "696ebda4-42b9-4aaf-89d3-18917c52f00f",
+        "name": "Muichirou Tokitou",
+        "gender": "m",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Aug 8",
+            "Age": "14",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimetsu no Yaiba Yuukakuhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4fcc7421-3399-44f1-9596-1a19990311cf",
+        "name": "Nezuko Kamado",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "Dec 28",
+            "Age": "12-14",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimetsu no Yaiba Yuukakuhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c4a696c6-89fa-4e21-bfd2-fd1827f802ed",
+        "name": "Shinobu Kochou",
+        "gender": "f",
+        "height": "151.00",
+        "extras": {
+            "Birthday": "Feb 24",
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimetsu no Yaiba Yuukakuhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c2297b35-4016-4b59-9fe7-3185cf92b871",
+        "name": "Tanjirou Kamado",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Jul 14",
+            "Age": "13-16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimetsu no Yaiba Yuukakuhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "dde2718f-a1c4-4c1c-a6a4-b48e6852e6d7",
+        "name": "Tengen Uzui",
+        "gender": "m",
+        "height": "198.00",
+        "extras": {
+            "Birthday": "Oct 31",
+            "Age": "23",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimetsu no Yaiba Yuukakuhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "25b7131a-e07a-4c56-9ba9-beb77f669fbd",
+        "name": "Zenitsu Agatsuma",
+        "gender": "m",
+        "height": "1645.00",
+        "extras": {
+            "Birthday": "Sep 3",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimetsu no Yaiba Yuukakuhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

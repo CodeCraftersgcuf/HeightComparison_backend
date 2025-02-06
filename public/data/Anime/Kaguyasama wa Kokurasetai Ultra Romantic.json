@@ -1,0 +1,36 @@
+[
+    {
+        "id": "5d5ba513-8a49-40cc-8197-ce50ec76cbeb",
+        "name": "Kaguya Shinomiya",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Jan 1, 2003",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaguyasama wa Kokurasetai Ultra Romantic",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ad3e6b20-00a3-4ab8-9963-d61de681fd20",
+        "name": "Miko Iino",
+        "gender": "f",
+        "height": "147.00",
+        "extras": {
+            "Birthday": "May 5",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaguyasama wa Kokurasetai Ultra Romantic",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

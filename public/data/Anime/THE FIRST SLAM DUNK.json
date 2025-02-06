@@ -1,0 +1,36 @@
+[
+    {
+        "id": "dcea0db1-6958-4eca-a98f-3dbb99fecccc",
+        "name": "Kaede Rukawa",
+        "gender": "m",
+        "height": "187.00",
+        "extras": {
+            "Birthday": "Jan 1",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "THE FIRST SLAM DUNK",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "16389166-0005-42e5-aa89-0fffd36b759a",
+        "name": "Ryota Miyagi",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Jul 31",
+            "Age": "16-17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "THE FIRST SLAM DUNK",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

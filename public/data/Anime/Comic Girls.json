@@ -1,0 +1,19 @@
+[
+    {
+        "id": "2b9cab73-55f3-4134-ada9-3612ce7277c6",
+        "name": "Mao Kurokawa",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Jul 17",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Comic Girls",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

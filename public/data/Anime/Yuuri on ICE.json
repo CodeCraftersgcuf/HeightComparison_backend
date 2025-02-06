@@ -1,0 +1,19 @@
+[
+    {
+        "id": "f2e6f2a2-f77b-4e3e-9e23-fb40590e8b3c",
+        "name": "Michele Crispino",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Sep 13",
+            "Age": "22",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yuuri on ICE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

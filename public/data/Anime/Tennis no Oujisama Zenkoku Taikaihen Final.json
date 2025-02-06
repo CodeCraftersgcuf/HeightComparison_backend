@@ -1,0 +1,121 @@
+[
+    {
+        "id": "6859cd56-8928-451d-b417-aa9e7307eead",
+        "name": "Eiji Kikumaru",
+        "gender": "m",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Nov 28",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tennis no Oujisama Zenkoku Taikaihen Final",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "77154685-e008-45ca-8d09-329414210d67",
+        "name": "Ryoma Echizen",
+        "gender": "m",
+        "height": "151.00",
+        "extras": {
+            "Birthday": "Dec 24",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tennis no Oujisama Zenkoku Taikaihen Final",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e6261b4f-f725-4cc5-bbc6-ece066c092c2",
+        "name": "Sadaharu Inui",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Jun 3",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tennis no Oujisama Zenkoku Taikaihen Final",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d54d1262-d010-4441-a750-8dda10bff7bd",
+        "name": "Shuichiro Oishi",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Apr 30",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tennis no Oujisama Zenkoku Taikaihen Final",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "20e39c07-eb12-4a2e-a174-77cca27d43a2",
+        "name": "Shuusuke Fuji",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Feb 29",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tennis no Oujisama Zenkoku Taikaihen Final",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "dd8cf9a7-e152-4d7c-b34d-f5686e88a89e",
+        "name": "Takashi Kawamura",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Nov 18",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tennis no Oujisama Zenkoku Taikaihen Final",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6e54a963-77e5-46be-add0-d81826a0333e",
+        "name": "Takeshi Momoshiro",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Jul 23",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tennis no Oujisama Zenkoku Taikaihen Final",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

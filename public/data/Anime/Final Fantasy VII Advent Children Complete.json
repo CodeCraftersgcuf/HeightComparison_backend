@@ -1,0 +1,19 @@
+[
+    {
+        "id": "350afeed-b9ca-45ac-abda-acebed46f6ec",
+        "name": "Zack Fair",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "1985",
+            "Age": "16-23",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Final Fantasy VII Advent Children Complete",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

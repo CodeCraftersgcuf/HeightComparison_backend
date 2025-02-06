@@ -1,0 +1,36 @@
+[
+    {
+        "id": "607b2851-cad2-4494-bcb2-e8af93fdd06a",
+        "name": "Astaroh",
+        "gender": "m",
+        "height": "188.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mairimashita Irumakun",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e81d0fcb-6a9b-499b-ac0b-b36a538dcf68",
+        "name": "Belzebuth",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mairimashita Irumakun",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

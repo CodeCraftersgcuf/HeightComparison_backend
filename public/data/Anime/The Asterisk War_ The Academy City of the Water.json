@@ -1,0 +1,19 @@
+[
+    {
+        "id": "74c99c30-808c-4bab-9f2a-44d34005303e",
+        "name": "Saya Sasamiya",
+        "gender": "f",
+        "height": "148.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Asterisk War: The Academy City of the Water",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

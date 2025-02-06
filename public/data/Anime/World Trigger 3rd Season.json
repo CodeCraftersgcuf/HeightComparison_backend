@@ -1,0 +1,53 @@
+[
+    {
+        "id": "69f29708-120e-4ff5-8294-20b373cd2ce7",
+        "name": "Chika Amatori",
+        "gender": "f",
+        "height": "140.00",
+        "extras": {
+            "Birthday": "Feb 11",
+            "Age": "13-14",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "World Trigger 3rd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "911f87bb-a0b2-4211-ac63-63b10d83954c",
+        "name": "Sumiharu Inukai",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "May 1",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "World Trigger 3rd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6ff496fd-744e-4e0a-80a3-5e3d23262295",
+        "name": "Yuuichi Jin",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Apr 9",
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "World Trigger 3rd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

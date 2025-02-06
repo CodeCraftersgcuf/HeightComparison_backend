@@ -1,0 +1,19 @@
+[
+    {
+        "id": "5dfab150-144e-4814-a82b-c1b4bcb94b4a",
+        "name": "Julian Solo",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Mar 21",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Saint Seiya Meiou Hades Meikaihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

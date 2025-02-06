@@ -1,0 +1,19 @@
+[
+    {
+        "id": "46265c72-f77d-4dba-a0f3-f30bcbfb8238",
+        "name": "Kazuki Kazami",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "Mar 22",
+            "Age": "19",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Grisaia no Meikyuu",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    }
+]

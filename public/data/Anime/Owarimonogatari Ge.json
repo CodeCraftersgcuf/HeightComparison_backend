@@ -1,0 +1,104 @@
+[
+    {
+        "id": "a8b63f0a-caee-4082-874c-b9902921f523",
+        "name": "Hitagi Senjougahara",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Jul 7",
+            "Age": "17-18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owarimonogatari Ge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ebb9227d-81be-49dd-8b8d-f2d0f3a8d815",
+        "name": "Karen Araragi",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "14-15",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owarimonogatari Ge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e47ca87d-f9e7-4603-9119-11ea89ba01ce",
+        "name": "Koyomi Araragi",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Apr 14",
+            "Age": "17-18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owarimonogatari Ge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "98739816-420f-4bac-bd9c-934be58027d3",
+        "name": "Nadeko Sengoku",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "Jun 3",
+            "Age": "13-14",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owarimonogatari Ge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "336effc3-9f7d-42f0-99da-019bb2919554",
+        "name": "Tsubasa Hanekawa",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17-18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owarimonogatari Ge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8c6a7422-9a4c-4082-b075-487d53450955",
+        "name": "Tsukihi Araragi",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Apr",
+            "Age": "13-14",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owarimonogatari Ge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

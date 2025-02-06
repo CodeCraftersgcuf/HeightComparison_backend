@@ -1,0 +1,172 @@
+[
+    {
+        "id": "f0328d23-eb2c-4313-8d48-d9d0bf9e1269",
+        "name": "Belphegor",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Dec 22",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Katekyou Hitman REBORN",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2ea9f5a7-e3f6-4bc8-ac86-f176d3c9ab67",
+        "name": "Chrome Dokuro",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Dec 5",
+            "Age": "13",
+            "gender": null,
+            "Blood Type": "transfer"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Katekyou Hitman REBORN",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c06506f8-dac9-4176-8760-a94af8b1ffa8",
+        "name": "Colonnello",
+        "gender": "m",
+        "height": "41.00",
+        "extras": {
+            "Birthday": "Jul 7",
+            "Age": "2",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Katekyou Hitman REBORN",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c3b0ec01-66d5-4620-aa6d-64e1cfdb7129",
+        "name": "Ken Joshima",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Sep 28",
+            "Age": "14",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Katekyou Hitman REBORN",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c2e0ceef-fdac-4a0e-b859-f7a07a39b6bb",
+        "name": "Mammon",
+        "gender": "m",
+        "height": "40.00",
+        "extras": {
+            "Birthday": "Jul 2",
+            "Age": "2",
+            "gender": null,
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Katekyou Hitman REBORN",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bfa676aa-1a23-4d60-a285-99e7fe104cef",
+        "name": "Reborn",
+        "gender": "m",
+        "height": "40.00",
+        "extras": {
+            "Birthday": "Oct 13",
+            "Age": "1",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Katekyou Hitman REBORN",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "833ec2f3-be07-4c9a-95c4-b5a7c79496e7",
+        "name": "Romario",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Jul 21",
+            "Age": "38",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Katekyou Hitman REBORN",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "103aa784-18a4-4a20-98da-fa1049159548",
+        "name": "Spanner",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Feb 28",
+            "Age": "14-24",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Katekyou Hitman REBORN",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0106099d-f7ff-43af-a217-3d74323f23a4",
+        "name": "Takeshi Yamamoto",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Apr 24",
+            "Age": "15 (present), 25 (future self)",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Katekyou Hitman REBORN",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0c93b395-d55b-480e-a18c-3b313b22dea4",
+        "name": "Tetsuya Kusakabe",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "Nov 9",
+            "Age": null,
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Katekyou Hitman REBORN",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

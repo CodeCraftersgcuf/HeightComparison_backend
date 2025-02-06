@@ -1,0 +1,36 @@
+[
+    {
+        "id": "412d170e-e247-44c7-9d6e-f6e2e8b566ae",
+        "name": "Akihiko Kaji",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Oct 21",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Given",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fbf0e6b0-9335-4444-bada-4321d53a5bc8",
+        "name": "Mafuyu Satou",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Feb 28",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Given",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "id": "ae88373e-6011-4fe8-ac57-6f66db06981b",
+        "name": "Asajigahara No Kijo",
+        "gender": "f",
+        "height": "148.00",
+        "extras": {
+            "Birthday": "Feb 4",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9d8ff9c9-1952-43d0-ba86-2e303afcd0fd",
+        "name": "Hari Onna",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Sep 15",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f48e02f3-6799-439d-b135-8537d354fb22",
+        "name": "Hebidayu",
+        "gender": "m",
+        "height": "123.00",
+        "extras": {
+            "Birthday": "Nov 21",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ee07c2bc-8c92-4a33-a032-fa810cdc70fd",
+        "name": "Inugami",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Nov 4",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0ef7e39e-9d8e-4f52-a996-b25bfa202f3c",
+        "name": "Inuhoo",
+        "gender": "m",
+        "height": "210.00",
+        "extras": {
+            "Birthday": "Dec 30",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "99b0de50-e9f3-47ff-b09a-f44cb4509fda",
+        "name": "Muchi",
+        "gender": "m",
+        "height": "197.00",
+        "extras": {
+            "Birthday": "Feb 6",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8787fd28-9306-45a4-895f-3fe1b2d7587e",
+        "name": "Ryouta Neko",
+        "gender": "m",
+        "height": "148.00",
+        "extras": {
+            "Birthday": "Nov 23",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "abc07da7-56d9-486d-b90c-6c7da11b4468",
+        "name": "Senba",
+        "gender": "o",
+        "height": "27.00",
+        "extras": {
+            "Birthday": "Jul 20",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bba038bb-39a1-4cbb-a926-35f6ee54146f",
+        "name": "Sodemogi",
+        "gender": "m",
+        "height": "35.00",
+        "extras": {
+            "Birthday": "Oct 25",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3a38ecf1-5858-4dd3-be98-92d717948b43",
+        "name": "Ungaikyo",
+        "gender": "m",
+        "height": "273.00",
+        "extras": {
+            "Birthday": "Sep 13",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

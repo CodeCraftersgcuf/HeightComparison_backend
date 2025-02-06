@@ -1,0 +1,19 @@
+[
+    {
+        "id": "ffcdbc01-1404-495a-879d-e59d4f394cfe",
+        "name": "Kazuma Satou",
+        "gender": "m",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Jun 7",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kono Subarashii Sekai ni Shukufuku wo Kurenai Densetsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

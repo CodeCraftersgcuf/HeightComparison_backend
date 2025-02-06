@@ -1,0 +1,70 @@
+[
+    {
+        "id": "b889cbd4-711f-4dbb-850f-91acc9e90293",
+        "name": "Kyouko Mogami",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Dec 25",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Skip Beat",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ba014293-ed91-4117-a6c8-f8424c73b8ff",
+        "name": "Ren Tsuruga",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": "Feb 10",
+            "Age": "20-21",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Skip Beat",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c20dad86-ea7e-44c3-b053-0708b3c4e18f",
+        "name": "Ruriko Matsunai",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Skip Beat",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "58baa4df-737e-4380-964a-9cbc54413e9a",
+        "name": "Shoutarou Fuwa",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "May 29",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Skip Beat",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "2fd166b3-3dcd-4770-81c7-19c6a4a27483",
+        "name": "Medea",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fatestay night Unlimited Blade Works 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

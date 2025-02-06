@@ -1,0 +1,19 @@
+[
+    {
+        "id": "d2bb2871-80dc-4cd3-913f-1a81b4d33b2d",
+        "name": "Mary Saotome",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Mar 8",
+            "Age": "16-17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kakegurui Twin",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

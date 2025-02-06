@@ -1,0 +1,155 @@
+[
+    {
+        "id": "dafa3cd8-c4f8-4384-828e-6213fb448323",
+        "name": "Aries Spring",
+        "gender": "o",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Apr 20",
+            "Age": "17",
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kanata no Astra",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2b5dde3f-35a0-4db5-b9f0-83c0f023749d",
+        "name": "Charce Lacroix",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Apr 28",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kanata no Astra",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b370d397-4dde-4997-9f08-aff5474847bd",
+        "name": "Funicia Raffaeli",
+        "gender": "f",
+        "height": "136.00",
+        "extras": {
+            "Birthday": "Oct 19",
+            "Age": "10",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kanata no Astra",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9381a9c4-de6e-4079-8883-48637abeddcc",
+        "name": "Kanata Hoshijima",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "May 5",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kanata no Astra",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "efd0e0b2-b9d9-4afa-bd0d-930ae0fcf204",
+        "name": "Luca Esposito",
+        "gender": "m",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Aug 19",
+            "Age": "17",
+            "gender": "Non-binary",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kanata no Astra",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "138e08b3-d42c-4c14-8912-e9a6520a173c",
+        "name": "Quitterie Raffaeli",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Jun 1",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kanata no Astra",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8266c54b-895d-40a2-ae8b-e596c25a4fcb",
+        "name": "Ulgar Zweig",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Aug 30",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kanata no Astra",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ae957e54-d61d-414b-8337-696e02144396",
+        "name": "Yun-hua Lu",
+        "gender": "f",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Aug 25",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kanata no Astra",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c1089ea2-ba53-4208-a592-e9a91694deae",
+        "name": "Zack Walker",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Jun 9",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kanata no Astra",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

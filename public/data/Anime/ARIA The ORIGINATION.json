@@ -1,0 +1,19 @@
+[
+    {
+        "id": "34329554-3041-4ed4-95cf-c1404b6429a4",
+        "name": "Alice Carroll",
+        "gender": "f",
+        "height": "145.00",
+        "extras": {
+            "Birthday": "Sep 1",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ARIA The ORIGINATION",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

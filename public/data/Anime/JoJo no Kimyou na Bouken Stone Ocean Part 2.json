@@ -1,0 +1,121 @@
+[
+    {
+        "id": "6ed6eeae-1806-4f98-8e1f-5f7f730a667f",
+        "name": "Donatello Versace",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "1986",
+            "Age": "25",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Stone Ocean Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "727ab471-725d-495b-a855-7e1017cced78",
+        "name": "Emporio Alnino",
+        "gender": "m",
+        "height": "140.00",
+        "extras": {
+            "Birthday": "Feb 17, 2000",
+            "Age": "11-12",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Stone Ocean Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "37ff9728-c769-4f68-9e31-f0ca77a6b70d",
+        "name": "Enrico Pucci",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "Jun 5, 1972",
+            "Age": "39+",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Stone Ocean Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9417de60-ab23-4ea3-9ba6-3ae6d49fc3fe",
+        "name": "Foo Fighters",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "1989",
+            "Age": "22",
+            "gender": "Non-binary",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Stone Ocean Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "46180461-a05c-4638-835c-0c976e4f844c",
+        "name": "Hermes Costello",
+        "gender": "f",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "1990",
+            "Age": "21",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Stone Ocean Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3bbe0246-491a-4ba2-bbeb-acf525c6dffa",
+        "name": "Narciso Annasui",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "1986",
+            "Age": "25",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Stone Ocean Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f9eb47dd-298a-4b0d-8ac4-cbd7476909af",
+        "name": "Weather Report",
+        "gender": "m",
+        "height": "192.00",
+        "extras": {
+            "Birthday": "Jun 5, 1972",
+            "Age": "39+",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Stone Ocean Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

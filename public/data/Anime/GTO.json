@@ -1,0 +1,19 @@
+[
+    {
+        "id": "856bc1b2-9642-43d4-8d83-104fb23758e0",
+        "name": "Fuyumi Kujirakawa",
+        "gender": "f",
+        "height": "181.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "GTO",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

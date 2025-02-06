@@ -1,0 +1,19 @@
+[
+    {
+        "id": "3d4a6fb7-be8d-4858-88c0-bb94685a495b",
+        "name": "Kengo Akechi",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Feb 11",
+            "Age": "28",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kindaichi Shounen no Jikenbo TV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "id": "e7fe0253-06aa-4016-92c3-5832eead43d7",
+        "name": "Hiroto Tonomachi",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16",
+            "gender": null,
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Date A Live IV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d1f17347-82c4-42a6-b599-7b3ae2fcb8e7",
+        "name": "Kotori Itsuka",
+        "gender": "f",
+        "height": "145.00",
+        "extras": {
+            "Birthday": "Aug 3",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Date A Live IV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cab70e45-5155-4230-bf67-f391f5ad8778",
+        "name": "Kurumi Tokisaki",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Jun 10",
+            "Age": "17 (physically)",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Date A Live IV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ed7cafdc-4b6d-4d0c-b39f-ea7cb43a4202",
+        "name": "Mukuro Hoshimiya",
+        "gender": "f",
+        "height": "148.00",
+        "extras": {
+            "Birthday": "Sep 12",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Date A Live IV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "26376157-903d-4dfc-b6e1-36648fd2f3a8",
+        "name": "Nia Honjou",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Feb 29",
+            "Age": "18-19",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Date A Live IV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5b61c664-a11f-4831-9512-4c1fbe503594",
+        "name": "Origami Tobiichi",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Nov 11",
+            "Age": "16-18",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Date A Live IV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c8b2d8c5-3939-462d-9aed-b9497df16a1f",
+        "name": "Reine Murasame",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Date A Live IV",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ff6c09f2-69f5-4350-94a7-1644324ba565",
+        "name": "Shidou Itsuka",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "May 27",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Date A Live IV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "03c18b89-abbe-4105-a743-b12956b2da4e",
+        "name": "Tamae Okamine",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "29",
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Date A Live IV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

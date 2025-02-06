@@ -1,0 +1,342 @@
+[
+    {
+        "id": "d38d206b-10d2-46a6-9ebb-5dbe83c3ac5e",
+        "name": "Ayako 'aya' Fujisaki",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6c6e3e28-3830-459e-8774-770647a2c5cc",
+        "name": "Celine",
+        "gender": "f",
+        "height": "47.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "36a06cff-06e9-4b58-bb45-65c7869fdbc7",
+        "name": "Golden Darkness",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "71567fc3-6631-4eb4-8481-d89dec3d9d61",
+        "name": "Haruna Sairenji",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4cb87245-8244-44df-bc00-9371bf90c962",
+        "name": "Kyoko Kirisaki",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "aa235f1f-3eba-4eb6-9ad9-32fa255fd470",
+        "name": "Lala Satalin Deviluke",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5d8f22cb-1d64-4f16-9408-b3ac761c9177",
+        "name": "Mea Kurosaki",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "56a0af3e-5635-4516-8f19-461b61e07e1e",
+        "name": "Mikan Yuuki",
+        "gender": "f",
+        "height": "149.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7450b25b-add4-4009-b33b-4e9033f025a3",
+        "name": "Momo Belia Deviluke",
+        "gender": "f",
+        "height": "151.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2257e70a-eb4f-44a1-aecd-b4c711490751",
+        "name": "Nulla Astar Deviluke",
+        "gender": "f",
+        "height": "151.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2d9ccf18-955d-48ac-bc1f-59ed81be7de2",
+        "name": "Oshizu Murasame",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6c33766e-d697-4afd-a8a5-8af11527555e",
+        "name": "Ren Elsie Jewelria",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3b8dfacf-8739-4e80-a001-5c1270dd2ba5",
+        "name": "Rin Kujou",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2db11933-284f-4a06-b6cf-e7de29cb33d3",
+        "name": "Risa Momioka",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b0261804-36ae-4afe-b8ff-cc0a93c851ce",
+        "name": "Run Elsie Jewelria",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2ab1cddf-574a-4a23-a191-210b21bb9d1e",
+        "name": "Ryoko Mikado",
+        "gender": "f",
+        "height": "171.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c337c025-ad0b-479c-9b7a-640031afe1bd",
+        "name": "Saki Tenjoin",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3e86a139-e816-49c5-b6cb-456f512cb254",
+        "name": "Tearju Lunatique",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2ec2ed88-0656-4cca-8019-b92b925731e8",
+        "name": "Yui Kotegawa",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "95dcd27a-39b6-4c27-84cd-47327230f193",
+        "name": "Zastin Deviluke",
+        "gender": "m",
+        "height": "205.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "To Love-Ru (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

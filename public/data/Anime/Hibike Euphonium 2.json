@@ -1,0 +1,70 @@
+[
+    {
+        "id": "940cef10-4451-4dfb-9547-f36d97ccf430",
+        "name": "Asuka Tanaka",
+        "gender": "f",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Dec 25",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hibike Euphonium 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b2669c66-e547-44a9-96d6-4bdd61a434ab",
+        "name": "Natsuki Nakagawa",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Jun 23",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hibike Euphonium 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f1002808-dc96-456a-bdae-17259d2491f3",
+        "name": "Reina Kousaka",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "May 15",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hibike Euphonium 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a242d2e7-fb56-444f-9fb3-52a63cbe189f",
+        "name": "Yuuko Yoshikawa",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Apr 15",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hibike Euphonium 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

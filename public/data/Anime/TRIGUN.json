@@ -1,0 +1,19 @@
+[
+    {
+        "id": "73c16ad0-ada7-4884-b861-85d0e4551bc6",
+        "name": "Vash The Stampede",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Jul 21, 2455",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "TRIGUN",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

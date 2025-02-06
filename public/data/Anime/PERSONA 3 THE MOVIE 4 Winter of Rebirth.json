@@ -1,0 +1,53 @@
+[
+    {
+        "id": "6e6f2c78-fdcf-4ce3-a180-417bd288f492",
+        "name": "Akihiko Sanada",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Sep 22, 1991",
+            "Age": "17-18",
+            "gender": null,
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "PERSONA 3 THE MOVIE 4 Winter of Rebirth",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "636a668e-e394-4bf9-ab0f-99a06deb3b2d",
+        "name": "Makoto Yuuki",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "1992",
+            "Age": "16-17",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "PERSONA 3 THE MOVIE 4 Winter of Rebirth",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ed198fc1-5601-41eb-b652-83b7a8c76d7b",
+        "name": "Yukari Takeba",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "Oct 19, 1992",
+            "Age": "16-17",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "PERSONA 3 THE MOVIE 4 Winter of Rebirth",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

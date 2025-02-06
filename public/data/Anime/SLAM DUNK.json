@@ -1,0 +1,36 @@
+[
+    {
+        "id": "1b9835b6-154c-43e6-9271-11f788b1feba",
+        "name": "Kenji Fujima",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SLAM DUNK",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "eea14a2a-0d47-42de-955e-227a619da39f",
+        "name": "Toru Hanagata",
+        "gender": "m",
+        "height": "197.00",
+        "extras": {
+            "Birthday": "Dec 9",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SLAM DUNK",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

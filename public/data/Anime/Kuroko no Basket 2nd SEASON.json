@@ -1,0 +1,36 @@
+[
+    {
+        "id": "acd04bf5-7777-4753-8f6f-e34cdbe0abc3",
+        "name": "Tomoki Tsugawa",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Mar 5",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 2nd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2b2d9a01-9a14-47ff-8363-326283deba27",
+        "name": "Tsutomu Iwamura",
+        "gender": "m",
+        "height": "187.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 2nd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

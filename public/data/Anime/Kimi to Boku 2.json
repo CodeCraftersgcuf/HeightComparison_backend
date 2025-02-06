@@ -1,0 +1,19 @@
+[
+    {
+        "id": "3f0335a0-f15a-4793-92c1-10a3049ea634",
+        "name": "Shun Matsuoka",
+        "gender": "m",
+        "height": "169.00",
+        "extras": {
+            "Birthday": "May 3",
+            "Age": "16-17",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimi to Boku 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

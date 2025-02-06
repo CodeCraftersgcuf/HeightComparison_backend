@@ -1,0 +1,19 @@
+[
+    {
+        "id": "78a7844c-4b19-4c13-8f04-382ceac44c4c",
+        "name": "Rita Rossweisse",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Mar 1",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Benghuai 3 Tianqiong Liuxing",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

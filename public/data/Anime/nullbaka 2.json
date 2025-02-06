@@ -1,0 +1,206 @@
+[
+    {
+        "id": "5af382d8-a2f9-4882-937f-5e88ffd6c3a9",
+        "name": "Daisen Rokuriki",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "25",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullbaka 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "07333987-c000-4b50-ab56-291db6967770",
+        "name": "Enki Gokuu",
+        "gender": "m",
+        "height": "304.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "37",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullbaka 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e1b026d9-5553-445b-a075-fba7abf24f68",
+        "name": "Hajime Sugoroku",
+        "gender": "m",
+        "height": "199.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "29",
+            "gender": null,
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullbaka 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d0e4e8a5-4e5c-4186-a7eb-e33ff935c322",
+        "name": "Houzuki Sanzou",
+        "gender": "f",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "22",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullbaka 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6bf05908-eb55-4949-bae3-35fa9c276b2c",
+        "name": "Inori Hakkai",
+        "gender": "f",
+        "height": "220.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "35",
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullbaka 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "78d97244-3e14-4bb1-acc3-a26dcc3745b3",
+        "name": "Mao Nimaijita",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "24",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullbaka 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "94f18c9f-f917-499d-b933-11bcebfe9752",
+        "name": "Momoko Hyakushiki",
+        "gender": "f",
+        "height": "181.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "29",
+            "gender": null,
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullbaka 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b68b7924-c042-490f-97e9-5a968a7060ce",
+        "name": "Noriko Sanzou",
+        "gender": "f",
+        "height": "174.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "30",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullbaka 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2cda6ec4-19b2-4448-90f4-5eb2f7f9cae7",
+        "name": "Ruka Gojou",
+        "gender": "f",
+        "height": "174.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "31",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullbaka 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ade8b37b-8570-4098-ab09-383ad5745a34",
+        "name": "Samon Gokuu",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "27",
+            "gender": null,
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullbaka 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9607d512-b0ac-4819-9a59-9f9cc954b542",
+        "name": "Seitarou Tanabata",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "23",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullbaka 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0388fa82-8ca4-4c6e-853f-f850183b09e6",
+        "name": "Yamato Godai",
+        "gender": "m",
+        "height": "202.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "32",
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullbaka 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "bcb2131d-6d1d-4986-9f3a-64792140689f",
+        "name": "Hokuto Ijuuin",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Feb 14",
+            "Age": "20",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "THE IDOLMSTER",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

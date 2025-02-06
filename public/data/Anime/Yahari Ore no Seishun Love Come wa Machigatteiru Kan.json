@@ -1,0 +1,19 @@
+[
+    {
+        "id": "d03eb431-8ac3-4764-86e5-fe1030ef3fcf",
+        "name": "Hachiman Hikigaya",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Aug 8, 1994",
+            "Age": "16-17",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yahari Ore no Seishun Love Come wa Machigatteiru Kan",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

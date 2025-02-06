@@ -1,0 +1,53 @@
+[
+    {
+        "id": "65c6b88a-2761-4557-bb3b-ec63a4c3bdcc",
+        "name": "Asuka Langley Souryuu",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Dec 4, 2001",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shin Evangelion Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7a0ff56a-10ad-4804-bcfe-58d56ab13fe4",
+        "name": "Rei Ayanami",
+        "gender": "f",
+        "height": "149.00",
+        "extras": {
+            "Birthday": "Mar 30, 2001",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shin Evangelion Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "eb395d86-75f0-4472-9337-521f021f5533",
+        "name": "Shinji Ikari",
+        "gender": "m",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Jun 6, 2001",
+            "Age": "14",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shin Evangelion Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

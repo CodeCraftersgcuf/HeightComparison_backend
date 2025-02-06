@@ -1,0 +1,19 @@
+[
+    {
+        "id": "4059daf2-1692-49bf-8b11-14a4ad0871ce",
+        "name": "Nagisa Kubo",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Aug 2",
+            "Age": "15-16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kubosan wa Mob wo Yurusanai",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

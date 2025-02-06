@@ -1,0 +1,87 @@
+[
+    {
+        "id": "dd80d041-ed57-4db1-a3ba-762cbbbbad2b",
+        "name": "Futaba Kon",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "Sep 8",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Soredemo Machi wa Mawatteiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0c16be00-08ca-4228-a3a6-37fafe9fa20a",
+        "name": "Hiroyuki Sanada",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Feb 16",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Soredemo Machi wa Mawatteiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "079c4a5b-dcc8-4f4f-83be-4233a71410cc",
+        "name": "Hotori Arashiyama",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "May 10",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Soredemo Machi wa Mawatteiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0bade4c1-d2c3-4ada-bd7c-c2c02c68f81c",
+        "name": "Toshiko Tatsuno",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Sep 10",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Soredemo Machi wa Mawatteiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f1948973-a201-4e56-b2e7-4afee239d919",
+        "name": "Uki Isohata",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Apr 6",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Soredemo Machi wa Mawatteiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

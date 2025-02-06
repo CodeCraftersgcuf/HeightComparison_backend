@@ -1,0 +1,19 @@
+[
+    {
+        "id": "4095a3fa-2d2e-4c67-a892-41fbe135d1bb",
+        "name": "Toua Tokuchi",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Jul 7, 1978",
+            "Age": "20",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "One Outs",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

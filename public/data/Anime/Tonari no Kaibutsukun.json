@@ -1,0 +1,104 @@
+[
+    {
+        "id": "72ecc129-7590-4460-a03e-c55a540ee9a3",
+        "name": "Chizuru Ooshima",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Jan 19",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tonari no Kaibutsukun",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cde287a1-a28a-43b0-8fef-08a47ca24224",
+        "name": "Haru Yoshida",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Apr 2",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tonari no Kaibutsukun",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0855c030-fe7f-427c-8220-7ce8785042a7",
+        "name": "Kenji Yamaguchi",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "May 9",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tonari no Kaibutsukun",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3e92c17a-5215-412e-a989-30f0f63f6b72",
+        "name": "Shizuku Mizutani",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Feb 14",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tonari no Kaibutsukun",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2c40a970-cc74-4418-8a0c-325e9d2f96d7",
+        "name": "Souhei Sasahara",
+        "gender": "m",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Oct 16",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tonari no Kaibutsukun",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f9f1587e-51aa-4e4e-8e66-0061283f8c8e",
+        "name": "Yuuzan Yoshida",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Nov 5",
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tonari no Kaibutsukun",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

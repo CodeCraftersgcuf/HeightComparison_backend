@@ -1,0 +1,19 @@
+[
+    {
+        "id": "a3b9b8a8-11a5-42fd-8be2-fddf3554e8f5",
+        "name": "Hayate Ichikura",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Apr 24",
+            "Age": "20",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Cool Doji Danshi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

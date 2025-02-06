@@ -1,0 +1,87 @@
+[
+    {
+        "id": "2e6ab18e-3f43-43ea-b833-642b1c252a2a",
+        "name": "Amaymon",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mairimashita Irumakun 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5f5e46e3-9dd9-49a5-977b-0dba70234c51",
+        "name": "Amuryllis Asmodeus",
+        "gender": "f",
+        "height": "192.00",
+        "extras": {
+            "Birthday": "Jun 13",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mairimashita Irumakun 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "deed56a2-fcbd-4903-9a83-3bfe2d6e57c2",
+        "name": "Baal",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": "Apr 1",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mairimashita Irumakun 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "629563d6-2070-42c3-9efa-6ff2daf0e41c",
+        "name": "Clara Valac",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "May 5",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mairimashita Irumakun 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1e859ea2-abf1-406f-8964-c4329e19b055",
+        "name": "Henri Azazel",
+        "gender": "m",
+        "height": "195.00",
+        "extras": {
+            "Birthday": "Jun 1",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mairimashita Irumakun 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

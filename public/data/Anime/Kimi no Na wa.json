@@ -1,0 +1,19 @@
+[
+    {
+        "id": "dc1b3d2f-677c-4f6d-9c52-530a45077d97",
+        "name": "Mitsuha Miyamizu",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Dec 1",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimi no Na wa",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

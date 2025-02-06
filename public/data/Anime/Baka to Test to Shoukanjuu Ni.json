@@ -1,0 +1,36 @@
+[
+    {
+        "id": "9ff42162-e043-4df9-a3e7-064aa0cf503f",
+        "name": "Kouta Tsuchiya",
+        "gender": "m",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Sep 23",
+            "Age": "16",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Baka to Test to Shoukanjuu Ni",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "198dc30c-fec8-4fd7-b041-82bfca9319d8",
+        "name": "Yuuji Sakamoto",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Jun 1",
+            "Age": "17-18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Baka to Test to Shoukanjuu Ni",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

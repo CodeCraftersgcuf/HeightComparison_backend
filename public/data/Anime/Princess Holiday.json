@@ -1,0 +1,19 @@
+[
+    {
+        "id": "21484be8-51a6-45d0-93fd-cb4a93632a40",
+        "name": "Diana Peschka Holly Eryngii",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Princess Holiday",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "id": "1a038398-228e-4eb4-91d5-94cfca1b86fd",
+        "name": "Kanade Ooe",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "Nov 3",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Chihayafuru 3",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "620f02b2-5a82-4882-a07d-a9bde9c8c7f5",
+        "name": "Shinobu Wakamiya",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Apr 22",
+            "Age": "16-18",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Chihayafuru 3",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "22bbba93-e96f-462f-8db7-6d80dd5e84f1",
+        "name": "Sumire Hanullo",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Aug 7",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Chihayafuru 3",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8fa882b1-bad4-4202-8464-4353ac318f2e",
+        "name": "Taichi Mashima",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Apr 2",
+            "Age": "12-18",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Chihayafuru 3",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2a2b226e-37aa-4921-8c58-6c3c4a0ac8fa",
+        "name": "Tsutomu Komano",
+        "gender": "m",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Feb 16",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Chihayafuru 3",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0bdab19e-0845-4a43-a073-b2f85ca610fb",
+        "name": "Yuusei Nishida",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Nov 29",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Chihayafuru 3",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

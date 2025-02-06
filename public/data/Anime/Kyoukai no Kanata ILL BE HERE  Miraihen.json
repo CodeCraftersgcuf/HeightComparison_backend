@@ -1,0 +1,138 @@
+[
+    {
+        "id": "557b4e6b-4439-4ea2-aa25-ad6b828e79ae",
+        "name": "Ai Shindou",
+        "gender": "f",
+        "height": "146.00",
+        "extras": {
+            "Birthday": "Aug 25",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kyoukai no Kanata ILL BE HERE  Miraihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ab3925f6-d6a3-4d6f-a416-0917400d5916",
+        "name": "Ayaka Shindou",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "May 22",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kyoukai no Kanata ILL BE HERE  Miraihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8fe3c895-bdbb-48eb-bfaf-ba67a9fd16aa",
+        "name": "Izumi Nase",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Apr 7",
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": "O-"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kyoukai no Kanata ILL BE HERE  Miraihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0fb3d24a-214b-44b4-b483-be8f6ab5af52",
+        "name": "Mirai Kuriyama",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Mar 31",
+            "Age": "14-15",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kyoukai no Kanata ILL BE HERE  Miraihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7dd87da9-4509-4bbe-978a-3390abcabbdf",
+        "name": "Mitsuki Nase",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Nov 1",
+            "Age": "16-17",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kyoukai no Kanata ILL BE HERE  Miraihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5ce33f47-ea21-40bf-8e44-812e547f2009",
+        "name": "Sakura Inami",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "Apr 29",
+            "Age": "16-17",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kyoukai no Kanata ILL BE HERE  Miraihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8349d724-75ae-4338-be7c-f8a0725a3ecb",
+        "name": "Shizuku Ninomiya",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Jun 18",
+            "Age": "23",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kyoukai no Kanata ILL BE HERE  Miraihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f44efb52-9041-44b4-8fd6-aad1e910558d",
+        "name": "Yayoi Kanbara",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Mar 13",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kyoukai no Kanata ILL BE HERE  Miraihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

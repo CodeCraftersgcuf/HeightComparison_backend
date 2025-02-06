@@ -1,0 +1,53 @@
+[
+    {
+        "id": "cc8b5ddc-cdd5-4e11-aa2f-a4c66cd1e57b",
+        "name": "Kanade Tachibana",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Angel Beats",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b5f99533-3a45-40f7-83a2-4300659a3808",
+        "name": "Yuri Nakamura",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Angel Beats",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d41ae3af-f849-47d9-8a86-164452ad2b93",
+        "name": "Yuzuru Otonashi",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Angel Beats",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

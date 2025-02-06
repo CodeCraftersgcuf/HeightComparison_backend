@@ -1,0 +1,19 @@
+[
+    {
+        "id": "ad9b6b70-374f-45df-bdd9-74cdfc489900",
+        "name": "Lio Shirazumi",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17-21",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kara no Kyoukai Satsujin Kousatsu Kou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

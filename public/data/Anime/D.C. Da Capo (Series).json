@@ -1,0 +1,1005 @@
+[
+    {
+        "id": "b5fff4c2-8794-4506-8805-66c97e3bbe44",
+        "name": "Akane Hanasaki",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ccc0ca5a-4b42-4982-a698-5a7f27040322",
+        "name": "Akari Shirakawa",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "677d3a5b-dc56-44f0-9f88-f2b0a48fb60b",
+        "name": "Alice Tsukishiro",
+        "gender": "f",
+        "height": "141.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a0b64a1d-e33f-4ac8-94af-cf225993f036",
+        "name": "Anzu Yukimura",
+        "gender": "f",
+        "height": "143.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "54693e6d-6007-4049-b563-f6dbd515a048",
+        "name": "Aoi Hinomoto",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ec4fe691-1f0d-4790-8a99-089dc0cb5db1",
+        "name": "Aoi Shinomiya",
+        "gender": "f",
+        "height": "180.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5c612ec5-5fb6-4b5d-9878-3ecf3231f4b9",
+        "name": "Arisu Sagisawa",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "eb729bb9-dbe5-4e42-88c1-2c4005836499",
+        "name": "Charles Yoshino / Charles Maroth",
+        "gender": "m",
+        "height": "161.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2a91357f-c969-482e-88cc-0a56b3823a25",
+        "name": "Chiyoko Hinohara",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c1e34ecd-53e7-43db-a9ad-f5dd8b453395",
+        "name": "Edward Watson",
+        "gender": "m",
+        "height": "159.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "aa5b2b6f-1393-454e-b514-4e5ac8636813",
+        "name": "Elizabeth",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a56b5b36-7a24-42af-8895-54cfbfd0c308",
+        "name": "Gen Tokisaka",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "373941cd-ee9e-4893-adbf-1dd16475ea2d",
+        "name": "Himeno Katsuragi",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f7cacd4f-14d5-4fe1-b28c-fae91e13af7d",
+        "name": "Hiyori Shirakawa",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d07271cb-5121-4e64-ada5-95bac6ac5e57",
+        "name": "Ian Selway",
+        "gender": "m",
+        "height": "169.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "96f1f7ae-b5b7-4f40-b35f-fb210d4897d6",
+        "name": "Ichito Tokisaka",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2148e781-f19e-40d3-89ec-e610ef160094",
+        "name": "Izumi Sogou",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "66ebbe12-5fb9-406c-be88-1ea78ac48f8b",
+        "name": "Kako Yasaka",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f979881f-54e9-4f28-820a-ace96af16b34",
+        "name": "Kanata",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "dc30a16a-e6ba-409f-bb98-791bc3991fd0",
+        "name": "Kei Shinomiya",
+        "gender": "m",
+        "height": "186.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c76fa731-8958-4762-ad36-b0da37ff1e0e",
+        "name": "Koko Tsukishima",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c5e388a5-ce8c-4f23-acee-8bb3daa0560b",
+        "name": "Kotori Shirakawa",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0393323f-798e-491f-b2a3-ebd13f249946",
+        "name": "Kouhei Shinomiya",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4cbb6dde-7071-4ada-a0f3-1acada3ab554",
+        "name": "Kousuke Edogawa",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3bd47e0b-c22a-49f0-9594-93a2a288fb3a",
+        "name": "Maika Mizukoshi",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "26d3ee7d-d1b2-4bf6-982b-08198cf68081",
+        "name": "Mary Holmes",
+        "gender": "f",
+        "height": "151.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e2be43c5-33e3-4542-8f14-22a6d5f09037",
+        "name": "Maya Sawai",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0567d1ea-aede-4c6f-96ae-896ff9e45cdb",
+        "name": "Mayuki Kousaka",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7045ea2e-75dd-47bc-9842-5d04fcae3794",
+        "name": "Menoa Yasaka",
+        "gender": "f",
+        "height": "144.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c4dec9c7-353a-44a2-bcfd-cc3f6e5addee",
+        "name": "Miharu Amakase",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c2c08bda-6d25-4fa4-88bb-2cc61becb782",
+        "name": "Miki Asahina",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "aeb8fb69-97e5-4c4d-ad70-765759b0caa0",
+        "name": "Mikoto",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f082dbcc-9515-4ad9-bb0a-eb882887014b",
+        "name": "Minatsu Amakase",
+        "gender": "f",
+        "height": "151.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "34bd0c94-4619-461d-922e-f978166b2883",
+        "name": "Miu Mishima",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d89cdd87-35ac-4d8d-8833-30c0c829a2dd",
+        "name": "Mizuha Sakuragi",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "736befb2-9c6a-47bf-a673-f128a4b61d99",
+        "name": "Nemu Asakura",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "11915581-7040-4c5b-bc99-2564b83fac77",
+        "name": "Nino Tokisaka",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d1edeaaa-a817-47a8-9b5e-67ee4339bb79",
+        "name": "Nullaka Shirakawa",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "afaceded-e22a-4d80-b1a7-979628f76567",
+        "name": "Otome Asakura",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "809d5296-4bc4-4d6d-a6a5-d141ae12f687",
+        "name": "Ricca Morizono",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "57966457-0b0f-4d2d-be4f-5f8ba316c53c",
+        "name": "Rurika Ordet",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a2fa5a5c-a217-4935-b546-60ac31ea5785",
+        "name": "Ryouhei Shinomiya",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "74bd5a5b-0533-42a9-87ab-b02ef7b79d08",
+        "name": "Ryuunosuke",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d3152adf-984b-486d-96a5-4138c309bc0b",
+        "name": "Sakura Yoshino",
+        "gender": "f",
+        "height": "140.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "24967c72-0130-4ec3-9e40-2a015d0458f1",
+        "name": "Sara Rukawa / Sara Chrysalis",
+        "gender": "f",
+        "height": "148.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4dd1ea2c-b548-4c2f-a4ff-e0974ab532fa",
+        "name": "Shiina Houjou",
+        "gender": "f",
+        "height": "144.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d0769d0d-17c4-4b62-abc3-274867e3c287",
+        "name": "Shiki Edogawa",
+        "gender": "m",
+        "height": "150.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6e3d5470-1db3-486c-92ec-6f8ad3826170",
+        "name": "Shio Koujou",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e21b9a8a-529c-4ec0-ad47-0957f2d13bb0",
+        "name": "Sorane Oumi",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f9a386a2-f053-433d-8c08-899470b1aec9",
+        "name": "Suginami",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e8c8b0bc-b1a0-45c8-ab5d-c4a06902ac24",
+        "name": "Takaaki Kojou",
+        "gender": "m",
+        "height": "189.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "dfe5a05e-6bed-4bfd-8203-696aacb600f0",
+        "name": "Tamaki Konomiya",
+        "gender": "m",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e2f3b641-7d76-46a7-b4cf-25a569e991fe",
+        "name": "Tomoe Gojouin",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4519a625-fc4b-4ed6-b022-a96994fd59cb",
+        "name": "Wataru Itabashi",
+        "gender": "m",
+        "height": "163.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "79c4520a-66cb-4bcb-8f4a-c262ba3a8268",
+        "name": "Yukina Tokisaka",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "175885a7-e7e9-4f5d-b006-612e247b46a2",
+        "name": "Yume Asakura",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "62b111e1-b0cb-40c2-be2b-4550fff4c525",
+        "name": "Yuuhi Takanashi",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8bb7c26f-6b94-4a98-ab13-f8d8f2bb7591",
+        "name": "Yuzu Kohinata",
+        "gender": "f",
+        "height": "116.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3cb96306-20bc-4e78-a839-aa8fb39ef49e",
+        "name": "Yuzu Kohinata (adult)",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "D.C. Da Capo (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

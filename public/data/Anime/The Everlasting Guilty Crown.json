@@ -1,0 +1,19 @@
+[
+    {
+        "id": "8bd8b6df-52fe-4078-8064-3cc61acd5d9e",
+        "name": "Inori Yuzuriha",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Everlasting Guilty Crown",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

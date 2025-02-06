@@ -1,0 +1,70 @@
+[
+    {
+        "id": "0958e67c-8b7c-43b0-bd72-f741f1ce320f",
+        "name": "Chris Yuu Takigawa",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Diamond no Ace Second Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9c654153-97a9-4dba-a66d-1b08fb07e13d",
+        "name": "Eijun Sawamura",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "May 15",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Diamond no Ace Second Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "64dd3b61-54aa-4c2f-9bbe-125c0e862619",
+        "name": "Kazuya Miyuki",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Nov 17",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Diamond no Ace Second Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e1fb48f8-6136-4997-ac11-1ffc37634cb8",
+        "name": "Youichi Kuramochi",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "May 17",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Diamond no Ace Second Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

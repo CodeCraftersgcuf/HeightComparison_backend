@@ -1,0 +1,53 @@
+[
+    {
+        "id": "b62b510a-ce87-492f-95d3-8815945cf19f",
+        "name": "Hidenori Tabata",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "15-16",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Danshi Koukousei no Nichijou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9fdba518-3ec2-4087-8b2c-78a88a71c092",
+        "name": "Tadakuni",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "15-16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Danshi Koukousei no Nichijou",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c97b22d1-c5fd-4db6-848e-a86d0c59b3b2",
+        "name": "Yoshitake Tanaka",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "15-16",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Danshi Koukousei no Nichijou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "id": "5bbacbe8-0f26-4a2a-9cc7-a4ae1ee4635d",
+        "name": "Mayu Kanzaki",
+        "gender": "f",
+        "height": "142.00",
+        "extras": {
+            "Birthday": "May 30",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LovelyComplex",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "90bfdbfc-371e-4a00-9778-e88bb9ba2223",
+        "name": "Risa Koizumi",
+        "gender": "f",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Aug 3",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LovelyComplex",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "103be0dd-35a2-4337-9d38-fc2d9b7bb5bd",
+        "name": "Seiko Kotobuki",
+        "gender": "f",
+        "height": "148.00",
+        "extras": {
+            "Birthday": "Dec 25",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LovelyComplex",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

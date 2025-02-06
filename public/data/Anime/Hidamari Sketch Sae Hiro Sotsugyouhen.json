@@ -1,0 +1,53 @@
+[
+    {
+        "id": "978b7456-c96e-4c3c-9f05-c28df9474c29",
+        "name": "Miyako",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Oct 10",
+            "Age": "15-16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hidamari Sketch Sae Hiro Sotsugyouhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1f40852a-626f-4d1a-8f74-b21212aef3c4",
+        "name": "Nazuna",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hidamari Sketch Sae Hiro Sotsugyouhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "696cd986-e0a1-4445-b16a-33c5ee95fa30",
+        "name": "Nori",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hidamari Sketch Sae Hiro Sotsugyouhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

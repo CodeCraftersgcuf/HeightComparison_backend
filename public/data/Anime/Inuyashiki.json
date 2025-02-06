@@ -1,0 +1,19 @@
+[
+    {
+        "id": "2c254780-1fb5-49e9-8aeb-6d111825b16b",
+        "name": "Ichirou Inuyashiki",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "May 19, 1959",
+            "Age": "58",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Inuyashiki",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

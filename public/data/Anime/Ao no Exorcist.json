@@ -1,0 +1,19 @@
+[
+    {
+        "id": "73fc0970-2edf-4306-9433-3a926fca1c74",
+        "name": "Takara Nemu",
+        "gender": "m",
+        "height": "163.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao no Exorcist",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

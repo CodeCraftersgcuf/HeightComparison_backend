@@ -1,0 +1,53 @@
+[
+    {
+        "id": "a8ae6354-e25f-4b78-bf0b-6f84999421f9",
+        "name": "Eru Chitanda",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hyouka",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7e6356ad-df00-4ce2-9ece-d205ab0f3a50",
+        "name": "Houtarou Oreki",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Apr 28, 1984",
+            "Age": "16-17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hyouka",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8d4638a4-3299-456f-868e-9a60519e99e7",
+        "name": "Mayaka Ibara",
+        "gender": "f",
+        "height": "148.00",
+        "extras": {
+            "Birthday": "May 23",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hyouka",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

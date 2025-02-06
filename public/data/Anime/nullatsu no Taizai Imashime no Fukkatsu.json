@@ -1,0 +1,36 @@
+[
+    {
+        "id": "2c659ba8-8a15-49df-a1de-e7d4f0a13bfe",
+        "name": "Gilthunder",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Aug 26",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullatsu no Taizai Imashime no Fukkatsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "232fbd4d-021b-4731-9e8b-47762746fb68",
+        "name": "Monspeet",
+        "gender": "m",
+        "height": "182.00",
+        "extras": {
+            "Birthday": "Aug 8",
+            "Age": "415",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullatsu no Taizai Imashime no Fukkatsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,155 @@
+[
+    {
+        "id": "0b629577-2d67-45d1-aba5-48e8477801cd",
+        "name": "Henri Lucas",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Feb 14",
+            "Age": "26",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yumeiro Ptissire",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0941a308-b4b3-4808-92ea-0c75431b099c",
+        "name": "Ichigo Amano",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Jan 5",
+            "Age": "14-16",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yumeiro Ptissire",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a82a50a3-4e2d-4e03-9203-2523a9dc5277",
+        "name": "Makoto Kashino",
+        "gender": "m",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Apr 18",
+            "Age": "14-16",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yumeiro Ptissire",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "536c4ef9-fbfb-45c1-8a21-c27990ddaa1d",
+        "name": "Mari Tennouji",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Nov 2",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yumeiro Ptissire",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f8c8d3d6-da3b-43f2-87ff-1fae9a77b1a6",
+        "name": "Mika Chinen",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Jul 11",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yumeiro Ptissire",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e511f109-bf61-493b-858b-08f97d021ba7",
+        "name": "Natsuki Aragaki",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Aug 16",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yumeiro Ptissire",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "91ffe147-4805-4941-8985-01b48b4ace84",
+        "name": "Rumi Katou",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Jun 11",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yumeiro Ptissire",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b5b9e43b-c808-419a-b6b0-8f16db39b832",
+        "name": "Satsuki Hanabusa",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Oct 2",
+            "Age": "14",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yumeiro Ptissire",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a1e2a9f1-6e1e-4649-b631-f843215173ee",
+        "name": "Sennosuke Andou",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Feb 25",
+            "Age": "14",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yumeiro Ptissire",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

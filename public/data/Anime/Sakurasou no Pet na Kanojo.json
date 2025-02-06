@@ -1,0 +1,121 @@
+[
+    {
+        "id": "cbb5e040-d9ea-4e30-a99d-b209272e49f2",
+        "name": "Chihiro Sengoku",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sakurasou no Pet na Kanojo",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bbed72f4-bf3e-4cdd-8d83-c3dfd7b5a7b1",
+        "name": "Jin Mitaka",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sakurasou no Pet na Kanojo",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4f61b6d6-43e9-40af-8b02-a0eccf4ab3ee",
+        "name": "Mashiro Shiina",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Jun 13",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sakurasou no Pet na Kanojo",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4d5b0e09-5f0a-4459-bfbf-fdacfbdae42e",
+        "name": "Misaki Kamiigusa",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Jun 14",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sakurasou no Pet na Kanojo",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c7554e71-9e07-4659-9b6e-0c026dca13c6",
+        "name": "Nullami Aoyama",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Sep 6",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sakurasou no Pet na Kanojo",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cb9dde57-58eb-420d-ad3c-4138548390cf",
+        "name": "Ryuunosuke Akasaka",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sakurasou no Pet na Kanojo",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4330657e-f151-4bcc-b985-1037080bb96e",
+        "name": "Sorata Kanda",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17-24",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sakurasou no Pet na Kanojo",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

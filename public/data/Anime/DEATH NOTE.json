@@ -1,0 +1,87 @@
+[
+    {
+        "id": "cc8457a6-bf9e-46ad-be42-b2e6bf6659bf",
+        "name": "Halle Bullook",
+        "gender": "f",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Feb 18, 1980",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "DEATH NOTE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "43af816d-e784-43cc-b1d7-dcc6164361f3",
+        "name": "Light Yagami",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Feb 28, 1986",
+            "Age": "17-23",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "DEATH NOTE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "97e4b31a-f22d-4eb4-aab6-0c5a954099b3",
+        "name": "L Lawliet",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Oct 31, 1979",
+            "Age": "24-25",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "DEATH NOTE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b79132a1-78ff-4b6d-b749-b94f4801a4c2",
+        "name": "Teru Mikami",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Jun 7, 1982",
+            "Age": "27",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "DEATH NOTE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7ac672af-f50e-4397-94d4-6f340bbf9233",
+        "name": "Touta Matsuda",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Dec 14, 1978",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "DEATH NOTE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

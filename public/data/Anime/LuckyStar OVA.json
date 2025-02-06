@@ -1,0 +1,206 @@
+[
+    {
+        "id": "4883ec8a-e38c-46de-bd53-781e50edb744",
+        "name": "Ayano Minegishi",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Nov 4",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "30a78a8a-d2d1-4e2c-b8d7-18ad5ae1f4f1",
+        "name": "Hiyori Tamura",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "May 24",
+            "Age": "15-16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1b6cb8f2-0ed3-4724-bf20-fe419506f90c",
+        "name": "Inori Hiiragi",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Aug 24",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "92f025ce-add6-4b59-93f4-b126022e7993",
+        "name": "Matsuri Hiiragi",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Mar 2",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1ad3a213-3767-4543-adc7-b85c8d59b22a",
+        "name": "Miki Hiiragi",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Jun 12",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "01b04846-7ce7-4eae-aee4-572f1a8da320",
+        "name": "Minami Iwasaki",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Sep 12",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7e7a27a0-62f4-4ba9-bf99-2992b3ecfd40",
+        "name": "Misao Kusakabe",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Jul 20",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ef9b37e8-193f-4e8b-a95e-180e1597f48d",
+        "name": "Nullako Kuroi",
+        "gender": "f",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Feb 8",
+            "Age": "27",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2c2c3171-7413-4824-b38c-f2ee5f4be5ef",
+        "name": "Patricia Martin",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Apr 16",
+            "Age": "15-16",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "84a43504-30ad-4d45-bb87-8b7b8cd8bf15",
+        "name": "Tadao Hiiragi",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Mar 20",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5278aae2-6e1f-4047-a25b-57f8bda37a3e",
+        "name": "Yukari Takara",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Mar 6",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "276cc113-07d5-451b-a958-8cefa6151a52",
+        "name": "Yutaka Kobayakawa",
+        "gender": "f",
+        "height": "140.00",
+        "extras": {
+            "Birthday": "Dec 20",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "5a676664-8052-468b-a08e-8acfba373f14",
+        "name": "Sakura Yae",
+        "gender": "f",
+        "height": "194.00",
+        "extras": {
+            "Birthday": "Jul 22",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Benghuai 3 Yin Ni Er Zai De Gushi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

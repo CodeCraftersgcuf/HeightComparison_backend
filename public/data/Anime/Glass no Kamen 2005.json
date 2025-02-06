@@ -1,0 +1,104 @@
+[
+    {
+        "id": "2fbec9ed-3924-46f6-875e-8c1356c49bcb",
+        "name": "Ayumi Himekawa",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Aug 5",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Glass no Kamen 2005",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4f3507f5-b1f9-496a-9934-81f761cba72d",
+        "name": "Karato Hijiri",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Glass no Kamen 2005",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3c5dfb7e-8fb3-47b3-941a-e9172bdbd73e",
+        "name": "Masumi Hayami",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Nov 3",
+            "Age": "24-32",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Glass no Kamen 2005",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "62f8f7e4-2869-4c27-8eff-06470b0abb19",
+        "name": "Maya Kitajima",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Feb 20",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Glass no Kamen 2005",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2562de5d-2eb6-453a-bc39-b016ebe6fcd8",
+        "name": "Saeko Mizuki",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Feb 13",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Glass no Kamen 2005",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8c1b81d7-93bb-444d-88be-f49ba153f90d",
+        "name": "Yuu Sakurakouji",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Jul 7",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Glass no Kamen 2005",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

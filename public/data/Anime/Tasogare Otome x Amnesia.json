@@ -1,0 +1,19 @@
+[
+    {
+        "id": "e5e6a789-9749-4b37-a6c9-eeb3662e3e68",
+        "name": "Yuuko Kanoe",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Jan 11",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tasogare Otome x Amnesia",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

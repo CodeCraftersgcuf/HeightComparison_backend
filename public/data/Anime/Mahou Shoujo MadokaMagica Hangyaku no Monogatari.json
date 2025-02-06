@@ -1,0 +1,138 @@
+[
+    {
+        "id": "b300cfc7-06d5-41f2-81e6-f6c2986ece0c",
+        "name": "Homura Akemi",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Feb 22",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mahou Shoujo MadokaMagica Hangyaku no Monogatari",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c0fe59b5-2de3-4e5f-b0ce-65df8ab77b3b",
+        "name": "Kazuko Saotome",
+        "gender": "f",
+        "height": "155157.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mahou Shoujo MadokaMagica Hangyaku no Monogatari",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2db28c52-4c8d-446f-a607-7ecd33bda844",
+        "name": "Kyouko Sakura",
+        "gender": "f",
+        "height": "156158.00",
+        "extras": {
+            "Birthday": "May 9",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mahou Shoujo MadokaMagica Hangyaku no Monogatari",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "26523f8e-6a83-4c57-bae0-dfc0230a2d45",
+        "name": "Kyousuke Kamijou",
+        "gender": "m",
+        "height": "170175.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "14-15",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mahou Shoujo MadokaMagica Hangyaku no Monogatari",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5576d5b9-aecb-4051-b8b7-fe82d54895d6",
+        "name": "Madoka Kaname",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Oct 3",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mahou Shoujo MadokaMagica Hangyaku no Monogatari",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "87bcac3f-c9b1-4640-84a0-02d6c768254c",
+        "name": "Mami Tomoe",
+        "gender": "f",
+        "height": "156159.00",
+        "extras": {
+            "Birthday": "Jun 5",
+            "Age": "14-15",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mahou Shoujo MadokaMagica Hangyaku no Monogatari",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "28c532de-bc38-4ea7-b387-4327ccc33d0e",
+        "name": "Sayaka Miki",
+        "gender": "f",
+        "height": "158160.00",
+        "extras": {
+            "Birthday": "Sep 19",
+            "Age": "13",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mahou Shoujo MadokaMagica Hangyaku no Monogatari",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7a37aa6b-7f44-45bd-8cc8-b59292ef573c",
+        "name": "Tomohisa Kaname",
+        "gender": "m",
+        "height": "175180.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mahou Shoujo MadokaMagica Hangyaku no Monogatari",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

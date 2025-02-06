@@ -1,0 +1,104 @@
+[
+    {
+        "id": "acfcde01-fbe7-4cf7-b81c-51f96aa34b44",
+        "name": "Alibaba Saluja",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Magi The kingdom of magic",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2c020ca6-57c6-48c5-94b9-1da4fc3c22c1",
+        "name": "Hakuryuu Ren",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Magi The kingdom of magic",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cbf8f384-5358-4b6e-b80d-75273116536a",
+        "name": "Ja'far",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "25",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Magi The kingdom of magic",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "27d105ed-5a8a-4ec5-9707-653c9470d473",
+        "name": "Judar",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "18",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Magi The kingdom of magic",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2867031d-448c-4017-b7ed-d51b9f46d3ec",
+        "name": "Kouha Ren",
+        "gender": "m",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Magi The kingdom of magic",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4eb506d1-3a08-4192-8bed-2457af575372",
+        "name": "Morgiana",
+        "gender": "f",
+        "height": "162164.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "14-16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Magi The kingdom of magic",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

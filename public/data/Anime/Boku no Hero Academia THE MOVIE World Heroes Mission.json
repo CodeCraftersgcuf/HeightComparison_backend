@@ -1,0 +1,53 @@
+[
+    {
+        "id": "9499b212-d283-41a3-82a0-8debfdb96070",
+        "name": "Beros",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Jul 2",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia THE MOVIE World Heroes Mission",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "597965e7-7359-4ca2-8b8d-1866ed88326d",
+        "name": "Serpenters",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Jul 16",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia THE MOVIE World Heroes Mission",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c4e5a78f-7459-4006-ab5b-99f95e9e316e",
+        "name": "Sidero",
+        "gender": "m",
+        "height": "210.00",
+        "extras": {
+            "Birthday": "Dec 1",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia THE MOVIE World Heroes Mission",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

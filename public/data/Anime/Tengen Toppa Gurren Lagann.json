@@ -1,0 +1,53 @@
+[
+    {
+        "id": "8f5a80a3-7530-4fad-9579-d594f2ab5f7e",
+        "name": "Kamina",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tengen Toppa Gurren Lagann",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8705fa84-09f9-47ed-90d0-42fc4b38f8dc",
+        "name": "Simon",
+        "gender": "m",
+        "height": "156.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tengen Toppa Gurren Lagann",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9f701343-0ba7-497c-b675-74d97c5f24ef",
+        "name": "Youko Littner",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tengen Toppa Gurren Lagann",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    }
+]

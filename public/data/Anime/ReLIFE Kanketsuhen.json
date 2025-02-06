@@ -1,0 +1,36 @@
+[
+    {
+        "id": "b9e07321-451c-4b80-b490-2b96b64e6e2e",
+        "name": "An Onoya",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "May 27",
+            "Age": "17-18",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ReLIFE Kanketsuhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "209beac2-543b-452a-9b20-787c7bc6049a",
+        "name": "Kazuomi Ooga",
+        "gender": "m",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Jun 4, 1995",
+            "Age": "17-18",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ReLIFE Kanketsuhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "id": "2c16e148-3ba1-4d56-af21-a4c65c48caba",
+        "name": "Kaito Onogi",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Sep 22",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tsurune Tsunagari no Issha",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9fc48668-542a-4888-97c8-75d525413af3",
+        "name": "Masaki Takigawa",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Aug 10",
+            "Age": "23",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tsurune Tsunagari no Issha",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b35d3a12-cfd8-4ba7-a0ff-c57fb746c333",
+        "name": "Minato Narumiya",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Dec 21",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tsurune Tsunagari no Issha",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2fe5b08b-1764-44f5-b7a8-8be5190289e8",
+        "name": "Nullao Kisaragi",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Oct 18",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tsurune Tsunagari no Issha",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c310e6fc-18d1-4de5-adae-8cc64b40bfa9",
+        "name": "Ryouhei Yamanouchi",
+        "gender": "m",
+        "height": "182.00",
+        "extras": {
+            "Birthday": "Feb 23",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tsurune Tsunagari no Issha",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8a94c76e-2f7b-419b-977c-27e8c37c0ef9",
+        "name": "Seiya Takehaya",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Apr 2",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tsurune Tsunagari no Issha",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "id": "67c1c5f0-8790-41cb-9ece-e0c6546b2e55",
+        "name": "Canary",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "13-16",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HUNTERHUNTER 2011",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6209e6d6-56b9-4ee8-9b97-39dd4a239a72",
+        "name": "Chrollo Lucilfer",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "26",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HUNTERHUNTER 2011",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "38b19d39-34e8-4518-84ba-6d8f5893befb",
+        "name": "Ging Freecss",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "31-32",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HUNTERHUNTER 2011",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "acc7a7a9-a605-44a3-abaa-89b494cc11b5",
+        "name": "Gon Freecss",
+        "gender": "m",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "May 5",
+            "Age": "11 (beginning), 14-15 (current)",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HUNTERHUNTER 2011",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a1dd500b-d1b3-4f93-b9ef-3195d7d29ee2",
+        "name": "Hisoka Morow",
+        "gender": "m",
+        "height": "187.00",
+        "extras": {
+            "Birthday": "Jun 6",
+            "Age": "28",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HUNTERHUNTER 2011",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "69942f18-e87b-4086-a085-087b4705d699",
+        "name": "Illumi Zoldyck",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "24",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HUNTERHUNTER 2011",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f9a3c119-3995-4fd5-ae93-e103e57aabf6",
+        "name": "Killua Zoldyck",
+        "gender": "m",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Jul 7",
+            "Age": "11 (beginning); 14-15 (current)",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HUNTERHUNTER 2011",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "99502dfc-3e23-419d-9802-fc623cfc5739",
+        "name": "Kurapika",
+        "gender": "m",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Apr 4",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HUNTERHUNTER 2011",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d706f32e-9448-4740-97d9-42d7405d79b3",
+        "name": "Leorio Paradinight",
+        "gender": "m",
+        "height": "193.00",
+        "extras": {
+            "Birthday": "Mar 3",
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HUNTERHUNTER 2011",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "86fc0138-0614-4541-89b5-0e41589edf93",
+        "name": "Machi Komacine",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "24",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HUNTERHUNTER 2011",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

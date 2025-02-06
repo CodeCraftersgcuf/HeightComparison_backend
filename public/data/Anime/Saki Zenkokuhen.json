@@ -1,0 +1,19 @@
+[
+    {
+        "id": "9782ab0c-0cc5-449b-b9e2-cb681b268625",
+        "name": "Nodoka Haramura",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Oct 4",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Saki Zenkokuhen",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    }
+]

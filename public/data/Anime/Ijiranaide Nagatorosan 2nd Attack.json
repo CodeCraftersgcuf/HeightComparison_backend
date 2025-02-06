@@ -1,0 +1,70 @@
+[
+    {
+        "id": "d5dbe2df-b580-47c9-a993-33ca647db963",
+        "name": "Gamo",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Jun 15",
+            "Age": "15-16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ijiranaide Nagatorosan 2nd Attack",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bd180455-62da-4806-a8ff-cae6a7044275",
+        "name": "Hayase Nagatoro",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "Apr 1",
+            "Age": "15-16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ijiranaide Nagatorosan 2nd Attack",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6cc1016c-7629-47e9-b71f-89de3bbd6e86",
+        "name": "Naoto Hachiouji",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "May 10",
+            "Age": "16-17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ijiranaide Nagatorosan 2nd Attack",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f70e81a7-0eda-4741-bb26-6fe7ff270819",
+        "name": "Sana Sunomiya",
+        "gender": "f",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Jun 19",
+            "Age": "17-18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ijiranaide Nagatorosan 2nd Attack",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "id": "05024319-2267-48e6-b4e6-7f326ce7d990",
+        "name": "Esdeath",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "20",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Akame ga Kill",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8a70d203-37b4-49fd-856f-d461212889a8",
+        "name": "Mine",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Akame ga Kill",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f0fed79c-57ad-44bd-8bab-4db9fc7b7def",
+        "name": "Najasho",
+        "gender": "m",
+        "height": "162.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Akame ga Kill",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

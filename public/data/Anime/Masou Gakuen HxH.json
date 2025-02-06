@@ -1,0 +1,19 @@
+[
+    {
+        "id": "66daf618-0619-4f4c-91ed-e1ce5a5f744b",
+        "name": "Yurishia Farandole",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Masou Gakuen HxH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "id": "b5b939ca-e14d-4f9e-9461-1fdda8a0e8a0",
+        "name": "Shuumei Sasaki",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Jun 17",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sasaki to Miyano",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "057211c1-cfde-4c43-a6ad-de0130580183",
+        "name": "Taiga Hirano",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Aug 1",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sasaki to Miyano",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "24b830ce-4706-4b83-b2dd-d0e5531bd6bb",
+        "name": "Yoshikazu Miyano",
+        "gender": "m",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Feb 22",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sasaki to Miyano",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "id": "ef26f261-bf69-457a-9e86-3c99945ac094",
+        "name": "Hina Amano",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Aug 22",
+            "Age": "14-17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tenki no Ko",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "836a53aa-3dd3-4372-8b8e-301ec3ff517d",
+        "name": "Hodaka Morishima",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tenki no Ko",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

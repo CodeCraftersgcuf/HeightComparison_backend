@@ -1,0 +1,19 @@
+[
+    {
+        "id": "c3ee87e4-0c66-4186-9317-b2b9943df0b6",
+        "name": "Spike Spiegel",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Jun 26, 2044",
+            "Age": "27",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Cowboy Bebop",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

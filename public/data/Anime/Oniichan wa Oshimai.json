@@ -1,0 +1,36 @@
+[
+    {
+        "id": "6218a2ba-2483-4c5e-a6c3-7a367807037c",
+        "name": "Axl Low",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Dec 25",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Oniichan wa Oshimai",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5e7e9cc9-e7df-4f1c-9d0f-acf23f480f4f",
+        "name": "Sol Badguy",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Oniichan wa Oshimai",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

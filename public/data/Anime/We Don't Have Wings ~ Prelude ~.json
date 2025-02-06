@@ -1,0 +1,19 @@
+[
+    {
+        "id": "cd520438-37ec-4659-b63e-4006bdcac395",
+        "name": "Harue Kasuga",
+        "gender": "f",
+        "height": "169.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "We Don't Have Wings ~ Prelude ~",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

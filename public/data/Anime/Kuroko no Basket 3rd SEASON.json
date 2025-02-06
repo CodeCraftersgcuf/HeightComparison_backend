@@ -1,0 +1,461 @@
+[
+    {
+        "id": "75f3b81d-94fc-40b0-9341-f8bc9984c03f",
+        "name": "Alexandra Garcia",
+        "gender": "f",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Aug 8",
+            "Age": null,
+            "gender": null,
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "eb3dee26-eb25-45b2-9fe6-720bc927aa76",
+        "name": "Atsushi Murasakibara",
+        "gender": "m",
+        "height": "208.00",
+        "extras": {
+            "Birthday": "Oct 9",
+            "Age": "16",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c81a4999-6d9c-441d-9344-937f71c2a135",
+        "name": "Daiki Aomine",
+        "gender": "m",
+        "height": "192.00",
+        "extras": {
+            "Birthday": "Aug 31",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1805ec06-cc5c-4c4e-ba97-04c1f5768872",
+        "name": "Hiroshi Kobori",
+        "gender": "m",
+        "height": "192.00",
+        "extras": {
+            "Birthday": "Oct 2",
+            "Age": "18",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "12c86513-5c25-407f-a6ea-5e6863622ad4",
+        "name": "Junpei Hyuuga",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "May 16",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "db9b1e49-4287-43d0-bcbf-5ebb98ea71ba",
+        "name": "Kazunari Takao",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Nov 21",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "97089292-6756-41c9-98f9-368fe72cfaf0",
+        "name": "Kazuya Hara",
+        "gender": "m",
+        "height": "188.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "66e2e293-ed66-45c0-8e7a-7a8d03585fb1",
+        "name": "Kotarou Hayama",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Jul 25",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6fc016ae-1006-4b8f-ae04-701af6139cc0",
+        "name": "Kouichi Kawahara",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Nov 8",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "317fa89f-20b1-42d0-b22e-eb3e47cd7403",
+        "name": "Kouki Furihata",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Nov 8",
+            "Age": "16",
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9064fd13-215f-4ddd-9712-b87d14995d90",
+        "name": "Kousuke Wakamatsu",
+        "gender": "m",
+        "height": "193.00",
+        "extras": {
+            "Birthday": "Apr 16",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8d2cddfa-bea5-4a7c-b72e-ec92899affa5",
+        "name": "Makoto Hanamiya",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Jan 12",
+            "Age": "17",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bb4ae15c-95a4-447f-9659-1c7f8f762021",
+        "name": "Riko Aida",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Feb 5",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c1737729-f8db-428a-9aab-e37c50aa6f36",
+        "name": "Ryou Sakurai",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Sep 9",
+            "Age": "16",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "95c26868-e466-48e8-8d94-0bab02862477",
+        "name": "Ryouta Kise",
+        "gender": "m",
+        "height": "189.00",
+        "extras": {
+            "Birthday": "Jun 18",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4771d6b6-9cba-43a5-8571-375c4fa4282e",
+        "name": "Satoshi Tsuchida",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "May 1",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "05d6928b-c7bd-4b3e-b0bd-c172b5d0621c",
+        "name": "Satsuki Momoi",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": "May 4",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "68f23f6e-a3e1-4b2e-ac3b-b0f87a3c14e1",
+        "name": "Shinji Koganei",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Sep 11",
+            "Age": "17",
+            "gender": null,
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6d01cd39-3a94-4c9c-8edb-f7b787ae8d4e",
+        "name": "Shintarou Midorima",
+        "gender": "m",
+        "height": "195.00",
+        "extras": {
+            "Birthday": "Jul 7",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b6b4d0c5-da01-4082-accd-1f9c3218eba2",
+        "name": "Shouichi Imayoshi",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Jun 3",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c9756b9f-faea-4400-ab4d-35cfbb845bc4",
+        "name": "Shun Izuki",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Oct 23",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "43775d93-f7c5-4ff6-a958-6886e3e7a9cd",
+        "name": "Taiga Kagami",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": "Aug 2",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c4c85e90-f8ea-4982-a57a-ec17a5737b4a",
+        "name": "Taisuke Ootsubo",
+        "gender": "m",
+        "height": "198.00",
+        "extras": {
+            "Birthday": "Apr 20",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "12251e17-bc61-41df-a6e0-bc9b073d8b9d",
+        "name": "Teppei Kiyoshi",
+        "gender": "m",
+        "height": "193.00",
+        "extras": {
+            "Birthday": "Jun 10",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b24cee03-7c50-4cdb-bd85-c0ade6fcc4f3",
+        "name": "Yoshinori Susa",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": "Jun 15",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d4ee3782-9066-45f0-8a02-e5e38fd8b11f",
+        "name": "Yoshitaka Moriyama",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "Feb 13",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8a5a9019-8b4f-422c-a215-ee81f65e14ae",
+        "name": "Yukio Kasamatsu",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroko no Basket 3rd SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

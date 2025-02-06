@@ -1,0 +1,36 @@
+[
+    {
+        "id": "c7935acf-02b1-4291-8879-47a3179ed063",
+        "name": "Yoshikage Kira",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Jan 30, 1966",
+            "Age": "33",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Diamond wa Kudakenai",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1926e792-f8c7-4e26-9e33-bc081fdd2f34",
+        "name": "Yukako Yamagishi",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Diamond wa Kudakenai",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

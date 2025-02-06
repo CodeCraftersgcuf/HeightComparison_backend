@@ -1,0 +1,19 @@
+[
+    {
+        "id": "64a602f2-7754-4bbf-ae56-6e9e5f54ca28",
+        "name": "Ereshkigal",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "FateGrand Order Zettai Majuu Sensen Babylonia",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

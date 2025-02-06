@@ -1,0 +1,716 @@
+[
+    {
+        "id": "8f9f2077-1ddf-4036-98c8-3549eac1a801",
+        "name": "Akifusa Keikain",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Sep 11",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "59d1e1c0-b8e1-49d5-b35f-cf49aa4d0dda",
+        "name": "Amezou",
+        "gender": "m",
+        "height": "182.00",
+        "extras": {
+            "Birthday": "May 13",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "55c3c20c-90dc-4789-acf2-b71b2f5305f4",
+        "name": "Aotabo",
+        "gender": "m",
+        "height": "220.00",
+        "extras": {
+            "Birthday": "Jul 23",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "87b02f3f-2a33-4820-8404-7e7fb2a6389f",
+        "name": "Awashima",
+        "gender": "m",
+        "height": "169.00",
+        "extras": {
+            "Birthday": "Jun 3",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fa86cc14-4a6b-4082-ad3f-c387d1c68400",
+        "name": "Father Kyokotsu",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Dec 11",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "13a86695-2fa1-4f98-984a-cd03656246be",
+        "name": "Gagoze",
+        "gender": "m",
+        "height": "197.00",
+        "extras": {
+            "Birthday": "Jan 19",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0881c128-f66e-4ce7-b7f9-6a7658d8a7e4",
+        "name": "Gashadokuro",
+        "gender": "m",
+        "height": "1500.00",
+        "extras": {
+            "Birthday": "Sep 3",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2e760a1e-d28f-4f99-bcd2-cbcdf35da89f",
+        "name": "Goura Keikain",
+        "gender": "m",
+        "height": "197.00",
+        "extras": {
+            "Birthday": "Apr 30",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "21cd6416-2337-463b-8248-8e20d88c6668",
+        "name": "Gozumaru",
+        "gender": "m",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Jun 28",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c2fb2c1e-ad38-440a-b22e-8856fc265f62",
+        "name": "Great Tengu Of Mount Kurama",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": "Oct 7",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "beb33981-3555-4642-a90e-4b8ae996bd9e",
+        "name": "Gyuki",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Dec 6",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "79e3a0bd-ca6c-4f2b-ace4-483ab85f2bc0",
+        "name": "Hagoromo Gitsune",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Nov 16",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "568eabf4-ea62-4762-94c1-7e7fa147cbe0",
+        "name": "Hakuzouzu",
+        "gender": "m",
+        "height": "435.00",
+        "extras": {
+            "Birthday": "Apr 29",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ade9bf19-6c5b-4b26-9472-8a4df05b463d",
+        "name": "Hidemoto Keikain",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0631d72d-95ae-4d8a-b468-412b91c52cdc",
+        "name": "Hihi",
+        "gender": "m",
+        "height": "225.00",
+        "extras": {
+            "Birthday": "Jul 8",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "62058f4d-cd58-4c38-8fb9-71f18e6c5011",
+        "name": "Ibaraki Doji",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Jul 1",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f6c2e58d-ceac-4df7-b3b2-553dd0c411d9",
+        "name": "Itaku",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Jun 13",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9a5971b8-ff81-4921-830d-e2169a6c4963",
+        "name": "Jami",
+        "gender": "m",
+        "height": "203.00",
+        "extras": {
+            "Birthday": "Oct 27",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "124aaa92-d2f4-47df-a0f0-051323d4a7a1",
+        "name": "Jirou Shima",
+        "gender": "m",
+        "height": "137.00",
+        "extras": {
+            "Birthday": "Dec 2",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d1eaa9c9-a4ca-4009-b4c4-d982af98da09",
+        "name": "Kana Ienaga",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Jun 23",
+            "Age": "13-14",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ac6aa354-9902-493d-9319-8a4e0fac31c7",
+        "name": "Karasu Tengu",
+        "gender": "m",
+        "height": "38.00",
+        "extras": {
+            "Birthday": "May 17",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7c339788-cff7-403a-a6d4-8151fc73c7a7",
+        "name": "Kejourou",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Jul 19",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "002d3210-ce50-44bd-b888-5a6d7d533efb",
+        "name": "Kurotabou",
+        "gender": "m",
+        "height": "195.00",
+        "extras": {
+            "Birthday": "Dec 13",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8f980e6f-bd94-4ec9-a524-3eddcc32efea",
+        "name": "Kyokotsu",
+        "gender": "m",
+        "height": "118.00",
+        "extras": {
+            "Birthday": "Mar 13",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "17763e73-a299-4f71-9208-c0a359075943",
+        "name": "Lady Yodo",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fb8728a5-7eda-49f7-93ad-697c6b062b44",
+        "name": "Mamiru Keikain",
+        "gender": "m",
+        "height": "192.00",
+        "extras": {
+            "Birthday": "Sep 14",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c6a796f2-e7d8-43e5-b90b-0b9c0e263757",
+        "name": "Masatsugu Keikain",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Feb 10",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0d739e4b-b656-462f-b93c-ceccd46cd9c8",
+        "name": "Minagoroshi Jizou",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "May 8",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "debe9ed9-d979-4914-b7fd-e91b1b0c0610",
+        "name": "Namahage",
+        "gender": "m",
+        "height": "230.00",
+        "extras": {
+            "Birthday": "Dec 31",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "33ac9cdd-b855-4a19-9831-00bca11d5e26",
+        "name": "Natto Kozou",
+        "gender": "m",
+        "height": "40.00",
+        "extras": {
+            "Birthday": "Oct 16",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ed027ffe-690f-41bf-878c-896d25a07d3c",
+        "name": "Rikuo Nura",
+        "gender": "m",
+        "height": "148.00",
+        "extras": {
+            "Birthday": "Sep 23",
+            "Age": "12-13",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0dc3e17a-e2c8-4765-9c22-4ebf7e5c3592",
+        "name": "Ryuuji Keikain",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Oct 24",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c49cb2dc-7030-432d-acd8-897c049f02ae",
+        "name": "Sadahime",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Aug 23",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a609afc0-3bed-4924-b056-9690994bac87",
+        "name": "Sasami",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Aug 31",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "23cb4243-4407-4777-a4e8-ccce65e2c865",
+        "name": "Setsura",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "Nov 1",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2d2a16b8-2ac1-4f0c-bd54-fa6a801e98ef",
+        "name": "Shokera",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Oct 18",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "51ce38b1-9e2b-495a-8f02-56ae4f5fd35e",
+        "name": "Shouei",
+        "gender": "m",
+        "height": "225.00",
+        "extras": {
+            "Birthday": "Apr 25",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "00a31aad-08e3-41c0-b24b-06e41037eeac",
+        "name": "Tosakamaru",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Aug 31",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bf5fc88c-9949-4d84-bed7-d2912fa1609e",
+        "name": "Tsuchigumo",
+        "gender": "m",
+        "height": "750.00",
+        "extras": {
+            "Birthday": "Dec 1",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "86d8679f-81ca-4eb3-9609-275b329e2895",
+        "name": "Wakana Nura",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Nov 28",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f49c52dc-a21c-4c15-895e-0d80e44af795",
+        "name": "Yamabuki Otome",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d4b39805-9bdd-4932-af14-f1930aefc06b",
+        "name": "Yura Keikain",
+        "gender": "f",
+        "height": "143.00",
+        "extras": {
+            "Birthday": "May 19",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nurarihyon no Mago Sennen Makyou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

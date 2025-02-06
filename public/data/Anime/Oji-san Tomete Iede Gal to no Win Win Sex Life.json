@@ -1,0 +1,19 @@
+[
+    {
+        "id": "0aba389d-7e66-428f-b1b7-16d58ed504fa",
+        "name": "Sarina Kojima",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Oji-san Tomete Iede Gal to no Win Win Sex Life",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

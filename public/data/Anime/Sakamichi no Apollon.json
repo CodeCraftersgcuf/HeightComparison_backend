@@ -1,0 +1,19 @@
+[
+    {
+        "id": "30a88c69-d3a8-4c4e-9b71-7ef007e44c69",
+        "name": "Kaoru Nishimi",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Apr 8",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sakamichi no Apollon",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

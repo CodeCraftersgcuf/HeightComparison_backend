@@ -1,0 +1,36 @@
+[
+    {
+        "id": "11441888-1374-4711-b93c-f361d5314c12",
+        "name": "Aria Shichijou",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16-17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Seitokai Yakuindomo OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e8925505-6e85-41e5-8a54-373596da8358",
+        "name": "Shino Amakusa",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Jun 12",
+            "Age": "16-17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Seitokai Yakuindomo OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

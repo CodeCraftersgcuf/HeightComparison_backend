@@ -1,0 +1,19 @@
+[
+    {
+        "id": "e95480d2-1a48-4c0d-838d-bdc68c773184",
+        "name": "Hikari Kohinata",
+        "gender": "f",
+        "height": "148.00",
+        "extras": {
+            "Birthday": "Jan 31",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Amanchu Yakusoku no Natsu to Atarashii Omoide no Koto",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

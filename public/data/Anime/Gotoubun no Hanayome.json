@@ -1,0 +1,104 @@
+[
+    {
+        "id": "84101aeb-b123-4ca6-8e21-ad5866c7c084",
+        "name": "Fuutarou Uesugi",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Apr 15, 2000",
+            "Age": "17-22",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gotoubun no Hanayome ",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "54a1f8ff-f1d1-448c-8635-78079638689b",
+        "name": "Ichika Nakano",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "May 5",
+            "Age": "17-22",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gotoubun no Hanayome ",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "65b8cc68-ecd9-46b3-b95b-7451331cdbe3",
+        "name": "Itsuki Nakano",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "May 6",
+            "Age": "17-22",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gotoubun no Hanayome ",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2033ebed-fd27-4b19-ad7b-1eed5c166fe4",
+        "name": "Miku Nakano",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "May 5",
+            "Age": "17-22",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gotoubun no Hanayome ",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2624b8d7-232b-4a7a-9487-c408b1ba4857",
+        "name": "Nino Nakano",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "May 5",
+            "Age": "17-22",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gotoubun no Hanayome ",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "82a5f45f-ee88-4aa2-bc07-2d243897e463",
+        "name": "Yotsuba Nakano",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "May 5",
+            "Age": "17-22",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gotoubun no Hanayome ",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

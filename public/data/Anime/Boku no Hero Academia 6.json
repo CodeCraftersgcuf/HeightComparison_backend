@@ -1,0 +1,478 @@
+[
+    {
+        "id": "14854acd-20af-451a-9bd0-fd17bc88876a",
+        "name": "Cathleen Bate",
+        "gender": "f",
+        "height": "193.00",
+        "extras": {
+            "Birthday": "Jul 4",
+            "Age": "42",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1dbeb8e2-c61f-40ec-aaa3-0978bdc4b203",
+        "name": "Dabi",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Jan 18",
+            "Age": "24",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0f99cbee-973f-411d-8392-d3f2e638ff8f",
+        "name": "Ectoplasm",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Mar 23",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "43679754-4f23-46e6-86c1-2cfd74ed963c",
+        "name": "Eijirou Kirishima",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Oct 16",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0d58105a-5656-42db-a997-fed3ca18f171",
+        "name": "Enji Todoroki",
+        "gender": "m",
+        "height": "195.00",
+        "extras": {
+            "Birthday": "Aug 8",
+            "Age": "45",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7fc43a36-11ac-4ee0-9a1f-cc23adc020ff",
+        "name": "Enma Kannagi",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Jan 4",
+            "Age": "36",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "da8fe293-b704-4c16-9331-fe31adabccce",
+        "name": "Himiko Toga",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Aug 7",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "293df2fd-87a5-40d8-a272-0fa5de4c24b8",
+        "name": "Inko Midoriya",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Jul 4",
+            "Age": "41-42",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7096730a-d767-4ef7-bc48-675a1e8acd93",
+        "name": "Itsuka Kendou",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Sep 9",
+            "Age": "15",
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "17a92a89-a144-4a7f-81dd-f474d6f0c963",
+        "name": "Katsuki Bakugou",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Apr 20",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "36777912-00de-41ca-bf6d-9744655837e5",
+        "name": "Keigo Takami",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Dec 28",
+            "Age": "22 (first appearance), 23 (current)",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5c87b987-5bfa-4535-adb8-1a0af5696785",
+        "name": "Kyouka Jirou",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Aug 1",
+            "Age": "15-16",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "45e7eee9-8891-4d44-a565-ce294bf25900",
+        "name": "Masaki Mizushima",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Dec 5",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d5b64014-ac40-4a05-b07d-20747714e177",
+        "name": "Mirai Sasaki",
+        "gender": "m",
+        "height": "200.00",
+        "extras": {
+            "Birthday": "Jan 2",
+            "Age": "38",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "41593968-efa7-4ff9-9ddc-156549627dce",
+        "name": "Mirio Togata",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "Jul 15",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "31472f0b-1aa8-4955-8e8b-38df70e4ffa5",
+        "name": "Nejire Hadou",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Oct 6",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "29aa1d06-03bf-473f-a1cf-c837b6f71979",
+        "name": "Nezu",
+        "gender": "m",
+        "height": "85.00",
+        "extras": {
+            "Birthday": "Jan 1",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "59ad0cd1-ade2-4566-98d8-005deb30f8e4",
+        "name": "Rikidou Satou",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Jun 19",
+            "Age": "15-16",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ffa34b1e-3a76-48ab-a71f-158960f2787c",
+        "name": "Salaam",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": "Dec 18",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bce410f7-0a93-47a8-b842-fb8bf8351c1b",
+        "name": "Shinya Kamihara",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Feb 22",
+            "Age": "33",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "03d6269d-a58c-4ebf-b9a7-f7ff9c7042c2",
+        "name": "Shouta Aizawa",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Nov 8",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3e9d27b1-2450-4ff9-abe0-e30385a0ed16",
+        "name": "Shouto Todoroki",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Jan 11",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c2f15166-0414-4d22-aedd-c3da8a69e91b",
+        "name": "Shuuichi Iguchi",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Aug 8",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "382d42af-3fb8-4dd5-8940-e01c6100e848",
+        "name": "Sorahiko Torino",
+        "gender": "m",
+        "height": "128.00",
+        "extras": {
+            "Birthday": "Jan 28",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4b0c7f45-a7b4-4452-8077-0ed3a3f168c6",
+        "name": "Toshinori Yagi",
+        "gender": "m",
+        "height": "220.00",
+        "extras": {
+            "Birthday": "Jun 10",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2e89476e-7e88-4f6c-bc8f-da28f8cb19bb",
+        "name": "You Shindou",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "May 13",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "316b9b10-28fe-45af-91bf-ec0f1eeb3e72",
+        "name": "Yuuga Aoyama",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "May 30",
+            "Age": "15-16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d2a28173-5e0f-41dd-abf6-5511dd93cf4c",
+        "name": "Yuu Takeyama",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Aug 11",
+            "Age": "22; 24",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 6",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

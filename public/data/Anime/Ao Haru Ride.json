@@ -1,0 +1,36 @@
+[
+    {
+        "id": "c13160f7-f07c-4964-8cbd-2dce8c270840",
+        "name": "Ren Ichinose",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Oct 26",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao Haru Ride",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c4b76055-cd20-41bc-b21a-0911c8a1804a",
+        "name": "Yui Narumi",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Aug 7",
+            "Age": "17",
+            "gender": null,
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao Haru Ride",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

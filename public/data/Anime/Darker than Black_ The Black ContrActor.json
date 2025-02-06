@@ -1,0 +1,19 @@
+[
+    {
+        "id": "7f6d4a0c-8418-49b6-90c3-e5c0c0d07755",
+        "name": "Corinna Moku",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Darker than Black: The Black ContrActor",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

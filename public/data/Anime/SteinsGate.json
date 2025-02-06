@@ -1,0 +1,138 @@
+[
+    {
+        "id": "12e4d5ea-5ff1-427e-b6a4-f4c1966977ba",
+        "name": "Itaru Hashida",
+        "gender": "m",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "May 19, 1991",
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SteinsGate",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a9de7321-990e-4379-bd47-62328048420b",
+        "name": "Kurisu Makise",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Jul 25, 1992",
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SteinsGate",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "da118d8b-2cf8-4559-b696-7b7375ae1858",
+        "name": "Luka Urushibara",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": "Aug 30, 1993",
+            "Age": "16",
+            "gender": null,
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SteinsGate",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "db3fb118-1b4f-40c8-9415-c74e540e2bd6",
+        "name": "Mayuri Shiina",
+        "gender": "f",
+        "height": "151.00",
+        "extras": {
+            "Birthday": "Feb 1, 1994",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SteinsGate",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b0e371db-8380-496c-a92d-fe9d3ef8ac30",
+        "name": "Moeka Kiryuu",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Jun 6",
+            "Age": "20",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SteinsGate",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8ec896a8-10ea-4c20-a304-efa167b44994",
+        "name": "Rintarou Okabe",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Dec 14, 1991",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SteinsGate",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f8e1c1cb-5110-41c7-a6b4-b81f0279d83f",
+        "name": "Rumiho Akiha",
+        "gender": "f",
+        "height": "143.00",
+        "extras": {
+            "Birthday": "Apr 3",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SteinsGate",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "71999919-b763-4b59-aaf2-32be63ca090c",
+        "name": "Suzuha Amane",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Sep 27, 2017",
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SteinsGate",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

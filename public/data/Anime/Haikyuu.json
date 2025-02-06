@@ -1,0 +1,19 @@
+[
+    {
+        "id": "03d5bc20-0ecc-4a07-84f7-d0a8fd19ad5d",
+        "name": "Yoshiharu Haga",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Haikyuu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

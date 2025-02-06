@@ -1,0 +1,70 @@
+[
+    {
+        "id": "920b46ec-1f1c-4ecd-9c47-2c4a2b3ef0f4",
+        "name": "Ayumu Nishizawa",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "May 15",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hayate no Gotoku",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e6151449-4ef4-4058-bfe5-15669d60b80c",
+        "name": "Izumi Segawa",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Jun 21",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hayate no Gotoku",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5c18dd1d-42f6-4a5c-8080-482492e9b42b",
+        "name": "Risa Asakaze",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Jul 13",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hayate no Gotoku",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "808ef106-ccfe-405e-9a29-c991fd163cf5",
+        "name": "Yukariko Sanzenin",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Dec 23",
+            "Age": "28",
+            "gender": null,
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hayate no Gotoku",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

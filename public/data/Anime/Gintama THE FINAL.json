@@ -1,0 +1,342 @@
+[
+    {
+        "id": "db7fb41b-05c7-44b8-9080-eea387729fd0",
+        "name": "Ayame Sarutobi",
+        "gender": "f",
+        "height": "169.00",
+        "extras": {
+            "Birthday": "Jun 2",
+            "Age": "20+",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "201697ab-1033-470a-b0b7-df42ed56bd0a",
+        "name": "Binbokusai Yagyuu",
+        "gender": "m",
+        "height": "88.00",
+        "extras": {
+            "Birthday": "May 30",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d7f62c95-2475-42dc-b44a-f090817c2e39",
+        "name": "Gintoki Sakata",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Oct 10",
+            "Age": "27",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "08c65db5-72d7-4e45-8634-1cac2b4eba9e",
+        "name": "Henpeita Takechi",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Sep 27",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d225d2bb-2ecb-4065-9d78-20604a7e7a6c",
+        "name": "Isao Kondou",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Sep 4",
+            "Age": "28-33",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e3239e05-2bc9-4bdc-89d3-bc835e454e6f",
+        "name": "Katakuriko Matsudaira",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Sep 4",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8e139906-78d3-42f2-9505-023746cde3b9",
+        "name": "Kotarou Katsura",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Jun 26",
+            "Age": "20s",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0681ebaf-30b6-4413-87c5-582b1fafc230",
+        "name": "Matako Kijima",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Jan 8",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "27af8c07-ee5a-4e24-8047-3d2ca6ebc9fe",
+        "name": "Mutsu",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Jul 7",
+            "Age": "24",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "84ed53f3-0bde-4bc6-9a34-40c83057e4dc",
+        "name": "Otose",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Jul 7",
+            "Age": "60-65",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "669e9143-eada-4435-9274-e913775a87d0",
+        "name": "Sadaharu",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Feb 25",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fa6411dd-3a69-43e3-ad54-dac24b6dea17",
+        "name": "Shigeshige Tokugawa",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Jun 22",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1bd7e90d-5267-4e34-8b54-ec3b1d42d5f9",
+        "name": "Shinpachi Shimura",
+        "gender": "m",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Aug 12",
+            "Age": "16-18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6a79a33b-1ab6-4455-9323-9257eaf7cb90",
+        "name": "Shinsuke Takasugi",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Aug 10",
+            "Age": "20s",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e7a3bb28-fd27-4ad7-885a-9aed8dba39ec",
+        "name": "Sougo Okita",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Jul 8",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fdc2e457-d4a6-42ca-bc6e-0f9122b0705f",
+        "name": "Tae Shimura",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Oct 31",
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3e352296-fc42-4636-be52-92752625e7e5",
+        "name": "Tama",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Feb 23",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d454a53e-59c5-4e31-964b-1940629e04b3",
+        "name": "Tatsuma Sakamoto",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "Nov 15",
+            "Age": "20s",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "72bfaae9-a589-4f90-979a-c08645887765",
+        "name": "Umibouzu",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Jul 20",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4198834e-c89c-4a2f-990c-b26a28459edd",
+        "name": "Zenzou Hattori",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Aug 22",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama THE FINAL",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "id": "d5cf8a62-5757-4add-b122-4a968e4ddccd",
+        "name": "Kaigaku",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimetsu no Yaiba",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "27cf2986-aa33-4b68-aa8f-0b178a1e9dca",
+        "name": "Yushirou",
+        "gender": "m",
+        "height": "157.00",
+        "extras": {
+            "Birthday": null,
+            "Age": ">35",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimetsu no Yaiba",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

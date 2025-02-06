@@ -1,0 +1,19 @@
+[
+    {
+        "id": "6719a0f6-7a66-4c3d-acaa-40afd51b2fe4",
+        "name": "Arataka Reigen",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Oct 10",
+            "Age": "28",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mob Psycho 100 II",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

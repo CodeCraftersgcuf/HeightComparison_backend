@@ -1,0 +1,410 @@
+[
+    {
+        "id": "7d70de4a-877a-4b2d-b7fb-e8e5de35ebb3",
+        "name": "Byakuya Kuchiki",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Jan 31",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1e3ce58c-0bbb-4d14-9b4e-21ab18060dc6",
+        "name": "Emilou Apacci",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "May 17",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3ea05174-d539-4ff5-859b-0eadea5d3058",
+        "name": "Gin Ichimaru",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Sep 10",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "47d87156-a62c-4709-8412-c8dbd6f8db26",
+        "name": "Grimmjow Jaegerjaquez",
+        "gender": "m",
+        "height": "186.00",
+        "extras": {
+            "Birthday": "Jul 31",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2634f798-8a6f-4353-8aa9-bae7e3c00e30",
+        "name": "Hanataro Yamada",
+        "gender": "m",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "Apr 1",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "327c7147-eba7-4b7a-9068-53c98cc4972a",
+        "name": "Isane Kotetsu",
+        "gender": "f",
+        "height": "187.00",
+        "extras": {
+            "Birthday": "Aug 2",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "547ebff6-bc59-4ea9-a24a-08a59c651bcf",
+        "name": "Isshin Kurosaki",
+        "gender": "m",
+        "height": "186.00",
+        "extras": {
+            "Birthday": "Dec 10",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2a49ec8b-a20b-492f-ac8e-3130643d1a34",
+        "name": "Izuru Kira",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Mar 27",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1528f87b-fc71-4ff5-967c-32661f4b95e3",
+        "name": "Kaname Tousen",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Nov 13",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "776e0c7c-1eaa-42dd-9d33-b0045cfaf35d",
+        "name": "Kenpachi Kiganjou",
+        "gender": "m",
+        "height": "223.00",
+        "extras": {
+            "Birthday": "Oct 5",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ce877671-9cab-4a6a-b7cf-bf11d7d061c9",
+        "name": "Kensei Muguruma",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Jul 30",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ca486fd7-8858-47c2-be81-440708d994bc",
+        "name": "Kisuke Urahara",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Dec 31",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c46dcbc7-ce3f-411f-ba69-a21079925df4",
+        "name": "Mayuri Kurotsuchi",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Mar 20",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5094779e-8cf2-4607-b8f6-928851984cda",
+        "name": "Momo Hinamori",
+        "gender": "f",
+        "height": "151.00",
+        "extras": {
+            "Birthday": "Jun 3",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "097201c6-b199-4de1-8ce6-c93c34ed480b",
+        "name": "Nullao Ise",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Jul 7",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9489aa5b-fd0e-40e9-a5dc-6e6e864291e4",
+        "name": "Renji Abarai",
+        "gender": "m",
+        "height": "188.00",
+        "extras": {
+            "Birthday": "Aug 31",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "07fefba5-8bb1-415c-b3aa-43fc60f6d4cf",
+        "name": "Sajin Komamura",
+        "gender": "m",
+        "height": "288.00",
+        "extras": {
+            "Birthday": "Aug 23",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "52d3615c-447e-496d-aef1-9b7716714f24",
+        "name": "Shinji Hirako",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "May 10",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "68d3333a-bcbf-4ce7-9090-922c03b0f85a",
+        "name": "Shuuhei Hisagi",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "Aug 14",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ae42e86a-6964-44b5-811f-52d46b554bd7",
+        "name": "Sousuke Aizen",
+        "gender": "m",
+        "height": "186.00",
+        "extras": {
+            "Birthday": "May 29",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1a7acfc0-03d8-4663-a156-e12735114c78",
+        "name": "Tier Harribel",
+        "gender": "f",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Jul 25",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "702ff8b0-596b-49f8-b05a-8595fca03105",
+        "name": "Toshiro Hitsugaya",
+        "gender": "m",
+        "height": "133.00",
+        "extras": {
+            "Birthday": "Dec 20",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f9123bf4-7e44-4c9e-be27-c84f321c6a89",
+        "name": "Yasutora Sado",
+        "gender": "m",
+        "height": "197.00",
+        "extras": {
+            "Birthday": "Apr 7",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A0"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b4e38540-5dee-412f-8e4b-f7b1715c9b81",
+        "name": "Yumichika Ayasegawa",
+        "gender": "m",
+        "height": "169.00",
+        "extras": {
+            "Birthday": "Sep 19",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

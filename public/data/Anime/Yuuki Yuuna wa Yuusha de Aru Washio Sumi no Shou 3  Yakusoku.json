@@ -1,0 +1,19 @@
+[
+    {
+        "id": "309e5a5f-0dcd-43e3-9637-51afd1d4f5c0",
+        "name": "Sonoko Nogi",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Aug 30",
+            "Age": "12 (14 in YuYuYu)",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yuuki Yuuna wa Yuusha de Aru Washio Sumi no Shou 3  Yakusoku",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

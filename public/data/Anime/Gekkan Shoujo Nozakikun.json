@@ -1,0 +1,87 @@
+[
+    {
+        "id": "4e1866f1-d178-49db-a3dd-7c677cb702b0",
+        "name": "Ken Miyamae",
+        "gender": "m",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Sep 22",
+            "Age": "27",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gekkan Shoujo Nozakikun",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "94e5ae41-d021-499a-80c8-5a27b4d2b887",
+        "name": "Masayuki Hori",
+        "gender": "m",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Nov 28, 1993",
+            "Age": "17-18",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gekkan Shoujo Nozakikun",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e0bc2b42-ccff-47e7-a6d4-f33bf98413d6",
+        "name": "Mitsuya Maeno",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Aug 1",
+            "Age": "27",
+            "gender": null,
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gekkan Shoujo Nozakikun",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "348f8a0e-8ca6-45d1-bd7f-0e530ce26122",
+        "name": "Yukari Miyako",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Apr 18",
+            "Age": null,
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gekkan Shoujo Nozakikun",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7b76528e-08a7-483c-ab8c-684bd15bf465",
+        "name": "Yuu Kashima",
+        "gender": "f",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Oct 31",
+            "Age": "16-17",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gekkan Shoujo Nozakikun",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

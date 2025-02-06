@@ -1,0 +1,19 @@
+[
+    {
+        "id": "f2afe269-c34a-42e3-86ba-95e8b30c1834",
+        "name": "Itsuki Takeuchi",
+        "gender": "m",
+        "height": "162.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "18-19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Initial D",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

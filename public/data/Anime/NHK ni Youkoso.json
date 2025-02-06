@@ -1,0 +1,53 @@
+[
+    {
+        "id": "8e61be19-d8dc-4be3-b6aa-898a6e7f176c",
+        "name": "Kaoru Yamazaki",
+        "gender": "m",
+        "height": "169.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "20",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "NHK ni Youkoso",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c389aa94-ed45-48b6-96cb-9a9e76945862",
+        "name": "Misaki Nakahara",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17-18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "NHK ni Youkoso",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "34aaf81f-2d2d-4bcf-90e9-cfb4a8ef2850",
+        "name": "Tatsuhiro Satou",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Jan 28",
+            "Age": "22",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "NHK ni Youkoso",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

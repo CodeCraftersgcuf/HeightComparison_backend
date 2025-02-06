@@ -1,0 +1,19 @@
+[
+    {
+        "id": "c74cd7f5-51dd-47c6-b5b7-cfd55287055f",
+        "name": "Karen Kujou",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "Dec 1",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kiniro Mosaic Thank you",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

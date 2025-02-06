@@ -1,0 +1,155 @@
+[
+    {
+        "id": "7630c9a3-856e-4630-8f4e-84458a4b93c9",
+        "name": "Guren Ichinose",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Aug 28, 1996",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owari no Seraph Nagoya Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e138a779-d640-4f53-a4cb-ba70790db844",
+        "name": "Krul Tepes",
+        "gender": "f",
+        "height": "145.00",
+        "extras": {
+            "Birthday": "Oct 27",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owari no Seraph Nagoya Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "497b17fa-d48b-4c38-8297-367c8ed1b5ba",
+        "name": "Mahiru Hiiragi",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Jul 26, 1996",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owari no Seraph Nagoya Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f8368ec3-3c1b-4b11-917f-b1ffb3f0e198",
+        "name": "Mikaela Hyakuya",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "May 1, 2004",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owari no Seraph Nagoya Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "50e454a9-6f69-40ab-8a74-8b1be45794d8",
+        "name": "Shihou Kimizuki",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Nov 26, 2004",
+            "Age": null,
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owari no Seraph Nagoya Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cc0c066b-3b0b-4d93-8389-2a2edbea4b5e",
+        "name": "Shinoa Hiiragi",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "Dec 25, 2005",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owari no Seraph Nagoya Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "470735a0-da21-41a6-8b63-0a44c6bb9659",
+        "name": "Shinya Hiiragi",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Nov 22, 1996",
+            "Age": null,
+            "gender": null,
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owari no Seraph Nagoya Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "11839f34-03f8-408a-934e-1b164655aab0",
+        "name": "Yoichi Saotome",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Nov 23, 2004",
+            "Age": null,
+            "gender": null,
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owari no Seraph Nagoya Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "365e559d-de3b-4bc0-b343-688d79f48ad8",
+        "name": "Yuuichirou Hyakuya",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Oct 16, 2004",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Owari no Seraph Nagoya Kessenhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

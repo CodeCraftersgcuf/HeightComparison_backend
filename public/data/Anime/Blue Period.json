@@ -1,0 +1,70 @@
+[
+    {
+        "id": "f801881d-70c3-4934-a75e-c71b6c0b4c26",
+        "name": "Kinemi Miki",
+        "gender": "f",
+        "height": "173.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Blue Period",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1a3782ba-c7b9-4b34-93f4-c599309098d3",
+        "name": "Sumida",
+        "gender": "m",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Apr 14",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Blue Period",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "85cfc9cf-de62-4d39-84bc-3a5c4d04c0d1",
+        "name": "Utashima",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Mar 28",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Blue Period",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "acbc3f49-7418-40d8-8084-de8dd9fa3fd3",
+        "name": "Yatora Yaguchi",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Jul 5",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Blue Period",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "db72d6c5-a9ac-4fe5-8105-d4431390f738",
+        "name": "Miku Hatsune",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Aug 31",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Zoku Sayonara Zetsubou Sensei",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

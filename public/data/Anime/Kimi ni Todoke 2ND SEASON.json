@@ -1,0 +1,53 @@
+[
+    {
+        "id": "af085ea4-3fbd-4641-ad41-5fc221c26b71",
+        "name": "Ayane Yano",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": "Mar 3",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimi ni Todoke 2ND SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4afd441f-5be6-4767-89f1-764ed3c34272",
+        "name": "Kazuichi Arai",
+        "gender": "m",
+        "height": "193.00",
+        "extras": {
+            "Birthday": "Jul 25",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimi ni Todoke 2ND SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e5c8d15e-8dd8-4f40-90fa-75be7ec83021",
+        "name": "Sawako Kuronuma",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Dec 31",
+            "Age": "15-16",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimi ni Todoke 2ND SEASON",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

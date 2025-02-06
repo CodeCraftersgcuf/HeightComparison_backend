@@ -1,0 +1,19 @@
+[
+    {
+        "id": "53b37ccf-f829-41db-8ba8-067ca92167a9",
+        "name": "Saku Akechi",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "May 29",
+            "Age": null,
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Itsudatte Bokura no Koi wa 10 cm Datta",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

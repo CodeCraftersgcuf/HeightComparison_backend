@@ -1,0 +1,19 @@
+[
+    {
+        "id": "ef2bcee2-0c1f-403b-bc42-cc10a2737fb2",
+        "name": "Shiraishi",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Apr 22",
+            "Age": "16-17",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tanakakun wa Itsumo Kedaruge",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "9554d643-6a67-4480-8862-f8d1a46b82f3",
+        "name": "Yukina",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Nov 21",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "YuuYuuHakusho",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "30090200-19bb-454e-8f87-67f224ff9745",
+        "name": "Mahiro Yasaka",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Haiyore! Nyaruko-san W",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

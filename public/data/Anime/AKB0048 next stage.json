@@ -1,0 +1,19 @@
+[
+    {
+        "id": "1cd2edb2-4bf9-46d1-bd31-069b67e1e5d5",
+        "name": "Mimori Kishida",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Jan 2",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "AKB0048 next stage",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

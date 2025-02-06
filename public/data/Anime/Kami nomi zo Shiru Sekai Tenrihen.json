@@ -1,0 +1,19 @@
+[
+    {
+        "id": "0d0b6c12-d8bf-4c47-bada-fe370c3c0b52",
+        "name": "Nora Floriann Leoria",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Aug 27",
+            "Age": "310",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kami nomi zo Shiru Sekai Tenrihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

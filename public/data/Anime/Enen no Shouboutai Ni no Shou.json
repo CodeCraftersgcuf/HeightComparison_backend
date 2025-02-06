@@ -1,0 +1,138 @@
+[
+    {
+        "id": "3020322d-4da6-4565-87c1-4440a730de4a",
+        "name": "Akitaru Oubi",
+        "gender": "m",
+        "height": "189.00",
+        "extras": {
+            "Birthday": "Mar 27",
+            "Age": "31",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Enen no Shouboutai Ni no Shou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e491f92b-bdc6-448c-89da-ea081f44be09",
+        "name": "Arthur Boyle",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Jul 10",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Enen no Shouboutai Ni no Shou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "790f8260-0f3d-4b2c-8ac4-a11944bf1b64",
+        "name": "Huo Yan Li",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Jul 3",
+            "Age": "30",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Enen no Shouboutai Ni no Shou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "58a8a1f7-bccf-4f5f-9caa-a8d7754c2567",
+        "name": "Inca Kasugatani",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Nov 9",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "C"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Enen no Shouboutai Ni no Shou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8f514cbe-de22-4943-9965-cf8c7e3fc2d7",
+        "name": "Maki Oze",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Sep 16",
+            "Age": "19",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Enen no Shouboutai Ni no Shou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3e47a58b-ba86-4549-955e-342b87fe80b6",
+        "name": "Shinra Kusakabe",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Oct 29",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Enen no Shouboutai Ni no Shou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8e9b02c1-c5ed-4ec9-8c75-e606d6059f5a",
+        "name": "Takehisa Hinawa",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Sep 23",
+            "Age": "28",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Enen no Shouboutai Ni no Shou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4396005d-6ae7-440a-987a-d2ed8f3b2778",
+        "name": "Tamaki Kotatsu",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Feb 22",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Enen no Shouboutai Ni no Shou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

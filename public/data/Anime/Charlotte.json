@@ -1,0 +1,19 @@
+[
+    {
+        "id": "c37a32a7-81f3-4f02-b4ea-5aeeba5b47ea",
+        "name": "Yuu Otosaka",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Jan 9",
+            "Age": "15-16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Charlotte",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    }
+]

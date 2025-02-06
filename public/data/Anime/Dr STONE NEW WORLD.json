@@ -1,0 +1,36 @@
+[
+    {
+        "id": "c28ceb3a-0a35-432d-889b-4b3d35a74b75",
+        "name": "Ooarashi",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Sep 11, 5713",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Dr STONE NEW WORLD",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0d6e76bf-b9fb-4527-a528-2dc1f7059e29",
+        "name": "Soyuz",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "20+",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Dr STONE NEW WORLD",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

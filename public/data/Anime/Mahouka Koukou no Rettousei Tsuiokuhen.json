@@ -1,0 +1,36 @@
+[
+    {
+        "id": "9857733f-dc31-43fc-a85f-b9a137dd56de",
+        "name": "Miyuki Shiba",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Mar 25, 2080",
+            "Age": "15-17, 20 (Magian Company)",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mahouka Koukou no Rettousei Tsuiokuhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "647f000d-6abf-413f-b233-d9cc2eb27b19",
+        "name": "Tatsuya Shiba",
+        "gender": "m",
+        "height": "182.00",
+        "extras": {
+            "Birthday": "Apr 24, 2079",
+            "Age": "15-18, 21 (Magian Company)",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mahouka Koukou no Rettousei Tsuiokuhen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

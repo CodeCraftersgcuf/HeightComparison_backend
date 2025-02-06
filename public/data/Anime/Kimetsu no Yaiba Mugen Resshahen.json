@@ -1,0 +1,19 @@
+[
+    {
+        "id": "769acc6d-f5ba-4859-864d-c7a757932a61",
+        "name": "Genya Shinazugawa",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Jan 7",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kimetsu no Yaiba Mugen Resshahen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "id": "b1b17e0f-f936-4022-878d-a60aa8bf2c87",
+        "name": "Hikaru Sakuraba",
+        "gender": "f",
+        "height": "143.00",
+        "extras": {
+            "Birthday": "Jan 25",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8d77acf5-bc5f-4569-82e9-fe971dad8f8a",
+        "name": "Hinata Miyakawa",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Jun 15",
+            "Age": "21",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "22310b5e-5f69-4902-807d-28c53404c18c",
+        "name": "Kanata Izumi",
+        "gender": "f",
+        "height": "143.00",
+        "extras": {
+            "Birthday": "Aug 20",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "LuckyStar",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

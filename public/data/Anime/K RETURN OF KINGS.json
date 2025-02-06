@@ -1,0 +1,19 @@
+[
+    {
+        "id": "faa93444-5742-4bd7-a6ac-b3d9d71d9528",
+        "name": "Ichigen Miwa",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Nov 23",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "K RETURN OF KINGS",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

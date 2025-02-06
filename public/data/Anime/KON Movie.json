@@ -1,0 +1,138 @@
+[
+    {
+        "id": "ef0e7116-f9b1-47e7-828b-e74e891ff4bf",
+        "name": "Azusa Nakano",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "Nov 11",
+            "Age": "15-17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "KON Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ea396a7b-2099-4a6e-8dd4-61506d0b2092",
+        "name": "Mio Akiyama",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Jan 15",
+            "Age": "15-18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "KON Movie",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "68f6ac85-c076-4676-bcd4-6e77b37f1ff9",
+        "name": "Nodoka Manabe",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Dec 26",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "KON Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c225398f-38f7-4b07-846e-3ba6ef783933",
+        "name": "Ritsu Tainaka",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Aug 21",
+            "Age": "15-19",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "KON Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6c756678-2120-4c74-b32c-6d7b55818c25",
+        "name": "Sawako Yamanaka",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Jan 31",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "KON Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c97b031e-c951-4378-a428-82e3c7698001",
+        "name": "Tsumugi Kotobuki",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Jul 2",
+            "Age": "15-18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "KON Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0a989860-b8b3-4283-bd32-29ee316e1855",
+        "name": "Ui Hirasawa",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Feb 22",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "KON Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "97f236a9-7f4d-40ed-b938-5c49ac8bb591",
+        "name": "Yui Hirasawa",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Nov 27",
+            "Age": "15-18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "KON Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "id": "cfff58f4-be61-4f26-8d37-080b3ec44974",
+        "name": "Chosuke Nakamoto",
+        "gender": "m",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Jan 28",
+            "Age": "64",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fugou Keiji BalanceUNLIMITED",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "258e4706-1600-431d-a8b3-662d3a2cdb2b",
+        "name": "Daisuke Kanbe",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Feb 2",
+            "Age": "27",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fugou Keiji BalanceUNLIMITED",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "41c9de7f-c5b4-40d6-98fb-f4f19d6cbd1d",
+        "name": "Katsuhiro Takei",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Aug 8",
+            "Age": "49",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fugou Keiji BalanceUNLIMITED",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "769fda5d-d99b-41e9-82b3-0b26977f099e",
+        "name": "Ryo Hoshino",
+        "gender": "m",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Sep 6",
+            "Age": "26",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fugou Keiji BalanceUNLIMITED",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ddfbe01c-9b4f-400d-a7f8-d976c7648fd3",
+        "name": "Suzue Kanbe",
+        "gender": "f",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Jul 30",
+            "Age": "25",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fugou Keiji BalanceUNLIMITED",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

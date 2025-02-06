@@ -1,0 +1,121 @@
+[
+    {
+        "id": "ff58c944-5740-4af1-8e89-c0c92080a065",
+        "name": "Hikaru Nulljo",
+        "gender": "f",
+        "height": "140.00",
+        "extras": {
+            "Birthday": "Sep 13",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "THE iDOLMSTER Cinderella Girls U149",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c0ca569a-b808-40dc-84f7-da81e4841507",
+        "name": "Karin Doumyouji",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Jan 1",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "THE iDOLMSTER Cinderella Girls U149",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1014b60b-469f-4ade-91b3-e235dcdf4deb",
+        "name": "Risa Matoba",
+        "gender": "f",
+        "height": "143.00",
+        "extras": {
+            "Birthday": "Nov 19",
+            "Age": "12",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "THE iDOLMSTER Cinderella Girls U149",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3cc70369-141f-4730-8fc5-8ace79cf7f7a",
+        "name": "Shin Sato",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Jul 22",
+            "Age": "26",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "THE iDOLMSTER Cinderella Girls U149",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "06147f2a-1069-41d2-bcc1-182a53f3486f",
+        "name": "Syuko Shiomi",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Dec 12",
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "THE iDOLMSTER Cinderella Girls U149",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ad9e9df8-7b86-438c-8a52-61e796694c82",
+        "name": "Yukimi Sajou",
+        "gender": "f",
+        "height": "137.00",
+        "extras": {
+            "Birthday": "Sep 28",
+            "Age": "10",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "THE iDOLMSTER Cinderella Girls U149",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "38d13aef-27c9-4b5b-b211-be5981f726af",
+        "name": "Yuuki Otokura",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Oct 6",
+            "Age": "13",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "THE iDOLMSTER Cinderella Girls U149",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

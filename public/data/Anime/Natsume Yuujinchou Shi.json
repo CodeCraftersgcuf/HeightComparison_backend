@@ -1,0 +1,53 @@
+[
+    {
+        "id": "908d428a-64b5-42ce-9b5d-8eddcb85b64d",
+        "name": "Kaname Tanuma",
+        "gender": "m",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Sep 17",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Natsume Yuujinchou Shi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b306b5b7-1bf2-4997-905a-eab835bd40c3",
+        "name": "Takashi Natsume",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Jul 1",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Natsume Yuujinchou Shi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5327b5b8-9163-47ab-9657-8a8f0264757d",
+        "name": "Tooru Taki",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "May 15",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Natsume Yuujinchou Shi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

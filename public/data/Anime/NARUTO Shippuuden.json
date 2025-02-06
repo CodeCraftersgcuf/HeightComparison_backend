@@ -1,0 +1,19 @@
+[
+    {
+        "id": "b0b67f8c-d5dd-477e-8818-d74ca6671887",
+        "name": "Teuchi",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Aug 10",
+            "Age": "43",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "NARUTO Shippuuden",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

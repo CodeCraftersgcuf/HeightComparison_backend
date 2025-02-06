@@ -1,0 +1,19 @@
+[
+    {
+        "id": "f2e7e82b-aea7-4857-8a35-91f1a495bca4",
+        "name": "Maria Momoe",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Apr 18",
+            "Age": "23",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ookiku Furikabutte Natsu no Taikaihen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

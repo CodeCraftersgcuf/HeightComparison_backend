@@ -1,0 +1,19 @@
+[
+    {
+        "id": "95298f35-5c15-4d38-a35d-2c6ce84b38b9",
+        "name": "Zeus",
+        "gender": "m",
+        "height": "232.00",
+        "extras": {
+            "Birthday": "Jun 26",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ONE PIECE FILM RED",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

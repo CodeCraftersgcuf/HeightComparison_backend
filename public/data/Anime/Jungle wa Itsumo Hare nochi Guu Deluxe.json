@@ -1,0 +1,19 @@
+[
+    {
+        "id": "21b9f3bf-dbc1-4a07-997a-ce83e3cc9d96",
+        "name": "Weda",
+        "gender": "o",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "25",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Jungle wa Itsumo Hare nochi Guu Deluxe",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

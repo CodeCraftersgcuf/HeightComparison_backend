@@ -1,0 +1,19 @@
+[
+    {
+        "id": "0f0d662a-3767-4327-937e-ef5e7187212f",
+        "name": "Thoma",
+        "gender": "m",
+        "height": "123.00",
+        "extras": {
+            "Birthday": "Aug 30",
+            "Age": "7",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yakusoku no Neverland",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]
