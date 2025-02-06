@@ -15,8 +15,8 @@ return new class extends Migration
             $table->id();
             $table->string('title');
             $table->string('meta_title');
-            $table->text('description');
-            $table->text('meta_description');
+            $table->longText('description');
+            $table->longText('meta_description');
             $table->string('featured_image');
             $table->string('tags');
             $table->timestamps();

@@ -14,17 +14,20 @@ return new class extends Migration
         Schema::create('celebrity', function (Blueprint $table) {
             $table->bigIncrements('id'); // Auto-incrementing BIGINT primary key
             $table->string('name'); // Name of the celebrity
-            $table->enum('gender', ['m', 'f']); // Gender as ENUM
-            $table->decimal('height', 5, 2); // Height with 2 decimal precision
+            $table->string('gender'); // Gender as ENUM
+            $table->string('height'); // Height with 2 decimal precision
             $table->bigInteger('category_id')->unsigned(); // Foreign key for category_id
             $table->bigInteger('subcategory_id')->nullable()->unsigned(); // Foreign key for subcategory_id
             $table->bigInteger('fictional_subcategory_id')->nullable()->unsigned(); // Foreign key for fictional_subcategory_id
             $table->timestamps(); // created_at and updated_at timestamps
-
+            $table->json('extras');
+            $table->string('category');
+            $table->string('subCat1');
+            $table->string('subCat2');
             // Foreign Key Constraints
             $table->foreign('category_id')->references('id')->on('categories')->onDelete('cascade');
-            $table->foreign('subcategory_id')->references('id')->on('subcategories')->onDelete('set null');
-            $table->foreign('fictional_subcategory_id')->references('id')->on('fictional_subcategories')->onDelete('set null');
+            $table->foreign('subcategory_id')->references('id')->on('subcategories')->onDelete('cascade');
+            $table->foreign('fictional_subcategory_id')->references('id')->on('fictional_subcategories')->onDelete('cascade');
         });
     }
 
