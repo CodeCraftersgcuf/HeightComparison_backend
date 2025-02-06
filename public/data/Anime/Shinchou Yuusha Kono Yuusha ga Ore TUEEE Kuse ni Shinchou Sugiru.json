@@ -1,0 +1,19 @@
+[
+    {
+        "id": "bd526971-dbde-45b5-a125-7cd3bdfb279d",
+        "name": "Ishtar",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shinchou Yuusha Kono Yuusha ga Ore TUEEE Kuse ni Shinchou Sugiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "id": "03e4817d-23b3-49a1-acae-037d4797c68e",
+        "name": "Aoki",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Nov 1",
+            "Age": "30",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Jigokuraku",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e6902925-6c56-406d-aed7-0f1058c77eb6",
+        "name": "Genji",
+        "gender": "m",
+        "height": "205.00",
+        "extras": {
+            "Birthday": "Mar 3",
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Jigokuraku",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c976e4bc-204a-46a6-bb20-2f8f4a36782d",
+        "name": "Keiun",
+        "gender": "m",
+        "height": "210.00",
+        "extras": {
+            "Birthday": "Sep 16",
+            "Age": "35",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Jigokuraku",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "feef59ef-4978-40b2-ac23-f63614c042f7",
+        "name": "Moro Makiya",
+        "gender": "m",
+        "height": "191.00",
+        "extras": {
+            "Birthday": "Feb 6",
+            "Age": "24",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Jigokuraku",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "33bf60e8-9afa-4f85-8965-12efdba61262",
+        "name": "Rokurouta",
+        "gender": "m",
+        "height": "321.00",
+        "extras": {
+            "Birthday": "Oct 6",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Jigokuraku",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a375bee5-23f6-406d-9b26-3c2a9f0f946b",
+        "name": "Tesshin",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Jun 7",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Jigokuraku",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

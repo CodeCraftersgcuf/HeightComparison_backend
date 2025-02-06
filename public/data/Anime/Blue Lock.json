@@ -1,0 +1,172 @@
+[
+    {
+        "id": "55f6cc86-08e3-4dd3-943b-b4d973b74dcb",
+        "name": "Asahi Naruhaya",
+        "gender": "m",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Mar 20",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Blue Lock",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0aa7128e-7d1a-4ed4-8809-cd1a711d0c24",
+        "name": "Gin Gagamaru",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": "Jan 2",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Blue Lock",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "06ffee97-99e1-475e-96b6-ef840b0ce58a",
+        "name": "Hyoma Chigiri",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Dec 23",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Blue Lock",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fa131575-58f1-445e-8552-8d9da6e3dd98",
+        "name": "Jingo Raichi",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Oct 11",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Blue Lock",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "18a266a3-0629-4ec2-9067-51cb04b3a844",
+        "name": "Meguru Bachira",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Aug 8",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Blue Lock",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "363f7ce3-971a-49dd-978c-c6aefb208465",
+        "name": "Rensuke Kunigami",
+        "gender": "m",
+        "height": "188.00",
+        "extras": {
+            "Birthday": "Mar 11",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Blue Lock",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "344dfa7e-4181-435c-a5cc-a9e9e3d87463",
+        "name": "Reo Mikage",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Aug 12",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Blue Lock",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1a634b2d-db69-44af-bb08-32518c5b6378",
+        "name": "Seishirou Nagi",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": "May 6",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Blue Lock",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a96b6875-14c1-41ac-b456-76892daa1483",
+        "name": "Shouei Barou",
+        "gender": "m",
+        "height": "187.00",
+        "extras": {
+            "Birthday": "Jun 27",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Blue Lock",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cc20eb93-ee2f-42f8-9084-1219067ead8b",
+        "name": "Yoichi Isagi",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Apr 1",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Blue Lock",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

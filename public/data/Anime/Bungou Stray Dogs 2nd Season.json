@@ -1,0 +1,53 @@
+[
+    {
+        "id": "850effcf-773d-4dbf-9615-b032f338d767",
+        "name": "Howard Phillips Lovecraft",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": "Aug 20",
+            "Age": "28",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "29cdb127-ae23-4f63-b69c-95a4b612a487",
+        "name": "Kyuusaku Yumeno",
+        "gender": "m",
+        "height": "146.00",
+        "extras": {
+            "Birthday": "Jan 4",
+            "Age": "13",
+            "gender": "Non-binary",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e8ce2e1c-b736-42ce-bdce-a367692aeece",
+        "name": "Mark Twain",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Nov 30",
+            "Age": "22",
+            "gender": null,
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

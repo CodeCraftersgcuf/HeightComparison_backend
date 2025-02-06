@@ -1,0 +1,36 @@
+[
+    {
+        "id": "e902ea7f-79b6-4649-8a87-3e672a078efc",
+        "name": "Class President",
+        "gender": "o",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Seto no Hanayome OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "84107c38-ca70-43f9-ab10-89a17232b938",
+        "name": "Mawari Zenigata",
+        "gender": "f",
+        "height": "148.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Seto no Hanayome OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

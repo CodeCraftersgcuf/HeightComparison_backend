@@ -1,0 +1,70 @@
+[
+    {
+        "id": "184b0b6e-e08d-4a13-9fb4-81fec5c885fd",
+        "name": "Hacker",
+        "gender": "m",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Jun 14",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Akudama Drive",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9cd31ccd-9394-43b5-8f57-524e5bd5d823",
+        "name": "Hakobiya",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Aug 23",
+            "Age": "27",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Akudama Drive",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0968640c-7fbc-4c0e-93ec-720ea2e3b443",
+        "name": "Kenkaya",
+        "gender": "m",
+        "height": "200.00",
+        "extras": {
+            "Birthday": "Nov 29",
+            "Age": "35",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Akudama Drive",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4aa06a5b-ded2-4faa-9900-5f51383a23fd",
+        "name": "Satsujinki",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Jan 13",
+            "Age": "27",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Akudama Drive",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

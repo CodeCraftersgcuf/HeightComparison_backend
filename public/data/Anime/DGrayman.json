@@ -1,0 +1,70 @@
+[
+    {
+        "id": "2706f7b3-4926-4727-86bf-a040b3ab755c",
+        "name": "Eliade",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "May 9",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "Akuma oil"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "DGrayman",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4889598c-a235-4fb5-a315-7a5045cd5259",
+        "name": "Lenalee Lee",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Feb 20",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "DGrayman",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "44bcbdad-0486-411c-ae6b-a1427e90d0d1",
+        "name": "Miranda Lotto",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Jan 1",
+            "Age": "25",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "DGrayman",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "84438693-0d4d-4eae-8bba-bfa7ed077100",
+        "name": "Tyki Mikk",
+        "gender": "m",
+        "height": "188.00",
+        "extras": {
+            "Birthday": "Dec 25",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "DGrayman",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

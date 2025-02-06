@@ -1,0 +1,36 @@
+[
+    {
+        "id": "bfaf8fe3-7d7e-4635-82c8-dc3e7d183fb6",
+        "name": "Legoshi",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Apr 9",
+            "Age": "17-19",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BEASTARS 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c63a0642-6b1c-4fe3-9f5e-01680ba999e5",
+        "name": "Shiira",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Jun 21",
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BEASTARS 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

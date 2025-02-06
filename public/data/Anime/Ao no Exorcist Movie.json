@@ -1,0 +1,155 @@
+[
+    {
+        "id": "aded70d2-7cc1-4800-b5b8-054a5235d7f2",
+        "name": "Izumo Kamiki",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Oct 11",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao no Exorcist Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2a213d78-7665-449c-9b36-19d57bf949e0",
+        "name": "Konekomaru Miwa",
+        "gender": "m",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Jan 7",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao no Exorcist Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "deba9c29-6093-4d9d-9de8-7ca042e3a6c7",
+        "name": "Mephisto Pheles",
+        "gender": "m",
+        "height": "195.00",
+        "extras": {
+            "Birthday": "Aug 28",
+            "Age": "1000+",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao no Exorcist Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d058e1ad-e444-47a6-9f19-f10d5cb2f86a",
+        "name": "Renzou Shima",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Jul 4",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao no Exorcist Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bcade534-a4c8-4bcd-9490-60b747c60f9f",
+        "name": "Rin Okumura",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Dec 27, 1995",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao no Exorcist Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "08af7447-9b73-4a18-9481-7d2130fd0a66",
+        "name": "Ryuuji Suguro",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "Aug 20",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao no Exorcist Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "77d0318b-db01-4e08-bdf9-70d0d8c69577",
+        "name": "Shiemi Moriyama",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Mar 6",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao no Exorcist Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "11f90058-997c-4b97-92b0-ed503c6532c3",
+        "name": "Shirou Fujimoto",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "May 10",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao no Exorcist Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "021dfb1e-4358-4333-be7b-ad8145e9dd73",
+        "name": "Yukio Okumura",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Dec 27, 1992",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao no Exorcist Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

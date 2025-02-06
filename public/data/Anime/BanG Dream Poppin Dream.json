@@ -1,0 +1,19 @@
+[
+    {
+        "id": "a8043dd2-c5ae-43df-809d-4f6b52876396",
+        "name": "Tsukushi Futaba",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "Sep 15",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BanG Dream Poppin Dream",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

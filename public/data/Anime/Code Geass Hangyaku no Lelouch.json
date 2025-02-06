@@ -1,0 +1,19 @@
+[
+    {
+        "id": "77ff3917-2e7e-4c6b-ad39-f2811c9b8245",
+        "name": "Euphemia Li Britannia",
+        "gender": "f",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Oct 11, 2000",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Code Geass Hangyaku no Lelouch",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

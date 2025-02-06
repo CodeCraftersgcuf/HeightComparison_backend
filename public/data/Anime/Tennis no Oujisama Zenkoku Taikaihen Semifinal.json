@@ -1,0 +1,19 @@
+[
+    {
+        "id": "c30db02c-64dc-47ee-9a8a-c72f51dc37e1",
+        "name": "Senri Chitose",
+        "gender": "m",
+        "height": "194.00",
+        "extras": {
+            "Birthday": "Dec 31",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tennis no Oujisama Zenkoku Taikaihen Semifinal",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

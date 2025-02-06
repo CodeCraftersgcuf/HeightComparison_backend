@@ -1,0 +1,87 @@
+[
+    {
+        "id": "260602e4-fbea-48d6-9c71-463314f6c844",
+        "name": "Aya Yokota",
+        "gender": "f",
+        "height": "147.00",
+        "extras": {
+            "Birthday": "Jul 21",
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Oshi ga Budoukan Ittekuretara Shinu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1372f454-c71c-4e95-be91-d4f98190dd96",
+        "name": "Maina Ichii",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Jan 18",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "A type"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Oshi ga Budoukan Ittekuretara Shinu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b4528e88-be37-4e9a-ad4a-c8626d47f6e5",
+        "name": "Maki Hakata",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Jun 2",
+            "Age": "19",
+            "gender": "f",
+            "Blood Type": "O type"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Oshi ga Budoukan Ittekuretara Shinu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9bde9c87-f9dc-48a2-a6c4-4095503a4c8e",
+        "name": "Sorane Matsuyama",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Feb 13",
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": "A type"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Oshi ga Budoukan Ittekuretara Shinu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "535b01ed-40bc-4488-be8c-98ede07e18be",
+        "name": "Yumeri Mizumori",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Dec 30",
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": "A type"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Oshi ga Budoukan Ittekuretara Shinu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

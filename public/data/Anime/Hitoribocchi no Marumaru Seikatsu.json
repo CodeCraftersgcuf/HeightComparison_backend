@@ -1,0 +1,19 @@
+[
+    {
+        "id": "e54b43e4-be32-483b-a70d-05188c768028",
+        "name": "Bocchi Hitori",
+        "gender": "f",
+        "height": "145.00",
+        "extras": {
+            "Birthday": "May 5",
+            "Age": "12-13",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hitoribocchi no Marumaru Seikatsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

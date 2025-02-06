@@ -1,0 +1,19 @@
+[
+    {
+        "id": "8e825cba-c0ef-4fe2-9f8f-95fc00698995",
+        "name": "Riako Mihara",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "XX na Kanojo no Tsukurikata",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

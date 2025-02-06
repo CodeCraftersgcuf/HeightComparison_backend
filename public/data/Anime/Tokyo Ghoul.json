@@ -1,0 +1,189 @@
+[
+    {
+        "id": "09437261-58f4-452c-ab97-6d09f4eeb141",
+        "name": "Ayato Kirishima",
+        "gender": "m",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "Jul 4",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Ghoul",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c79cca8a-d6fa-4bee-9e83-8c7ec03442f3",
+        "name": "Hinami Fueguchi",
+        "gender": "f",
+        "height": "148.00",
+        "extras": {
+            "Birthday": "May 21",
+            "Age": "13-24",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Ghoul",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1245ca26-4e7a-4b66-acf3-17343c9c4a28",
+        "name": "Juuzou Suzuya",
+        "gender": "m",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Jun 8",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Ghoul",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2407ba8b-229a-417e-afc4-067d8572f5ea",
+        "name": "Ken Kaneki",
+        "gender": "m",
+        "height": "169.00",
+        "extras": {
+            "Birthday": "Dec 20",
+            "Age": "18-29",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Ghoul",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1e89c263-1ff0-4dae-810c-ad60d5c5809e",
+        "name": "Kishou Arima",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Dec 20",
+            "Age": "29",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Ghoul",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c0920aef-3ad4-47d5-a9bc-e5f3880bda91",
+        "name": "Koutarou Amon",
+        "gender": "m",
+        "height": "191.00",
+        "extras": {
+            "Birthday": "Apr 7",
+            "Age": "26",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Ghoul",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d45a60c1-9029-4ae5-9b32-7bd38f4743a0",
+        "name": "Kureo Mado",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Jan 24",
+            "Age": null,
+            "gender": null,
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Ghoul",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a6b54c32-e865-4af5-88d9-644598de7b93",
+        "name": "Nishiki Nishio",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Feb 4",
+            "Age": "19-25",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Ghoul",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e6be6b37-5c2a-4b89-af3d-44e99044befd",
+        "name": "Rize Kamishiro",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Oct 8",
+            "Age": "18-22",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Ghoul",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "986cdd2d-992e-4906-8a10-471a3f753b03",
+        "name": "Shuu Tsukiyama",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Mar 3",
+            "Age": "26",
+            "gender": null,
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Ghoul",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d2d85cab-9fa5-4dd0-9767-684f6fcfdf7c",
+        "name": "Touka Kirishima",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Jul 1",
+            "Age": "17-28",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Ghoul",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

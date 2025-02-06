@@ -1,0 +1,19 @@
+[
+    {
+        "id": "ce14331a-4354-4b84-be4a-cc86599dcc0b",
+        "name": "Xuan He",
+        "gender": "m",
+        "height": "189.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tian Guan Ci Fu",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "b2bd2244-2fe0-49f1-85e2-9f4ce02b4352",
+        "name": "Shion Karanomori",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "May 25, 2085",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "PSYCHOPASS",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

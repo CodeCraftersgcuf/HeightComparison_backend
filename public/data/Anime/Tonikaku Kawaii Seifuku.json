@@ -1,0 +1,19 @@
+[
+    {
+        "id": "3badcbf3-8108-4229-8ed8-4bcc900dd04e",
+        "name": "Ruka Suirenji",
+        "gender": "f",
+        "height": "149.00",
+        "extras": {
+            "Birthday": "Jan 8",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tonikaku Kawaii Seifuku",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

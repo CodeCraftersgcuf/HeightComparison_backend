@@ -1,0 +1,36 @@
+[
+    {
+        "id": "356b7a34-c5cf-46c8-9555-10ae2f108582",
+        "name": "Asuna Yuuki",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Sep 30, 2007",
+            "Age": "15-19",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sword Art Online Progressive  Hoshinaki Yoru no Aria",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "39640b41-ab50-4f25-b198-8a3503e02a3c",
+        "name": "Kazuto Kirigaya",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Oct 7, 2008",
+            "Age": "14-18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sword Art Online Progressive  Hoshinaki Yoru no Aria",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

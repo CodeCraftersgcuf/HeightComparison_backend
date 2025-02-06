@@ -1,0 +1,19 @@
+[
+    {
+        "id": "fcf559fc-3928-4f38-954c-ec4741cceb76",
+        "name": "Saori Shirahama",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Aug 30",
+            "Age": "38",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shijou Saikyou no Deshi Kenichi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

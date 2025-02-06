@@ -1,0 +1,36 @@
+[
+    {
+        "id": "25db1622-12b8-47b5-bdb7-414d8d8263e1",
+        "name": "Kimi Aoi",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "Apr 10",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kyoukaisenjou no Horizon II",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5f5ba859-1f40-497b-9288-0ba97bfd4a44",
+        "name": "Mary Stuart",
+        "gender": "f",
+        "height": "169.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kyoukaisenjou no Horizon II",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

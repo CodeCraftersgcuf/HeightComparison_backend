@@ -1,0 +1,53 @@
+[
+    {
+        "id": "0cd9ef98-2c87-4563-8b79-70adb7d6ed3f",
+        "name": "Karma Akabane",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Dec 25",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ansatsu Kyoushitsu 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "537e0ad6-4c91-43dd-a80b-a4c753039e27",
+        "name": "Nagisa Shiota",
+        "gender": "m",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "Jul 20",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ansatsu Kyoushitsu 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a97ea296-de80-494c-8352-db636fe7e9af",
+        "name": "Tetsuya Kuroko",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Jan 31",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ansatsu Kyoushitsu 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

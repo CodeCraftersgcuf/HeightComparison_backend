@@ -1,0 +1,19 @@
+[
+    {
+        "id": "bc87b5f8-2018-409f-9734-4514b8fd9434",
+        "name": "Toru Nayuki",
+        "gender": "m",
+        "height": "160.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "High School Star Musical",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

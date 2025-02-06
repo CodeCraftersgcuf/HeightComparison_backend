@@ -1,0 +1,19 @@
+[
+    {
+        "id": "0d266e8b-9850-4a1d-9a66-d2e9faa92d2d",
+        "name": "Kou Yukina",
+        "gender": "m",
+        "height": "186.00",
+        "extras": {
+            "Birthday": "Sep 6",
+            "Age": "21",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sekaiichi Hatsukoi Movie Yokozawa Takafumi no Baai",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

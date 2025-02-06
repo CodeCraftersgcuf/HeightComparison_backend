@@ -1,0 +1,138 @@
+[
+    {
+        "id": "082d75a6-106a-4bf8-a380-9aec62d36eed",
+        "name": "Aoi Yukimura",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Feb 19",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yama no Susume Next Summit",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "06b173ff-318c-48e1-86b7-7b33990036f1",
+        "name": "Hikari Onozuka",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Feb 29",
+            "Age": "20",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yama no Susume Next Summit",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9b7a4dd1-14b6-450c-aca6-11a1f9030345",
+        "name": "Hinata Kuraue",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Nov 11",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yama no Susume Next Summit",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "77c01e30-7c52-4edc-ab97-2fdfaaeced7c",
+        "name": "Honoka Kurosaki",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "Jun 25",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yama no Susume Next Summit",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8b90f00c-7cce-452a-9997-dce99e2d5269",
+        "name": "Kaede Saitou",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Jan 16",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yama no Susume Next Summit",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2ed56e7c-9bff-4043-9c15-55a2d8fab3d5",
+        "name": "Koharu Senjuin",
+        "gender": "f",
+        "height": "143.00",
+        "extras": {
+            "Birthday": "Dec 17",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yama no Susume Next Summit",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3b0f3e87-c6ef-4b1c-a98b-6e2e0208992c",
+        "name": "Kokona Aoba",
+        "gender": "f",
+        "height": "144.00",
+        "extras": {
+            "Birthday": "Aug 11",
+            "Age": "13",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yama no Susume Next Summit",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3d471056-a72b-47d6-a0cf-341ee2022e38",
+        "name": "Yuuka Sasahara",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "May 18",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yama no Susume Next Summit",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

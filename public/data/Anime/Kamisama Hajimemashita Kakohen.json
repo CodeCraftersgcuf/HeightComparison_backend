@@ -1,0 +1,19 @@
+[
+    {
+        "id": "1d670d7e-fcaf-483b-a48c-cdbe380c0063",
+        "name": "Tomoe",
+        "gender": "f",
+        "height": "190.00",
+        "extras": {
+            "Birthday": "Aug 19",
+            "Age": "600+",
+            "gender": null,
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kamisama Hajimemashita Kakohen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

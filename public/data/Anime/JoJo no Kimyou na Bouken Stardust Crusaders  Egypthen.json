@@ -1,0 +1,36 @@
+[
+    {
+        "id": "f626e1a3-1a10-45d6-8563-c048a8a603f8",
+        "name": "Jonathan Joestar",
+        "gender": "m",
+        "height": "195.00",
+        "extras": {
+            "Birthday": "Apr 4, 1868",
+            "Age": "12-20",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Stardust Crusaders  Egypthen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0fd96bec-3ad0-435f-a437-766668d6ac8b",
+        "name": "Suzie Q",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Stardust Crusaders  Egypthen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

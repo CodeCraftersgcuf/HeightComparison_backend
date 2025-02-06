@@ -1,0 +1,19 @@
+[
+    {
+        "id": "4a8d65af-909e-436a-b9aa-017fed63a002",
+        "name": "Tsukasa Yuzaki",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Apr 3",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tonikaku Kawaii SNS",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

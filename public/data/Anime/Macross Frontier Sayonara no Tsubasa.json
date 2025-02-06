@@ -1,0 +1,36 @@
+[
+    {
+        "id": "17c88f94-35be-40f4-9c06-1de3b439bc85",
+        "name": "Ranka Lee",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Apr 29, 2043",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Macross Frontier Sayonara no Tsubasa",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "539ad498-fb1a-4ad1-8f04-d63aecfd3962",
+        "name": "Sheryl Nome",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Nov 23",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Macross Frontier Sayonara no Tsubasa",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

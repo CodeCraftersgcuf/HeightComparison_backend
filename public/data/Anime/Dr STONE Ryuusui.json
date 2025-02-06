@@ -1,0 +1,121 @@
+[
+    {
+        "id": "9c8879d9-c144-43d0-ac07-e0356fbad3af",
+        "name": "Chrome",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Feb 4",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Dr STONE Ryuusui",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "40e2c93a-ea5a-4da6-8ab8-0bc97dea7347",
+        "name": "Gen Asagiri",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Apr 1, 2000",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Dr STONE Ryuusui",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "eebbbd2d-27de-4ea6-9c6a-cbee0a0b03df",
+        "name": "Minami Hokutouzai",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Jun 21",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Dr STONE Ryuusui",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fe5f2ef3-89fd-4536-80ed-4a77e9f03eca",
+        "name": "Nikki Hanada",
+        "gender": "f",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Aug 31",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Dr STONE Ryuusui",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5582ffad-81ca-4c2c-b612-d0627a7c39ee",
+        "name": "Ryuusui Nullami",
+        "gender": "m",
+        "height": "187.00",
+        "extras": {
+            "Birthday": "Nov 11",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Dr STONE Ryuusui",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "74e7c7a2-539b-4c64-b05c-e69664216e94",
+        "name": "Tetsuya Kinomoto",
+        "gender": "m",
+        "height": "155.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Dr STONE Ryuusui",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8f9723c1-f1d7-415b-81c3-71e2e293e7fb",
+        "name": "You Uei",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Jan 31",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Dr STONE Ryuusui",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "id": "f3fd420e-4a05-4ae9-97a9-cca424883a38",
+        "name": "Akiko Yosano",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Dec 7",
+            "Age": "25",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9709c41d-e01a-42b4-9554-53751b01ba6f",
+        "name": "Atsushi Nakajima",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "May 5",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "347628e5-0aa1-4913-b3ef-0a758c90a68d",
+        "name": "Chuuya Nakahara",
+        "gender": "m",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Apr 29",
+            "Age": "22",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "aae3c6c7-f9a1-4150-846f-8e6ebc9cdec8",
+        "name": "Doppo Kunikida",
+        "gender": "m",
+        "height": "189.00",
+        "extras": {
+            "Birthday": "Aug 30",
+            "Age": "22",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b7a26a3f-b34b-4b37-be75-c218f83a4588",
+        "name": "Edgar Allan Poe",
+        "gender": "m",
+        "height": "182.00",
+        "extras": {
+            "Birthday": "Jan 19",
+            "Age": "28",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9576a110-d3ab-452e-b1c5-96bba30e09bd",
+        "name": "Francis Scott Key Fitzgerald",
+        "gender": "m",
+        "height": "191.00",
+        "extras": {
+            "Birthday": "Sep 24",
+            "Age": "32",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0217ab96-4045-41ad-b962-0756a8e43232",
+        "name": "Junichirou Tanizaki",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Jul 24",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2546dae7-a726-4b66-8203-26e18570c0ec",
+        "name": "Kenji Miyazawa",
+        "gender": "m",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Aug 27",
+            "Age": "14",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "925c8c2e-39e9-41e6-a396-d9f72d2adf8b",
+        "name": "Michizou Tachihara",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Jul 30",
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8bb67e06-2fc1-49fc-bbf8-9d786d5d7bb6",
+        "name": "Nikolai Gogol",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Apr 1",
+            "Age": "26",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "09ab2470-4c2b-4f32-a304-f4a24ea2b18f",
+        "name": "Osamu Dazai",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "Jun 19",
+            "Age": "22",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "90d76a32-3bbd-4349-a866-3b3172d8ec0a",
+        "name": "Ougai Mori",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Feb 17",
+            "Age": "40",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ba625c8c-8a7f-474a-886e-30e92fcb52b2",
+        "name": "Ranpo Edogawa",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Oct 21",
+            "Age": "26",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "66fff487-8e6c-46e5-8a35-456abf78a0cc",
+        "name": "Sakunosuke Oda",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Oct 26",
+            "Age": "23",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0eb0bddd-4d0a-4084-9c3d-aa0c77a2a591",
+        "name": "Yukichi Fukuzawa",
+        "gender": "m",
+        "height": "186.00",
+        "extras": {
+            "Birthday": "Jan 10",
+            "Age": "45",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 4th Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

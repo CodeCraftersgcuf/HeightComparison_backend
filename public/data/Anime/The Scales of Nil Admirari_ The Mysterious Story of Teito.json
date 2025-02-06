@@ -1,0 +1,376 @@
+[
+    {
+        "id": "afd6c440-95bd-4606-94d0-e2a45b5ff4fb",
+        "name": "Akira Kougami",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "707643fd-f8c8-4e7c-82a0-ce2a97cef8bd",
+        "name": "Arata Kijitani",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "af4c991b-8749-4e87-a703-fa388abcb9aa",
+        "name": "Hayato Ozaki",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9572f9d5-3e4c-43f8-93d4-ee7540260cf0",
+        "name": "Hideki Owase",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d4f7c485-8b10-4289-9620-bc320179bc93",
+        "name": "Hisui Hoshikawa",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8fa9e0a6-38e7-4f34-922c-bc366d4dc5b1",
+        "name": "Hitaki Kuze",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a64c8f77-eda3-4c03-a7d9-13675a52d116",
+        "name": "Keizaburou Ouchi",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a39b10a0-ade1-4b37-8859-124ebd4b5651",
+        "name": "Koruri Masaki",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "dc1b5cf5-3c0e-4a46-98a3-85c880d58299",
+        "name": "Kuina",
+        "gender": "f",
+        "height": "186.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4008e1d8-c741-4c3b-8d91-a150b76e68b1",
+        "name": "Motofumi Mashiko",
+        "gender": "m",
+        "height": "171.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4ea52f24-5566-4f6a-bcbb-5d4f1c732761",
+        "name": "Rui Sagisawa",
+        "gender": "f",
+        "height": "175.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "037fa54d-87d6-4050-838f-e3f78e022805",
+        "name": "Shiori Tokimiya",
+        "gender": "f",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e3392e87-f679-4b56-bc4e-a394064a658d",
+        "name": "Shirou Mozuyama",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d7030fdb-c3ce-4e74-b87c-b0666042f8e0",
+        "name": "Shizuru Migiwa",
+        "gender": "f",
+        "height": "178.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "47c9ea48-b488-4bf1-a83e-1db0a3d00985",
+        "name": "Shougo Ukawa",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7d2f09e3-5366-4754-93c5-793d5c11b149",
+        "name": "Shouko Shiginuma",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8b4924c3-c64c-4a20-9993-8f1ca732444b",
+        "name": "Takashi Shiginuma",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ef05a358-96e1-48e7-addf-0fc7328e8b85",
+        "name": "Takuma Yoshikiri",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "af993a8d-603e-4763-854e-cc33e6589abd",
+        "name": "Tarou Tsubameno",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "76a6f6f7-efb2-4e6e-9789-13822d821730",
+        "name": "Touichirou Sasagoi",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b486e46f-cc33-4033-82c5-be019b6efe82",
+        "name": "Tsugumi Kuze",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8edeeb69-e820-49b6-93fe-777b7a454a82",
+        "name": "Yutaka Nabari",
+        "gender": "m",
+        "height": "182.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "The Scales of Nil Admirari: The Mysterious Story of Teito",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "id": "f87e6295-d1a4-4c34-b174-dc7284da78fc",
+        "name": "Chisato Shirasagi",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Apr 6",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BanG Dream 3rd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c2f95a87-45b0-42f2-ad14-05ef12b10988",
+        "name": "Chiyu Tamade",
+        "gender": "f",
+        "height": "140.00",
+        "extras": {
+            "Birthday": "Dec 7",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BanG Dream 3rd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c30a8a8d-47ab-4f0c-ae52-9a7d1d55b404",
+        "name": "Hagumi Kitazawa",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Jul 30",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BanG Dream 3rd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7fb3f899-d415-47cc-b691-3154f265c38d",
+        "name": "Kasumi Toyama",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Jul 14",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BanG Dream 3rd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "490f981a-9970-464d-8e35-49881a14f42f",
+        "name": "Lisa Imai",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Aug 25",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BanG Dream 3rd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c1fdf545-21e7-46b3-aff6-46e9241f6e7c",
+        "name": "Moca Aoba",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Sep 3",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BanG Dream 3rd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0b88a9ba-d900-4a7b-bcfc-ea7da4c825ff",
+        "name": "Rinko Shirokane",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Oct 17",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BanG Dream 3rd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

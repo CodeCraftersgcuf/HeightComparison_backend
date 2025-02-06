@@ -1,0 +1,121 @@
+[
+    {
+        "id": "f10396bc-2aa0-49a9-8f2c-2b63159cad6a",
+        "name": "Hani Usami",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Nov 25, 1993",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SKET DANCE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e4a2761a-4a0e-4b98-ae65-fe52f790b920",
+        "name": "Kiri Katou",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Apr 8, 1993",
+            "Age": "16-17",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SKET DANCE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a661b38c-ebd5-4fa3-9ea7-7bafe48c7d3c",
+        "name": "Kiyoshi Date",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "May 30",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SKET DANCE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ae7f9ef7-260b-4c68-8f03-2e2cd7535297",
+        "name": "Mimori Unyuu",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "May 20, 1992",
+            "Age": "17-18",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SKET DANCE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c84bb389-6a0f-4332-9e77-afdf0f216bbc",
+        "name": "Ryousuke Kirishima",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Apr 9",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SKET DANCE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "82dd0dd6-b541-4ab9-811a-d9fb2e36a76c",
+        "name": "Shinba Michiru",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Oct 6, 1991",
+            "Age": "18-19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SKET DANCE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "406bde35-d73d-43f0-9716-3992ef0b4913",
+        "name": "Tetsuji Chuuma",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Oct 23",
+            "Age": "33",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SKET DANCE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

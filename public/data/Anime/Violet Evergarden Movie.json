@@ -1,0 +1,19 @@
+[
+    {
+        "id": "be4df08c-3813-4149-9aff-c9b1eec419d1",
+        "name": "Violet Evergarden",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "14-18",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Violet Evergarden Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

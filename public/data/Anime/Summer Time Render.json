@@ -1,0 +1,70 @@
+[
+    {
+        "id": "8e2bf7f5-96ff-477f-81d9-71f3403f868c",
+        "name": "Hizuru Minakata",
+        "gender": "f",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Summer Time Render",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4b40fd6e-f2cf-4c0b-a946-458187565c6c",
+        "name": "Sou Hishigata",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Nov 20",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Summer Time Render",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fca16efe-1495-4213-bea0-c503837c236b",
+        "name": "Tokiko Hishigata",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "Jun 25",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Summer Time Render",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "21361b27-7d4c-497b-babf-482601797160",
+        "name": "Ushio Kofune",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Jul 25, 2000",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Summer Time Render",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

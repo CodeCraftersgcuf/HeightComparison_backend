@@ -1,0 +1,716 @@
+[
+    {
+        "id": "e05709e0-51b9-454a-9b2b-a91bd857038f",
+        "name": "All Might",
+        "gender": "m",
+        "height": "220.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a4857b3d-ebb2-4570-82a7-dc82a7afb14c",
+        "name": "Denki Kaminari",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "dd950984-b675-4404-9ed7-0dd5b615e8dc",
+        "name": "Eijiro Kirishima",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0008d583-e035-4951-a23c-2c79c6c49ad6",
+        "name": "Emi Fukukado",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fa637627-02be-4499-8be4-48d57e505985",
+        "name": "Endeavor",
+        "gender": "m",
+        "height": "195.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "07233d65-7c33-459d-a11c-b38370fb1493",
+        "name": "Fumikage Tokoyami",
+        "gender": "m",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9a7a2b10-d7c3-4a62-9afd-66676412d60b",
+        "name": "Gran Torino",
+        "gender": "m",
+        "height": "120.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b0838e2c-d757-46fe-8abb-20e5f01f8c9b",
+        "name": "Hanta Sero",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "950395e1-ba4c-4e1e-82ca-ede85f3174ab",
+        "name": "Hitoshi Shinso",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3a75fc2b-be89-4933-b10c-d168ac2e4631",
+        "name": "Ibara Shiozaki",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c1a2a74c-ae4b-40db-a89a-b58978cb18c5",
+        "name": "Inasa Yoarashi",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a15ec09d-6b0c-4eac-8d3f-11051b9c567b",
+        "name": "Itsuka Kendo",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a03634e5-a057-42c7-8767-20045294d0b5",
+        "name": "Izuku Midoriya",
+        "gender": "m",
+        "height": "166.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "415eba30-07ab-4c9d-af18-0cbc05e9d130",
+        "name": "Kamui Woods",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f08ae49d-a424-4e5d-8026-201a65ff911b",
+        "name": "Katsuki Bakugo",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cfa2a2f8-50ef-4618-9091-1bb94939bf22",
+        "name": "Koji Koda",
+        "gender": "m",
+        "height": "186.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b9ca477b-825e-446f-afc9-4e12c1374a73",
+        "name": "Kouta Izumi",
+        "gender": "m",
+        "height": "107.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8455333c-5b44-4b3f-a111-d8c77debe91a",
+        "name": "Kuugo Sakamata",
+        "gender": "m",
+        "height": "202.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9a7075f7-97af-4859-b377-e16a597dbb71",
+        "name": "Kyoka Jiro",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7fc03ba0-a197-4c0e-acab-71bae4ce5d54",
+        "name": "Mashirao Ojiro",
+        "gender": "m",
+        "height": "169.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8690a634-2039-4c11-a59c-ffe52975c730",
+        "name": "Mei Hatsume",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "43dd164e-20ea-4c59-8db1-026cdbcda45e",
+        "name": "Mezou Shouji",
+        "gender": "m",
+        "height": "187.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e300bec0-b99c-4b59-b677-91110058693b",
+        "name": "Mina Ashido",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e334402b-9272-4ddb-a542-7c501d69548e",
+        "name": "Minoru Mineta",
+        "gender": "m",
+        "height": "108.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c9e5071e-8d4a-4947-a099-fd9949bb72d3",
+        "name": "Moe Kamiji",
+        "gender": "f",
+        "height": "169.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "05a503a4-f86a-4366-88ae-ebd1df897001",
+        "name": "Momo Yaoyorozu",
+        "gender": "f",
+        "height": "173.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "30298e2b-51d6-4919-97fa-e1d2d1a7c5ba",
+        "name": "Neito Monoma",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "90047b12-4bb6-4179-9332-20b7e86617e1",
+        "name": "Ochako Uraraka",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "665fc00c-caa5-4e8a-a255-61ae78aa9ab9",
+        "name": "Rikido Sato",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "69944fce-5713-48e8-acc1-06d356bfdcbf",
+        "name": "Ryuuko Tsuchikawa",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7d53010d-26dd-475f-8445-08dc0c643221",
+        "name": "Seiji Shishikura",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ff656b48-bf4d-4def-b199-227def255d26",
+        "name": "Shino Sousaki",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2f6263b7-ac80-4ba1-9178-e42ab8bde58f",
+        "name": "Shota Aizawa",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1d518c7d-e5ad-49a9-9ded-560ee2185899",
+        "name": "Shoto Todoroki",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8cbcfe97-90d2-4542-9dd9-a4bbc686cbb6",
+        "name": "Tamaki Amajiki",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "db1f8b63-34fb-447f-92ba-4a505ff31627",
+        "name": "Tenya Iida",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7f7bab70-b783-40d2-a2bc-9f4fa11d808e",
+        "name": "Tomoko Shiretoko",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5e8a0c2e-bc1d-4bcb-b98f-3e964a5006f5",
+        "name": "Toru Hagakure",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9b7ad636-c7cf-4389-8320-324e06ba2858",
+        "name": "Tsuyu Asui",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3c36c0ab-61ef-4cb3-a444-3bc43b50608d",
+        "name": "Yawara Chatora",
+        "gender": "f",
+        "height": "190.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "87b2481f-ab1f-4ca6-9d0f-31a9f83b32d0",
+        "name": "Yokumiru Mera",
+        "gender": "f",
+        "height": "171.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "acca93e6-5819-4e13-92f4-5ebdc59a4914",
+        "name": "Yuga Aoyama",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "My Hero Academia (Series)",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

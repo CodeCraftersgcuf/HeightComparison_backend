@@ -1,0 +1,19 @@
+[
+    {
+        "id": "f2e46532-445f-4b88-91cc-907bad3dd9a1",
+        "name": "Maho Hiyajou",
+        "gender": "f",
+        "height": "140.00",
+        "extras": {
+            "Birthday": "Nov 2, 1989",
+            "Age": "21",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SteinsGate 0",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

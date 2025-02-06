@@ -1,0 +1,19 @@
+[
+    {
+        "id": "f9e63dd6-0392-44b6-bb50-ccbe88e560d8",
+        "name": "Gorou Honda",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Nov 5, 1985",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Major S5",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

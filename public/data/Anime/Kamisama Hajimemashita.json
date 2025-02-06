@@ -1,0 +1,19 @@
+[
+    {
+        "id": "cfc5e158-b1f0-4eb3-85af-16ffdd98a2cf",
+        "name": "Otohiko",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kamisama Hajimemashita",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

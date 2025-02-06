@@ -1,0 +1,36 @@
+[
+    {
+        "id": "3486abbc-4c3c-4545-96f0-ae4cae1201d6",
+        "name": "Kaname Chidori",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Dec 24",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Full Metal Panic Fumoffu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5dd9f2c0-2814-40ab-8415-363bf0869414",
+        "name": "Sousuke Sagara",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Full Metal Panic Fumoffu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

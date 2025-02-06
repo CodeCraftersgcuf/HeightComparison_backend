@@ -1,0 +1,53 @@
+[
+    {
+        "id": "cb0ff3af-a8ae-44c1-a7f1-ae28769299a1",
+        "name": "Langa Hasegawa",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Feb 8",
+            "Age": "17 (Anime), 18 (officially)",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SK",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ecd1777d-6892-4c79-b0f7-2a5de7e3482d",
+        "name": "Miya Chinen",
+        "gender": "m",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Feb 22",
+            "Age": "13",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SK",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4faf2033-ed73-4ecb-b382-606367c5bf09",
+        "name": "Reki Kyan",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Aug 8",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SK",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

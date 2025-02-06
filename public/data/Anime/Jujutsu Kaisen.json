@@ -1,0 +1,87 @@
+[
+    {
+        "id": "fa443ad3-3295-46b1-a6ad-a2790cc195a8",
+        "name": "Kento Nullami",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Jul 3",
+            "Age": "27",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Jujutsu Kaisen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "dbc5a164-7433-4d4d-9bb1-e2df40ffbd8c",
+        "name": "Mei Mei",
+        "gender": "f",
+        "height": "173.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "30",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Jujutsu Kaisen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7cd0079c-0711-4f71-a404-0eccb9d445f8",
+        "name": "Nobara Kugisaki",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Aug 7, 2002",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Jujutsu Kaisen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e12e5605-782e-4e74-a553-de0ba56af099",
+        "name": "Satoru Gojou",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": "Dec 7, 1989",
+            "Age": "28",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Jujutsu Kaisen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5cf015c1-252e-4321-9460-db5894eb1fde",
+        "name": "Takada",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Jujutsu Kaisen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

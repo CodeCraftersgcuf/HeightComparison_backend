@@ -1,0 +1,274 @@
+[
+    {
+        "id": "d40d2398-485b-4bbf-8351-411994e9da78",
+        "name": "Annie Leonhart",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "Mar 22",
+            "Age": "16-20",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5fcea2c6-abb1-4100-9395-6117cf3c7f0e",
+        "name": "Armin Arlert",
+        "gender": "m",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Nov 3",
+            "Age": "15 (850), 19 (854)",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5ec358ab-f85e-493a-9ea6-ea3cd7fb7f7a",
+        "name": "Bertolt Hoover",
+        "gender": "m",
+        "height": "192.00",
+        "extras": {
+            "Birthday": "Dec 30",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f43a9371-9b4a-4640-9283-745f12fc940e",
+        "name": "Connie Springer",
+        "gender": "m",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "May 2",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fced16cb-f4fd-4426-948d-6ee2bbcd3671",
+        "name": "Eren Yeager",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Mar 30",
+            "Age": "15-19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ced467d7-1b6a-43cf-b1c4-1733a7b98c36",
+        "name": "Erwin Smith",
+        "gender": "m",
+        "height": "188.00",
+        "extras": {
+            "Birthday": "Oct 14",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "265db79e-8280-4693-b2a7-54a387af1a7b",
+        "name": "Hange Zoe",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Sep 5",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "248f9e9b-125a-47ac-9875-ca7264fa9e3e",
+        "name": "Hitch Dreyse",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "May 10",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8659751e-12d1-43c5-819d-5c1a36c90919",
+        "name": "Jean Kirstein",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Apr 7",
+            "Age": "16, 19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "eda2e5d2-92f3-4de7-a2d7-403e25e8d342",
+        "name": "Krista Lenz",
+        "gender": "f",
+        "height": "145.00",
+        "extras": {
+            "Birthday": "Jan 15",
+            "Age": "15; 19",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "38c36b13-af5a-4c0d-a94f-f1a58ae62e46",
+        "name": "Levi",
+        "gender": "m",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Dec 25",
+            "Age": "Over 30",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e0f12b39-66c6-4772-81dc-1b936d76d7c3",
+        "name": "Marco Bott",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Jun 16",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b03319f1-2641-49a6-9252-a99260cc8461",
+        "name": "Mikasa Ackerman",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Feb 10",
+            "Age": "15-19",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2d6310c1-3fe6-4b26-8606-4da66cbf732f",
+        "name": "Reiner Braun",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Aug 1",
+            "Age": "17-21",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f594ab5d-0295-4c26-9f27-36b95db43d01",
+        "name": "Ymir",
+        "gender": "f",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Feb 17",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "decb2e33-782e-4341-ba48-9a40245e72d0",
+        "name": "Zeke",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Aug 1",
+            "Age": "25-29",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin 3 Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

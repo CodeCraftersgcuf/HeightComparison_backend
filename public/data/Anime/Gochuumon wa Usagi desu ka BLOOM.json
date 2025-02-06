@@ -1,0 +1,138 @@
+[
+    {
+        "id": "19e47d80-a7ba-4323-a17f-6df05e92cf09",
+        "name": "Chino Kafuu",
+        "gender": "f",
+        "height": "144.00",
+        "extras": {
+            "Birthday": "Dec 4",
+            "Age": "13",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gochuumon wa Usagi desu ka BLOOM",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0092f7ec-0f50-4e4f-86fd-8150d35c2127",
+        "name": "Chiya Ujimatsu",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Sep 19",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gochuumon wa Usagi desu ka BLOOM",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6ad6709a-5531-4e59-8820-5ee7fa8a6f51",
+        "name": "Cocoa Hoto",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Apr 10",
+            "Age": "15-17",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gochuumon wa Usagi desu ka BLOOM",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "dfe21b9c-a24c-4bc0-8f15-834ab2a3f4c1",
+        "name": "Maya Jouga",
+        "gender": "f",
+        "height": "140.00",
+        "extras": {
+            "Birthday": "Aug 8",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gochuumon wa Usagi desu ka BLOOM",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bbb579c5-a035-434d-bde9-a288bc81531c",
+        "name": "Megumi Natsu",
+        "gender": "f",
+        "height": "145.00",
+        "extras": {
+            "Birthday": "Nov 2",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gochuumon wa Usagi desu ka BLOOM",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d37aaabd-416d-4239-8de2-f410dcbab1fd",
+        "name": "Midori Aoyama",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Oct 27",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gochuumon wa Usagi desu ka BLOOM",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "22d50118-8aae-4964-8d07-18853579b86a",
+        "name": "Rize Tedeza",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Feb 14",
+            "Age": "15-16",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gochuumon wa Usagi desu ka BLOOM",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7db712d3-2e9c-45ad-aacd-70a9695ba09c",
+        "name": "Syaro Kirima",
+        "gender": "f",
+        "height": "151.00",
+        "extras": {
+            "Birthday": "Jul 15",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gochuumon wa Usagi desu ka BLOOM",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

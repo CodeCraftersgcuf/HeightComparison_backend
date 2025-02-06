@@ -1,0 +1,393 @@
+[
+    {
+        "id": "96ad0fd3-2103-41d5-86c9-460e69a3ebef",
+        "name": "Angela",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "64979c03-4cfa-4ac0-8c68-de1c53f7904e",
+        "name": "Anna",
+        "gender": "f",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "90657082-a1ed-477e-ab27-eb5e0d5baa05",
+        "name": "Ashwaya",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7f01f16c-de87-4b35-80ce-8e3d11fcaea2",
+        "name": "Barinas",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "936f72c8-3dbd-4d23-8496-10ad24364803",
+        "name": "Beatrice",
+        "gender": "f",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7c9f649c-f9e1-4dab-8277-f829ae5d84fa",
+        "name": "Camille",
+        "gender": "f",
+        "height": "179.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "106b5afa-3655-4971-ac05-2e90f43225b5",
+        "name": "Emma",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1fea0f4e-9bc0-4aef-bc88-3d6af9157662",
+        "name": "Frantiva",
+        "gender": "f",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "77cfb84f-f00f-4aa0-b24c-af5ce4d716b2",
+        "name": "Gekka Ootori",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "69697e74-0716-4374-a64f-af0840cb094c",
+        "name": "Hersey",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1202d71d-98c6-49e2-9813-d5b5287959fa",
+        "name": "Hotaru Kamiizumi",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7d1067cf-ad78-449a-9ee8-238b12b3c890",
+        "name": "Kasumi",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cdd6d32d-1162-4852-a49e-ad035cc22f01",
+        "name": "Kiraya",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "945263b0-c812-40ff-8588-e00a48bf10d2",
+        "name": "Maki Toubun",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "dc1f2f5c-d34b-4744-b945-db3e2c24893a",
+        "name": "Mei Iga",
+        "gender": "f",
+        "height": "138.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cca9b98d-c98e-4e07-bc95-5741052963ee",
+        "name": "Miyuki Soga",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f029b804-0738-43bf-ad8b-ecccb454cf94",
+        "name": "Nina",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fde07324-2b1d-4b82-a1ed-0fc733218645",
+        "name": "Rie Natsume",
+        "gender": "f",
+        "height": "145.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8930b6a2-460d-46df-9172-30d5677ea174",
+        "name": "Rikia",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "167499c2-024a-4ae7-9568-5adf213f55d1",
+        "name": "Rotania",
+        "gender": "f",
+        "height": "139.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "79431c01-533f-48d5-9f10-556d488fbbb5",
+        "name": "Saya Murasaki",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e4656442-5fb5-4042-84e9-adb2cef276d9",
+        "name": "Victoria",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4ac34d0d-2653-40b8-82bf-7df020299db6",
+        "name": "Yuffie",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Illusion Connect",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

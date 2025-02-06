@@ -1,0 +1,70 @@
+[
+    {
+        "id": "ceedaf36-28a1-4956-b709-ae1ad1fc2682",
+        "name": "Futaba Yoshioka",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Jun 19",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao Haru Ride PAGE13",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d2a56b9c-3a50-4a5a-8c13-1227661b6929",
+        "name": "Kou Mabuchi",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "May 27",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao Haru Ride PAGE13",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5d6028cb-40da-4f7a-8e40-a0c67d4db9be",
+        "name": "Shuuko Murao",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Nov 20",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao Haru Ride PAGE13",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7638fb44-ba55-4611-bb3b-b6920c02ce46",
+        "name": "Yuuri Makita",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Sep 10",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ao Haru Ride PAGE13",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

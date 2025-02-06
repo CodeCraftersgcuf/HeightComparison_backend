@@ -1,0 +1,19 @@
+[
+    {
+        "id": "5c0e3d72-e822-4e72-a43e-1506a0c35db5",
+        "name": "Rudeus Greyrat",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Nov 22",
+            "Age": "34 (previous life), 23 (current)",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Mushoku Tensei Isekai Ittara Honki Dasu Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

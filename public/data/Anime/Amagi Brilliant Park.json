@@ -1,0 +1,19 @@
+[
+    {
+        "id": "8572f932-31a0-4564-9c43-f47e0f24ab39",
+        "name": "Isuzu Sento",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Mar 7",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Amagi Brilliant Park",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

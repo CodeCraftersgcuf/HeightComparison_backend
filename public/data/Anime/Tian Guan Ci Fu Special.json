@@ -1,0 +1,36 @@
+[
+    {
+        "id": "4b71c79e-0d88-4c8f-883c-2f8b3f36bb10",
+        "name": "Cheng Hua",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": "Jun 10",
+            "Age": "800+",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tian Guan Ci Fu Special",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0fa64cb0-e9fc-4508-bab4-4e1357222ed4",
+        "name": "Lian Xie",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Jul 15",
+            "Age": "800+",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tian Guan Ci Fu Special",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

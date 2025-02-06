@@ -1,0 +1,121 @@
+[
+    {
+        "id": "c8a33ed0-effa-4e32-8400-cd31ee73fb76",
+        "name": "Anri Sonohara",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Oct 31",
+            "Age": "15-18",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Durararax2 Ketsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "979b5a4e-2c67-4ebc-9bfb-79d1bc5f13e1",
+        "name": "Izaya Orihara",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "May 4",
+            "Age": "23-27",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Durararax2 Ketsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0fb7281e-dce0-46e5-9802-a01cf2f065ba",
+        "name": "Kyohei Kadota",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Sep 15",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Durararax2 Ketsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3fc36400-9bde-4656-9b62-ac0b1e5237b9",
+        "name": "Masaomi Kida",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Jun 19",
+            "Age": "15-20",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Durararax2 Ketsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "af7ad644-75dc-4aee-8bd0-ff2ee355ec15",
+        "name": "Mikado Ryugamine",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Mar 21",
+            "Age": "16-19",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Durararax2 Ketsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fa3acda7-8ce7-4fa1-9922-44eeee48b3a4",
+        "name": "Saburou Togusa",
+        "gender": "m",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Jul 30",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Durararax2 Ketsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "20b7c8d1-36ec-43f4-ac8d-576479403506",
+        "name": "Shinra Kishitani",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Apr 2",
+            "Age": "24",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Durararax2 Ketsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

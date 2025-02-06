@@ -1,0 +1,155 @@
+[
+    {
+        "id": "7bb98e08-1569-4782-9a17-00eaaa2309c3",
+        "name": "Findorr Calius",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Jun 27",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "14caff36-63d8-4a07-9e2b-912fc4f17ff5",
+        "name": "Ggio Vega",
+        "gender": "m",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "May 7",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ab814742-8066-465f-9715-156334403e12",
+        "name": "Grand Fisher",
+        "gender": "m",
+        "height": "342.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ea27a2e1-acdf-4b33-a2b0-3ddcc87e3445",
+        "name": "Kaien Shiba",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Oct 27",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "01ca5863-87d0-4a75-ab8b-c1fb7b8fce57",
+        "name": "Nnoitra Gilga",
+        "gender": "m",
+        "height": "215.00",
+        "extras": {
+            "Birthday": "Nov 11",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0b464e95-1c46-47bf-b5a8-9a91db848375",
+        "name": "Szayel Aporro Grantz",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Jun 22",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "009c4979-ffca-4d6c-980b-00751d167683",
+        "name": "Ulquiorra Cifer",
+        "gender": "m",
+        "height": "169.00",
+        "extras": {
+            "Birthday": "Dec 1",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8a809631-3016-460d-b652-a7287c26e8b3",
+        "name": "Wonderweiss Margela",
+        "gender": "m",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Jul 6",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d4051bb3-90d2-4a00-97c8-91b42bd162fb",
+        "name": "Yammy Llargo",
+        "gender": "m",
+        "height": "230.00",
+        "extras": {
+            "Birthday": "Apr 3",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

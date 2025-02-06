@@ -1,0 +1,19 @@
+[
+    {
+        "id": "524db965-606f-471b-bdc1-72c0650011d3",
+        "name": "Nagi Sanzenin",
+        "gender": "m",
+        "height": "138.00",
+        "extras": {
+            "Birthday": "Dec 3",
+            "Age": "13",
+            "gender": null,
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tonikaku Kawaii",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

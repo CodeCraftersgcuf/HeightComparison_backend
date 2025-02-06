@@ -1,0 +1,53 @@
+[
+    {
+        "id": "c780748f-c4e7-4f63-a673-9f748bfa0663",
+        "name": "Damian Desmond",
+        "gender": "m",
+        "height": "110.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "6",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SPYFAMILY",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "61d3ff4a-4751-47d5-973e-7b4a9d1db5be",
+        "name": "Franky Franklin",
+        "gender": "m",
+        "height": "166.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SPYFAMILY",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "dc926c14-190d-4b0c-869e-00c9fc888d5e",
+        "name": "Yuuri Briar",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "20",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "SPYFAMILY",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

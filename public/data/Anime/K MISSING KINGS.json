@@ -1,0 +1,138 @@
+[
+    {
+        "id": "de13e72a-1dfc-4ae4-af8a-10bec20df36b",
+        "name": "Anna Kushina",
+        "gender": "f",
+        "height": "140.00",
+        "extras": {
+            "Birthday": "Dec 8",
+            "Age": "11",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "K MISSING KINGS",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "eeaea7de-9e58-4e1b-89a9-b788f4160bc8",
+        "name": "Izumo Kusanagi",
+        "gender": "m",
+        "height": "188.00",
+        "extras": {
+            "Birthday": "Apr 10",
+            "Age": "26",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "K MISSING KINGS",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5af2e206-86fd-48c8-bf89-a09514b1d20a",
+        "name": "Kukuri Yukizome",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Aug 30",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "K MISSING KINGS",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0b1f8e07-d4d8-4bf4-a40a-15d5d71c93ed",
+        "name": "Kuroh Yatogami",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Jan 5",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "K MISSING KINGS",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c013854e-68b6-454a-9d32-fba410f0cb24",
+        "name": "Mikoto Suoh",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Aug 13",
+            "Age": "24",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "K MISSING KINGS",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5d17ad90-9f1f-432e-913c-931f54d4e686",
+        "name": "Saruhiko Fushimi",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Nov 7",
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "K MISSING KINGS",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "03a4869f-79a8-4829-ba44-c2a6d4eec4a4",
+        "name": "Seri Awashima",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Sep 1",
+            "Age": "22",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "K MISSING KINGS",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "78da75e6-7f79-4ca6-9bb9-10c3095f7ff3",
+        "name": "Yashiro Isana",
+        "gender": "m",
+        "height": "169.00",
+        "extras": {
+            "Birthday": "Jun 1",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "K MISSING KINGS",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

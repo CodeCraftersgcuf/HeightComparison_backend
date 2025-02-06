@@ -1,0 +1,19 @@
+[
+    {
+        "id": "6f90dbd1-4705-4242-b8b0-05957a9b604a",
+        "name": "Nomu (u.s.j.)",
+        "gender": "m",
+        "height": "195.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

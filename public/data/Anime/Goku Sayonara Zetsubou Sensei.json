@@ -1,0 +1,70 @@
+[
+    {
+        "id": "40394bb7-9723-4366-b097-fda487a58e36",
+        "name": "Kagami Hiiragi",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Jul 7",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Goku Sayonara Zetsubou Sensei",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bb6dc3e0-bff7-4ef2-bb48-5674ec9feeae",
+        "name": "Konata Izumi",
+        "gender": "f",
+        "height": "142.00",
+        "extras": {
+            "Birthday": "May 28",
+            "Age": "17-18",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Goku Sayonara Zetsubou Sensei",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5ca772c8-aea7-4499-9017-82dbaf2c31da",
+        "name": "Miyuki Takara",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Oct 25",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Goku Sayonara Zetsubou Sensei",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bb50b5b4-adc2-465f-924f-3a1d6f8c232d",
+        "name": "Tsukasa Hiiragi",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Jul 7",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Goku Sayonara Zetsubou Sensei",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

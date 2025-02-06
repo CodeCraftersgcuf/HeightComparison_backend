@@ -1,0 +1,19 @@
+[
+    {
+        "id": "e96939b0-ea8f-487a-ae5d-7195197b186c",
+        "name": "Camie Utsushimi",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": "Aug 15",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Boku no Hero Academia 3",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "8ccb2bbd-36f0-4df5-9e45-e7f2bf4daa04",
+        "name": "Mamoru Takamura",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Jul 7, 1967",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hajime no Ippo THE FIGHTING",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

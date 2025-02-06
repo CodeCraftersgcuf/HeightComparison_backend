@@ -1,0 +1,19 @@
+[
+    {
+        "id": "ea87d653-21ae-4bea-87e8-336f7a2a2c62",
+        "name": "Ran Mao",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kuroshitsuji Book of Murder",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

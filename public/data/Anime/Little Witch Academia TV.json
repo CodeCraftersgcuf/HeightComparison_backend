@@ -1,0 +1,121 @@
+[
+    {
+        "id": "b16e28de-a711-4958-ac69-becf00c653b2",
+        "name": "Amanda O'neill",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Mar 17",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Little Witch Academia TV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6e765917-f3ce-4445-881b-319595c99309",
+        "name": "Chariot Du Nord",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Feb 20",
+            "Age": "30",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Little Witch Academia TV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5b408790-f717-4dfb-9980-ec7178842703",
+        "name": "Croix Meridies",
+        "gender": "f",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Oct 13",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Little Witch Academia TV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8919c015-c113-406f-9b16-11740aed8f75",
+        "name": "Diana Cavendish",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Apr 30",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Little Witch Academia TV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ec082bcd-0a8d-45c7-b50d-144f0aa1bf11",
+        "name": "Jasminka Antonenko",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Nov 1",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Little Witch Academia TV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d18a0267-911a-41d5-8414-3df5b4239122",
+        "name": "Lotte Yansson",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Sep 6",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Little Witch Academia TV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b7964ff6-7142-4202-97f6-08f16036f9d7",
+        "name": "Sucy Manbavaran",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Dec 31",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Little Witch Academia TV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

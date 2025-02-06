@@ -1,0 +1,53 @@
+[
+    {
+        "id": "59671f64-8f5c-4c89-acdc-c49ca77734fd",
+        "name": "Chiyuki Fujito",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Runway de Waratte",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1997d61f-344b-4f75-873e-f002917a1cee",
+        "name": "Kokoro Hasegawa",
+        "gender": "f",
+        "height": "181.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Runway de Waratte",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1747ebd9-9934-431d-aec5-b47f3f2591d1",
+        "name": "Too Ayano",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "22",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Runway de Waratte",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,240 @@
+[
+    {
+        "id": "6612536f-71f0-4217-97c8-685b5cef020b",
+        "name": "Gaara",
+        "gender": "m",
+        "height": "146.00",
+        "extras": {
+            "Birthday": "Jan 19",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ROAD OF NARUTO",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cea91062-26ab-42f8-aee2-4ca4b451b09c",
+        "name": "Genma Shiranui",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "Jul 17",
+            "Age": "29-30 (Part I)",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ROAD OF NARUTO",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "dfc1f18a-e505-4253-91ee-8dd154bcc101",
+        "name": "Itachi Uchiha",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Jun 9",
+            "Age": "17-21",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ROAD OF NARUTO",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "df0ca47a-916b-4968-8118-90975592a1f2",
+        "name": "Kakashi Hatake",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Sep 15",
+            "Age": "25-29",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ROAD OF NARUTO",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c0acacac-0b7c-488f-9537-ee4a5688329f",
+        "name": "Kin Tsuchi",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "Jul 6",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ROAD OF NARUTO",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "87f32166-fb41-4447-bd0d-3bea7d69a130",
+        "name": "Kisame Hoshigaki",
+        "gender": "m",
+        "height": "195.00",
+        "extras": {
+            "Birthday": "Mar 18",
+            "Age": "32",
+            "gender": null,
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ROAD OF NARUTO",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "24ace2d5-45a5-43c5-b288-b602a2f6c6aa",
+        "name": "Kushina Uzumaki",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Jul 10",
+            "Age": "24",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ROAD OF NARUTO",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1fb31e82-9c08-4723-9b00-98306272c1cc",
+        "name": "Might Guy",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Jan 1",
+            "Age": "30",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ROAD OF NARUTO",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4bb4508f-d2e8-4601-9ae8-e35098a4e551",
+        "name": "Neji Hyuuga",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Jul 3",
+            "Age": "14 (I), 17 (II)",
+            "gender": "m",
+            "Blood Type": "0"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ROAD OF NARUTO",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "87518ef2-cd66-4592-9b58-dbeb4b8791b4",
+        "name": "Orochimaru",
+        "gender": "m",
+        "height": "1794.00",
+        "extras": {
+            "Birthday": "Oct 27",
+            "Age": "50-51",
+            "gender": "Non-binary",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ROAD OF NARUTO",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ffd36ba5-f6b8-4d63-ba83-c175adf59328",
+        "name": "Shikamaru Nara",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Sep 22",
+            "Age": "13 (I), 16 (II)",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ROAD OF NARUTO",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7ef506cb-2c55-4c2d-871b-65cc741022f0",
+        "name": "Shizune",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Nov 18",
+            "Age": "28-31",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ROAD OF NARUTO",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4cb2247a-334b-44a5-8811-750d684b9479",
+        "name": "Temari",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Aug 23",
+            "Age": "15 (I), 19 (II)",
+            "gender": "f",
+            "Blood Type": "0"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ROAD OF NARUTO",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ff1ebc77-cef4-486b-baa1-a3e36caf8b08",
+        "name": "Tobi",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Feb 10",
+            "Age": "31",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ROAD OF NARUTO",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

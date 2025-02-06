@@ -1,0 +1,87 @@
+[
+    {
+        "id": "3b5830d7-8fb2-49fd-af94-9eebc6da2620",
+        "name": "Haruhi Suzumiya",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Oct 8",
+            "Age": "16-17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Suzumiya Haruhi no Shoushitsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cb68568d-3b21-4792-ba05-311bba29cbb3",
+        "name": "Itsuki Koizumi",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16-17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Suzumiya Haruhi no Shoushitsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5167a646-9e2b-4b04-a5f9-81ad2a944335",
+        "name": "Kyon",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16-17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Suzumiya Haruhi no Shoushitsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c1d5195f-8cef-46d7-b383-fb49e4023653",
+        "name": "Mikuru Asahina",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Oct 21",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Suzumiya Haruhi no Shoushitsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1c046d0d-8022-4f47-ac26-44b3ee4dbfc8",
+        "name": "Yuki Nagato",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Nov 18",
+            "Age": "3-4, 16-17 (Physically)",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Suzumiya Haruhi no Shoushitsu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "id": "168b0d1e-bb31-4bd7-b06d-8fbbc4015fa3",
+        "name": "Touko Nullami",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Feb 19",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yagate Kimi ni Naru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "64e20cb4-fee8-4331-85b4-647dd01859a5",
+        "name": "Yuu Koito",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "Apr 5",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yagate Kimi ni Naru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

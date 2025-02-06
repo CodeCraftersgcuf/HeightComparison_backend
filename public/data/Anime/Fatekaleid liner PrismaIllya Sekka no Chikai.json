@@ -1,0 +1,19 @@
+[
+    {
+        "id": "bf76451c-fac9-40e5-8afb-4963d1667b23",
+        "name": "Chloe Von Einzbern",
+        "gender": "f",
+        "height": "133.00",
+        "extras": {
+            "Birthday": "Jul 20",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fatekaleid liner PrismaIllya Sekka no Chikai",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

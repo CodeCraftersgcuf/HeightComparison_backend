@@ -1,0 +1,189 @@
+[
+    {
+        "id": "9e7c5536-ce4a-43af-a7df-4a45428f297f",
+        "name": "Diavolo",
+        "gender": "m",
+        "height": "191.00",
+        "extras": {
+            "Birthday": "1967",
+            "Age": "~33",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Ougon no Kaze",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "31e3e9f2-f327-4443-814d-059a5a443496",
+        "name": "Dio Brando",
+        "gender": "m",
+        "height": "195.00",
+        "extras": {
+            "Birthday": "Apr 10, 1867",
+            "Age": "13-121",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Ougon no Kaze",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ad176072-2373-48b0-9c92-7ffaa79609ae",
+        "name": "Giorno Giovanna",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Apr 16, 1985",
+            "Age": "15-26",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Ougon no Kaze",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5c1e4afb-8a36-47f3-9f64-b7f71cda563c",
+        "name": "Jean-pierre Polnareff",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "1965",
+            "Age": "23-36",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Ougon no Kaze",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b2a532d1-45c9-4673-8937-d45538723c1c",
+        "name": "Joseph Joestar",
+        "gender": "m",
+        "height": "195.00",
+        "extras": {
+            "Birthday": "Sep 27, 1920",
+            "Age": "18-78",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Ougon no Kaze",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "135471df-6284-4118-a6f2-a116bc088346",
+        "name": "Jousuke Higashikata",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "1983",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Ougon no Kaze",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "aecf1c71-55c4-44bf-aeff-188135dc3b9d",
+        "name": "Joutarou Kuujou",
+        "gender": "m",
+        "height": "195.00",
+        "extras": {
+            "Birthday": "1970",
+            "Age": "17-40",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Ougon no Kaze",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8e39cb77-6e1d-4d25-8c70-7d2f5d4d2465",
+        "name": "Mohammed Avdol",
+        "gender": "m",
+        "height": "188.00",
+        "extras": {
+            "Birthday": "1960",
+            "Age": "20",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Ougon no Kaze",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0018ceea-1dac-45de-ae01-8a5910e8be09",
+        "name": "Noriaki Kakyouin",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Ougon no Kaze",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "07a05fce-3c6b-4a8f-8b99-51246cd9778f",
+        "name": "Pannacotta Fugo",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Apr 10, 1985",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Ougon no Kaze",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b0e79cec-b9e1-49f6-99c1-64977194ce4a",
+        "name": "Trish Una",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Jun 8, 1985",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken Ougon no Kaze",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

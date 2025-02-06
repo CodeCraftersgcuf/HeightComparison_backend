@@ -1,0 +1,19 @@
+[
+    {
+        "id": "f833522e-0b3c-4b34-861c-2610932a1fdd",
+        "name": "Nishikata",
+        "gender": "m",
+        "height": "150.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Karakai Jouzu no Takagisan Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

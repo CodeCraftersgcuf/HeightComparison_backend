@@ -1,0 +1,36 @@
+[
+    {
+        "id": "b3a29410-2ce5-47ea-962a-5eedce549df4",
+        "name": "Kaiman",
+        "gender": "m",
+        "height": "216.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "25",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Dorohedoro",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "33069117-36b7-4514-86b7-5941b77bbe4b",
+        "name": "Noi",
+        "gender": "f",
+        "height": "209.00",
+        "extras": {
+            "Birthday": "Aug 8",
+            "Age": "24",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Dorohedoro",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

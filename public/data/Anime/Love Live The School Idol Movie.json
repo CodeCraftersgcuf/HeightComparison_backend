@@ -1,0 +1,121 @@
+[
+    {
+        "id": "e96bdf3b-4ff5-4eea-92fe-e080202d5489",
+        "name": "Eli Ayase",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Oct 21",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live The School Idol Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "511057cf-c147-4bd3-afe0-e89deea66d93",
+        "name": "Hanayo Koizumi",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Jan 17",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live The School Idol Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7e373d84-47e5-4166-bde9-8f5741e50fb1",
+        "name": "Honoka Kousaka",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Aug 3",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live The School Idol Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "407b9051-b52a-4b2f-a89c-f9da7df32fa4",
+        "name": "Kotori Minami",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "Sep 12",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live The School Idol Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "309c242a-d305-49ea-8d5a-2f46d8a89989",
+        "name": "Maki Nishikino",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": "Apr 19",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live The School Idol Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "07bd2401-c514-437c-a0f5-b7669901db84",
+        "name": "Nico Yazawa",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Jul 22",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live The School Idol Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "70743ba4-3eba-43c9-8b6b-c7de78c1f4bd",
+        "name": "Nozomi Toujou",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "Jun 9",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live The School Idol Movie",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

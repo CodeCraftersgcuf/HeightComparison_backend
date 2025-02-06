@@ -1,0 +1,36 @@
+[
+    {
+        "id": "5a01a807-781d-4dff-9711-e5a9a32b34e6",
+        "name": "Holo",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ookami to Koushinryou II",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "819cc369-291f-49ce-9738-eeb6fbe40992",
+        "name": "Kraft Lawrence",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "25",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ookami to Koushinryou II",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,291 @@
+[
+    {
+        "id": "575a00e9-7e8d-4d4d-a5af-77b708832535",
+        "name": "Aoi Hyoudou",
+        "gender": "m",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "Jul 16",
+            "Age": "14",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8a3fd68c-7198-444b-8339-e2949967df91",
+        "name": "Hinata Shintani",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Jul 23",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "eb9fb073-ddd0-4228-808c-25f1dd5faa68",
+        "name": "Ikuto Sarashina",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Dec 24",
+            "Age": "16",
+            "gender": null,
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d6553541-60c2-4bda-8b58-def99a4c3aa6",
+        "name": "Kanade Maki",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Mar 14",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b1ac75c4-2eb5-4994-95fc-2f9cf395ae65",
+        "name": "Kuuga Sakurai",
+        "gender": "m",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Oct 30",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bd45db89-1ed7-42a4-8539-8d8dd9e91bc2",
+        "name": "Masaru Gouda",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5e218359-41c8-4409-ace4-ddae29ff669e",
+        "name": "Misaki Ayuzawa",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Sep 29",
+            "Age": "16",
+            "gender": null,
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "380753ef-90db-41ad-87a0-0a4943855334",
+        "name": "Nagisa Tsuwamono",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "24",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ed1b93bc-6335-4ab1-a2c5-d89bc3af6d0b",
+        "name": "Naoya Shirokawa",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17",
+            "gender": null,
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3fa02428-a135-4cee-a92e-68bad75aca36",
+        "name": "Ryuunosuke Kurosaki",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e49bdfcf-846d-4ee2-9323-3b16a1d08668",
+        "name": "Satsuki Hyoudou",
+        "gender": "m",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Jan 27",
+            "Age": "30",
+            "gender": null,
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "51eb0a0b-f3f5-43d4-b05c-8c005bb85ee6",
+        "name": "Shizuko Kaga",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Jan 7",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a7dc55aa-9a0f-4246-a443-dde207d03cb1",
+        "name": "Shouichirou Yukimura",
+        "gender": "m",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Feb 1",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a160da13-1eb5-48ec-8fab-6b634616b365",
+        "name": "Soutarou Kanou",
+        "gender": "m",
+        "height": "182.00",
+        "extras": {
+            "Birthday": "Dec 29",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b6c13a70-369c-4640-b86f-86b1825f4b9a",
+        "name": "Subaru",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Nov 1",
+            "Age": "22",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e51413c1-dd37-42ce-80f9-b40e66d71f9e",
+        "name": "Takumi Usui",
+        "gender": "m",
+        "height": "186.00",
+        "extras": {
+            "Birthday": "Apr 27",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "67130866-7d6b-4d5e-a2a8-fd41e0afe3e6",
+        "name": "Tora Igarashi",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Feb 18",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaichou wa Maidsama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

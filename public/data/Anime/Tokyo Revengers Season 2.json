@@ -1,0 +1,444 @@
+[
+    {
+        "id": "0d4e1e55-6ae9-4ea3-a6d5-992e4e213ce0",
+        "name": "Atsushi Sendou",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bc52154c-136f-4f77-bd07-002a08528ce1",
+        "name": "Chifuyu Matsuno",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "debaa66f-81ef-4172-8e02-a1d05bd97a99",
+        "name": "Emma Sano",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "374ca93e-8525-4d97-8dd1-d44c4584fb98",
+        "name": "Hajime Kokonoi",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "019eb2f7-0909-4b22-a4ad-852d119bbc75",
+        "name": "Hakkai Shiba",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2331c5ca-2817-4e34-80df-d79bed5c3c58",
+        "name": "Haruchiyo Sanzu",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5a6a4730-2b5b-42d7-85c4-4bc9d049a510",
+        "name": "Haruki Hayashida",
+        "gender": "m",
+        "height": "164.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "79a080a0-d0a6-4fbf-b9ee-5e3c696888b2",
+        "name": "Hinata Tachibana (teen)",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4402443c-c2cb-4507-94a4-dd94d691bde6",
+        "name": "Izana Kurokawa",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8bc3a63b-d978-41d7-b13f-46f849e3ca3b",
+        "name": "Kanji Mochizuki",
+        "gender": "m",
+        "height": "192.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2f2b57ed-8218-42a0-9bd4-78427f069b32",
+        "name": "Kazushi Yamagishi",
+        "gender": "m",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ef0fbb2b-b73e-432d-824a-fc9f69f12811",
+        "name": "Keisuke Baji",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f657a99e-12b8-4e3b-8a4a-fb69972ff013",
+        "name": "Ken Ryuuguuji",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "958ebb87-4e1a-4728-bae6-18f23d1fb599",
+        "name": "Makoto Suzuki",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6fc78bce-4e25-4270-9a5a-b268d89e6e12",
+        "name": "Manjirou Sano",
+        "gender": "m",
+        "height": "162.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4d3fe013-efd1-4ef4-8528-b493d57ab9a4",
+        "name": "Nahoya Kawata",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5d961b89-984e-4b2e-9f4e-9425dd7b3d27",
+        "name": "Naoto Tachibana (young)",
+        "gender": "m",
+        "height": "148.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "dc71ffd1-d087-4081-9c1d-3f9d0278db58",
+        "name": "Ryouhei Hayashi",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "359ce623-31f0-4b29-883a-9721e5e41beb",
+        "name": "Seishu Inui",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3315f8d0-c3a5-48ad-ae37-303552305ff4",
+        "name": "Shuuji Hanma",
+        "gender": "m",
+        "height": "192.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cce22e41-ee85-458e-847f-9efdc7235c4e",
+        "name": "Takashi Mitsuya",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "444681d1-d464-4e00-aa73-246144a9e320",
+        "name": "Takemichi Hanagaki (teen)",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0342f9cf-18f1-40a2-bb3e-3cbf85545047",
+        "name": "Takuya Yamamoto",
+        "gender": "m",
+        "height": "166.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8bf32454-4f1e-4a35-9852-4e90041c1e89",
+        "name": "Tetta Kisaki",
+        "gender": "m",
+        "height": "164.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3e96665f-0ee1-4d59-affe-49fb505b3f7c",
+        "name": "Yasuhiro Mutou",
+        "gender": "m",
+        "height": "187.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f4f4eff4-1a41-4bfb-a027-82ffc5e62864",
+        "name": "Yuzuha Shiba",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

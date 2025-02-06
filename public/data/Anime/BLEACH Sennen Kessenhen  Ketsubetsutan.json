@@ -1,0 +1,104 @@
+[
+    {
+        "id": "b563f0d6-1dc5-4298-8297-c72bcac0ef1b",
+        "name": "Hiyori Sarugaki",
+        "gender": "f",
+        "height": "133.00",
+        "extras": {
+            "Birthday": "Aug 1",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen  Ketsubetsutan",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b71f94ea-6aaf-4424-be65-044c65522230",
+        "name": "Love Aikawa",
+        "gender": "f",
+        "height": "189.00",
+        "extras": {
+            "Birthday": "Oct 10",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen  Ketsubetsutan",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0288390e-c58c-4829-a853-f551b6170c8c",
+        "name": "Luppi Antenor",
+        "gender": "m",
+        "height": "161.00",
+        "extras": {
+            "Birthday": "Jun 5",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen  Ketsubetsutan",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "243f16d9-ed68-4d2c-97c2-054e84853499",
+        "name": "Mizuiro Kojima",
+        "gender": "m",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "May 23",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": "BB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen  Ketsubetsutan",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "652a004a-cdf0-4a84-9e08-89c2c4f71d28",
+        "name": "Tatsuki Arisawa",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Jul 17",
+            "Age": "15-17",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen  Ketsubetsutan",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b823b637-3c00-4533-b61d-0b31bb3b6ed3",
+        "name": "Yoruichi Shihouin",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Jan 1",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BLEACH Sennen Kessenhen  Ketsubetsutan",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

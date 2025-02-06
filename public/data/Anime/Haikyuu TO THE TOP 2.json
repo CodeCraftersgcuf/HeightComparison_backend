@@ -1,0 +1,36 @@
+[
+    {
+        "id": "f5b7f9e0-d3b2-4442-b3e0-efdb2d2b76c6",
+        "name": "Alisa Haiba",
+        "gender": "f",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Apr 5, 1993",
+            "Age": "19",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Haikyuu TO THE TOP 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7ad3b49d-7bf7-49c0-942f-58990fff43f6",
+        "name": "Atsumu Miya",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Oct 5, 1995",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Haikyuu TO THE TOP 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

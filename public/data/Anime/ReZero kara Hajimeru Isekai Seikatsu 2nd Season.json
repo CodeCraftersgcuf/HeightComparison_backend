@@ -1,0 +1,70 @@
+[
+    {
+        "id": "e8d6ae53-51c5-4214-858a-4101cfd3217c",
+        "name": "Felt",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "Aug 8",
+            "Age": "14-16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ReZero kara Hajimeru Isekai Seikatsu 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4b98b0dc-0410-43e8-a6d3-2115153519a3",
+        "name": "Julius Euclius",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Jul 7",
+            "Age": "21 (Arc 3-4) / 22 (Arc 5+)",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ReZero kara Hajimeru Isekai Seikatsu 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a1929597-b4cf-4796-907f-0ffae3876c29",
+        "name": "Reinhard Van Astrea",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Jan 1",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ReZero kara Hajimeru Isekai Seikatsu 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "83a0b067-dac4-49eb-af5e-d65c623d85da",
+        "name": "Wilhelm Van Astrea",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "May 7",
+            "Age": "62 (Arc 5+), 61 (Arc 3-4), 15-20 (Ex 2)",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ReZero kara Hajimeru Isekai Seikatsu 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

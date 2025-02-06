@@ -1,0 +1,138 @@
+[
+    {
+        "id": "70702ed3-b41a-4644-a602-a5956d805ceb",
+        "name": "Hideaki Amachi",
+        "gender": "m",
+        "height": "213.00",
+        "extras": {
+            "Birthday": "May 25",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "150aac20-6616-4c92-bc5b-e34568f69b29",
+        "name": "Kuriko Matsudaira",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": "Sep 4",
+            "Age": "17",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fe9baa21-bd77-4e7f-8fa4-d7b2f1b2d7d3",
+        "name": "Magistrate",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "May 21",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "73a81f02-f6a4-45b9-af37-bb5c60519ee9",
+        "name": "Mitsuba Okita",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "May 26",
+            "Age": "20+",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4a88baa2-b037-4930-8bbb-251a6b2cf621",
+        "name": "Oryou",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Jun 7",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c7d962d5-9657-413b-b731-cb942d65dc3b",
+        "name": "Saki Hanullo",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Dec 18",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "54a6adcb-f3d5-41c6-9c65-da374f5e4901",
+        "name": "Seita",
+        "gender": "m",
+        "height": "133.00",
+        "extras": {
+            "Birthday": "May 10",
+            "Age": "8",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b47977ac-f0b5-47ef-ae6c-00c3c206a194",
+        "name": "Tatsumi",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "May 6",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gintama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

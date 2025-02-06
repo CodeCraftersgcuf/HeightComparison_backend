@@ -1,0 +1,70 @@
+[
+    {
+        "id": "4305719d-a723-4415-b815-35ec9d088cf8",
+        "name": "Ayumi Yamada",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "21",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hachimitsu to Clover II",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9e9151b4-0f67-474a-8640-fe13d63d228d",
+        "name": "Hagumi Hanamoto",
+        "gender": "f",
+        "height": "142.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hachimitsu to Clover II",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1a2eb75d-5e62-400f-8ab0-19b4cf459fad",
+        "name": "Shinobu Morita",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "24",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hachimitsu to Clover II",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "33555ac3-c0c6-453a-b609-3581235a0cef",
+        "name": "Yuuta Takemoto",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hachimitsu to Clover II",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

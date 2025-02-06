@@ -1,0 +1,70 @@
+[
+    {
+        "id": "c38076bf-1036-466a-a97e-4f686108fb34",
+        "name": "Kei Tsukishima",
+        "gender": "m",
+        "height": "188.00",
+        "extras": {
+            "Birthday": "Sep 27, 1996",
+            "Age": "15-22",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Haikyuu Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8ee6ce14-ebcf-4ec2-927f-84b9055f737b",
+        "name": "Koushi Sugawara",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Jun 13, 1994",
+            "Age": "17-24",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Haikyuu Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "46d689fb-56da-4d9a-96d1-0b822df6f7e1",
+        "name": "Tooru Oikawa",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Jul 20, 1994",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Haikyuu Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ff8beb6c-86fc-457e-a83e-4442a88b6f48",
+        "name": "Tsutomu Goshiki",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "Aug 22, 1996",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Haikyuu Karasuno Koukou VS Shiratorizawa Gakuen Koukou",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

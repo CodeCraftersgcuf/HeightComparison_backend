@@ -1,0 +1,36 @@
+[
+    {
+        "id": "e9a6ef8f-47c8-4bf1-a50f-cd484de309f8",
+        "name": "Jun Nagase",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Jul 18",
+            "Age": "21",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kami nomi zo Shiru Sekai II",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9a27aa83-3e39-4cf0-84ed-c84ec870787e",
+        "name": "Yuri Nikaido",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Jun 30",
+            "Age": "23",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kami nomi zo Shiru Sekai II",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

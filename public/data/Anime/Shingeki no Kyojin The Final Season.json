@@ -1,0 +1,53 @@
+[
+    {
+        "id": "ca4c31d9-7aa3-480e-be93-be4c4bbab5b6",
+        "name": "Colt Grice",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Aug 12",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin The Final Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "266af14d-2247-47f9-b922-206a3fa0d84c",
+        "name": "Porco Galliard",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Nov 11",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin The Final Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "03fd3c36-bee6-4115-9476-e5ba963535ee",
+        "name": "Zofia",
+        "gender": "f",
+        "height": "142.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin The Final Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

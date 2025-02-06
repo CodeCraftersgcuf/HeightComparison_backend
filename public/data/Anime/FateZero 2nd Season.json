@@ -1,0 +1,189 @@
+[
+    {
+        "id": "63f18d0e-5ba3-40cb-ba88-5508181ce5be",
+        "name": "Aoi Tohsaka",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Sep 5",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "0"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "FateZero 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6179e1ed-de31-470d-9015-f75e7b63849d",
+        "name": "Cornelius Alba",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "FateZero 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6a19e502-8cbd-4b1c-92fd-50685fa33e7c",
+        "name": "Gilgamesh",
+        "gender": "m",
+        "height": "182.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "FateZero 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "068d26ba-46a9-496c-9867-77c3779dcd06",
+        "name": "Gilles De Rais",
+        "gender": "m",
+        "height": "196.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "FateZero 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fe5bf1e3-dc9d-46bb-8492-16723c8ebe16",
+        "name": "Irisviel Von Einzbern",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Feb 1",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "FateZero 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0dfc7bb7-342a-470a-ad24-4050ea328332",
+        "name": "Iskandar",
+        "gender": "m",
+        "height": "212.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "FateZero 2nd Season",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ab239947-297f-4d03-aff1-abd209cdb534",
+        "name": "Kariya Matou",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Mar 22",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "FateZero 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "131f9423-851e-4fe0-b925-e2fbdcc09601",
+        "name": "Kayneth Archibald El-melloi",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "Apr 11",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "FateZero 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b5c5b2d3-7fd9-4099-ab2e-8cf4b4e71821",
+        "name": "Kiritsugu Emiya",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Nov 11",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "FateZero 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5c4402f1-376e-48cb-91e2-d26aba5d7c0c",
+        "name": "Lancelot",
+        "gender": "m",
+        "height": "191.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "FateZero 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8d12cb67-f650-4320-ac92-a0a25cd8cce0",
+        "name": "Waver Velvet",
+        "gender": "m",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Oct 3",
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "FateZero 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

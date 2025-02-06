@@ -1,0 +1,189 @@
+[
+    {
+        "id": "143a766c-d810-41e5-88c8-65f020cf8e4d",
+        "name": "Akinori Kaneda",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Sep 6",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Aoashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "05212b03-dea3-48bc-96af-eec527d98583",
+        "name": "Eisaku Otomo",
+        "gender": "m",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "May 5",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Aoashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "753214ab-5d8d-42fc-900c-6aec17977a9c",
+        "name": "Hana Ichijou",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Jun 17",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Aoashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "17753dfd-3485-4efc-899f-c7020beee72d",
+        "name": "Jun Marchs Asari",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Feb 14",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Aoashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6531ead8-42ec-443b-adb1-ed96aaf039e1",
+        "name": "Kanpei Kuroda",
+        "gender": "m",
+        "height": "161.00",
+        "extras": {
+            "Birthday": "Dec 2",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Aoashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9e004fc8-1ed6-4b83-a5fc-9e4f91027954",
+        "name": "Keiji Togashi",
+        "gender": "m",
+        "height": "187.00",
+        "extras": {
+            "Birthday": "Sep 9",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Aoashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ccbe511f-c878-43c8-8028-8436deab8566",
+        "name": "Nozomi Date",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "May 6",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Aoashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d737b2b1-2aad-454a-bc37-0936cdd191d5",
+        "name": "Ryuuichi Takeshima",
+        "gender": "m",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Oct 11",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Aoashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8ebc3ddd-2e2a-4098-a58b-da9ca3bb86e3",
+        "name": "Souichirou Tachibana",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Jun 11",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Aoashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6e720acf-0317-48ff-8e1b-cb9836c283c5",
+        "name": "Tatsuya Fukuda",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Oct 21",
+            "Age": "34",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Aoashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fd296eb1-f4a1-4745-b317-4969c262a1ba",
+        "name": "Yuuma Motoki",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Aug 22",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Aoashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

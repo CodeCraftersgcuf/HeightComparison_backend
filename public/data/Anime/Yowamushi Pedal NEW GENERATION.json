@@ -1,0 +1,19 @@
+[
+    {
+        "id": "8b702230-b407-45c3-a110-f1ce1b7848db",
+        "name": "Takuto Ashikiba",
+        "gender": "m",
+        "height": "202.00",
+        "extras": {
+            "Birthday": "Nov 2",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yowamushi Pedal NEW GENERATION",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

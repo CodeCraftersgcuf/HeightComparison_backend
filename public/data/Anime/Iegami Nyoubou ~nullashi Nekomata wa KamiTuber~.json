@@ -1,0 +1,19 @@
+[
+    {
+        "id": "330ec7d5-2020-4133-8058-05301c257993",
+        "name": "Neko",
+        "gender": "f",
+        "height": "140.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Iegami Nyoubou ~nullashi Nekomata wa KamiTuber~",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

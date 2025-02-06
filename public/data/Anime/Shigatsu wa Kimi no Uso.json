@@ -1,0 +1,36 @@
+[
+    {
+        "id": "d9cff971-d7ce-4fd4-ae09-94b478fb570f",
+        "name": "Hiroko Seto",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shigatsu wa Kimi no Uso",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a42e9f3b-5607-4899-a8f9-6b140b8d563a",
+        "name": "Kaori Miyazono",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Jul 4",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shigatsu wa Kimi no Uso",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

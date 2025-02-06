@@ -1,0 +1,19 @@
+[
+    {
+        "id": "f631d4fb-6059-4d37-b34b-e4c8aea2cd6f",
+        "name": "Caesar Anthonio Zeppeli",
+        "gender": "m",
+        "height": "186.00",
+        "extras": {
+            "Birthday": "May 13",
+            "Age": "20",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "JoJo no Kimyou na Bouken TV",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

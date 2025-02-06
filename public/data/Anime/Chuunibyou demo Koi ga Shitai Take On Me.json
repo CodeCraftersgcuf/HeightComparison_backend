@@ -1,0 +1,19 @@
+[
+    {
+        "id": "dd57d4c5-a426-4111-a4b9-a0536ab48e20",
+        "name": "Rikka Takanashi",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "Jun 12",
+            "Age": "15-17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Chuunibyou demo Koi ga Shitai Take On Me",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

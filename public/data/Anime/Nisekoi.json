@@ -1,0 +1,240 @@
+[
+    {
+        "id": "3050832d-5b88-4487-93c5-f5aef6044ffa",
+        "name": "Adelt Wogner Kirisaki",
+        "gender": "m",
+        "height": "192.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nisekoi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "25ead5c2-2332-45dd-8bd9-a860fcc4cb85",
+        "name": "Chitoge Kirisaki",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Jun 7",
+            "Age": "15-18",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nisekoi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ae1037c5-e978-4aea-b172-3905f5775d73",
+        "name": "Claude Ringheart",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "32",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nisekoi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "12321a0f-734f-4304-9516-3c2861a8fbf7",
+        "name": "Gen Tachibana",
+        "gender": "m",
+        "height": "195.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nisekoi",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8c4f7fa6-1f9e-4453-ad25-d47ef397236e",
+        "name": "Issei Ichijou",
+        "gender": "m",
+        "height": "163.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "61",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nisekoi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "dcf89082-a63e-4a6c-9a01-84a895485d27",
+        "name": "Kosaki Onodera",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Jun 15",
+            "Age": "15-17",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nisekoi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2b9f999e-3b41-404e-bb48-c6d416639456",
+        "name": "Kyouko Nichihara",
+        "gender": "f",
+        "height": "169.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nisekoi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bd87d123-1116-4f2a-9f48-856812a1bd25",
+        "name": "Marika Tachibana",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Mar 3",
+            "Age": "15-16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nisekoi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1b4a6bd9-254f-4f6c-8a6f-f2106c59ac9d",
+        "name": "Nullako Onodera",
+        "gender": "f",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Jul 7",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nisekoi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c4678d71-875e-43cd-9b3d-c5c8681645ff",
+        "name": "Raku Ichijou",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Dec 20",
+            "Age": "15-17",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nisekoi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4f7568b1-0d8c-4803-bafd-8b7d26e93afd",
+        "name": "Ruri Miyamoto",
+        "gender": "f",
+        "height": "145.00",
+        "extras": {
+            "Birthday": "Dec 24",
+            "Age": "16-18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nisekoi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "27f9a830-286b-435f-a5f9-33245a43a629",
+        "name": "Ryuunosuke Sasaki",
+        "gender": "m",
+        "height": "188.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nisekoi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f1b6ce4f-f89e-4139-aad3-716ee5e41006",
+        "name": "Seishirou Tsugumi",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Jul 30",
+            "Age": "15-17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nisekoi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bac50126-b534-4fe8-9e04-9eba4f2295fd",
+        "name": "Shuu Maiko",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Aug 29",
+            "Age": "15-18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Nisekoi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

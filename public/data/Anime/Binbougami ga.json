@@ -1,0 +1,53 @@
+[
+    {
+        "id": "af879c0e-1506-4023-918d-00d07f51e339",
+        "name": "Kurumi Minowa",
+        "gender": "f",
+        "height": "141.00",
+        "extras": {
+            "Birthday": "May 14",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Binbougami ga",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ad264554-c0f2-46ea-9fe3-06b77fc4237d",
+        "name": "Nadeshiko Adenokouji",
+        "gender": "f",
+        "height": "145.00",
+        "extras": {
+            "Birthday": "Jun 18",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Binbougami ga",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "831495b9-f820-45c7-b4e8-20f41f406fc3",
+        "name": "Ranmaru Rindou",
+        "gender": "f",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Aug 23",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Binbougami ga",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

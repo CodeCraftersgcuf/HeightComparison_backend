@@ -1,0 +1,19 @@
+[
+    {
+        "id": "3cc59f96-4df5-41fb-ba61-86cb0cc9b78d",
+        "name": "Kaname Moniwa",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Sep 6",
+            "Age": "17",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Haikyuu 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

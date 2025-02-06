@@ -1,0 +1,53 @@
+[
+    {
+        "id": "b79556c0-16a8-46da-b95b-d604eb9163d3",
+        "name": "Eriri Spencer Sawamura",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Mar 20",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Saenai Heroine no Sodatekata Fine",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "62dfa34c-3a76-4d3b-bac3-a28b07a81d82",
+        "name": "Izumi Hashima",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "May 5",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Saenai Heroine no Sodatekata Fine",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c8c98b5f-ef88-48f5-8d27-767c6ba61255",
+        "name": "Megumi Katou",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Sep 23",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Saenai Heroine no Sodatekata Fine",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

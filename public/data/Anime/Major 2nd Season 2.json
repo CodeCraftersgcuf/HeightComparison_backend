@@ -1,0 +1,36 @@
+[
+    {
+        "id": "d25c1b94-a3ac-41e3-a715-bbc47d90edee",
+        "name": "Hikaru Satou",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Jul 2",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Major 2nd Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7b1b937d-2639-4e09-a74b-ba5dd55e3a41",
+        "name": "Mutsuko Sakura",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "11-14",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Major 2nd Season 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

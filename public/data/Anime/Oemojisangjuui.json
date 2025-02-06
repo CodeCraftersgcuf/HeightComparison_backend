@@ -1,0 +1,104 @@
+[
+    {
+        "id": "4fbd911f-b215-4aa3-8777-e33ca93cd180",
+        "name": "Eun-tae Lee",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Oct 9, 1996",
+            "Age": "17-18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Oemojisangjuui",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5055c623-e37d-4806-b2f9-d2b05cf1e808",
+        "name": "Ha-neul Park",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "1996",
+            "Age": "16-18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Oemojisangjuui",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "06d32e42-40bc-42e0-963d-d65fa9e5cdac",
+        "name": "Hyung-suk Park",
+        "gender": "m",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "Oct 5, 1996",
+            "Age": "16-18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Oemojisangjuui",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f82a38cd-5b4c-4c34-a9d1-a030acfb68f6",
+        "name": "Jae-yeol Hong",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Sep 1, 1996",
+            "Age": "17-18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Oemojisangjuui",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9d83fc0f-aa5b-43c4-93f4-ab79fa03c1f6",
+        "name": "Jin-sung Lee",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Sep 22, 1996",
+            "Age": "16-18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Oemojisangjuui",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "baf22afe-a983-420d-94b4-de40a5fe23b4",
+        "name": "Soo-jung Choi",
+        "gender": "f",
+        "height": "145.00",
+        "extras": {
+            "Birthday": "Jan 6, 1997",
+            "Age": "16-17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Oemojisangjuui",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "id": "9717d4cc-5639-4171-aa57-b36917404b3e",
+        "name": "Kusuke Saiki",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Jun 16",
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Saiki Kusuo no null 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f14c865f-52fe-4d67-904a-cd11830a7cb0",
+        "name": "Kusuo Saiki",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Aug 16",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Saiki Kusuo no null 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ce3bd4ae-35cc-4e90-a64d-a170a08de984",
+        "name": "Mikoto Aiura",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Sep 7",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Saiki Kusuo no null 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

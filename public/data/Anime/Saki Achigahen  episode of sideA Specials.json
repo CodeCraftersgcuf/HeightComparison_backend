@@ -1,0 +1,19 @@
+[
+    {
+        "id": "13b67495-82e5-4e37-893b-8d2f65ec9fb3",
+        "name": "Saki Miyanaga",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Oct 27",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Saki Achigahen  episode of sideA Specials",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

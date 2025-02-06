@@ -1,0 +1,87 @@
+[
+    {
+        "id": "8d292a26-5ce2-4352-bce0-9fa0ef024ca5",
+        "name": "Haruka Nullase",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Jun 30",
+            "Age": "17; 19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HighSpeed Free Starting Days",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bc8a9b8c-cb6f-48a9-b1d4-cde7991f10b1",
+        "name": "Ikuya Kirishima",
+        "gender": "m",
+        "height": "143.00",
+        "extras": {
+            "Birthday": "Mar 3",
+            "Age": "12-13 (High Speed!); 17-18 (Free! Take your marks!)",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HighSpeed Free Starting Days",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "751d1309-7235-4399-846c-23d2ab07be17",
+        "name": "Makoto Tachibana",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Nov 17",
+            "Age": "17; 19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HighSpeed Free Starting Days",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "76833422-e568-447b-aae1-67d0dd8cdbe3",
+        "name": "Nagisa Hazuki",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Aug 1",
+            "Age": "16-18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HighSpeed Free Starting Days",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "560d7994-50dd-4d82-93d8-84ccd8d4b7e2",
+        "name": "Rin Matsuoka",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Feb 2",
+            "Age": "17; 19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "HighSpeed Free Starting Days",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

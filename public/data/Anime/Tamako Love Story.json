@@ -1,0 +1,70 @@
+[
+    {
+        "id": "6c0049a1-13e2-4ea4-a4fe-2753b7d6a074",
+        "name": "Kanna Makino",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "Jun 7",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tamako Love Story",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2fc41fb0-04f3-4c8f-9f0e-7ddebfcb9545",
+        "name": "Midori Tokiwa",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Aug 19",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tamako Love Story",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1330ba5f-096a-440c-83a3-4ec524ed1db6",
+        "name": "Mochizou Ooji",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Oct 10",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tamako Love Story",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "13af2355-8344-471e-9f92-6d90db8b9b7a",
+        "name": "Tamako Kitashirakawa",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Dec 31",
+            "Age": "15-17",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tamako Love Story",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

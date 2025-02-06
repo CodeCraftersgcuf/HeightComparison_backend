@@ -1,0 +1,46 @@
+[
+    {
+        "id": "4b858c39-ba70-45eb-a336-1fb3380421d6",
+        "name": "Naruto Uzumaki (age 12-13)",
+        "gender": "m",
+        "height": "144.78",
+        "extras": {
+            "net_worth": null,
+            "gender": null,
+            "nationality": null,
+            "birthday": null,
+            "age": null,
+            "is_alive": null,
+            "death": null,
+            "birthDate": null,
+            "deathDate": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Naruto",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "893b0aa4-05fb-455d-b69e-509c594227c4",
+        "name": "Naruto Uzumaki (age 15-17)",
+        "gender": "m",
+        "height": "167.64",
+        "extras": {
+            "net_worth": null,
+            "gender": null,
+            "nationality": null,
+            "birthday": null,
+            "age": null,
+            "is_alive": null,
+            "death": null,
+            "birthDate": null,
+            "deathDate": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Naruto",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

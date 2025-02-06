@@ -1,0 +1,70 @@
+[
+    {
+        "id": "7ba216df-18b2-4004-9550-7b5b9d36bb80",
+        "name": "Fuyutsuki-san",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Feb 5",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Koori Zokusei Danshi to Cool na Douryou Joshi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0b3e9228-3ec9-47a0-bca4-811a38529750",
+        "name": "Himuro-kun",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "Aug 3",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Koori Zokusei Danshi to Cool na Douryou Joshi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "98e5dc57-6ffc-44e8-8dc6-c6d7065c56f6",
+        "name": "Komori",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Nov 11",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Koori Zokusei Danshi to Cool na Douryou Joshi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3e7d05c4-4832-4a94-9ac8-5b9c323e3c57",
+        "name": "Saejima",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Apr 10",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Koori Zokusei Danshi to Cool na Douryou Joshi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "daa3b2ac-608a-4fc9-8a58-fe953a213b44",
+        "name": "Fujino Asagami",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "May 20",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kara no Kyoukai Tsuukaku Zanryuu",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

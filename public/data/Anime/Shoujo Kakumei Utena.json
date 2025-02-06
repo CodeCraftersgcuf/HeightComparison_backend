@@ -1,0 +1,19 @@
+[
+    {
+        "id": "6ad28cde-95fa-4746-9cf9-f532cd353bcd",
+        "name": "Anthy Himemiya",
+        "gender": "f",
+        "height": "157.00",
+        "extras": {
+            "Birthday": "Feb 29",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shoujo Kakumei Utena",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

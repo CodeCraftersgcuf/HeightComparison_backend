@@ -1,0 +1,53 @@
+[
+    {
+        "id": "b51138e7-d3ab-4a48-9783-679acdfe5184",
+        "name": "Ami Kawashima",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Nov 9",
+            "Age": "17-18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toradora",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c0ef13f2-fa99-4809-b0bd-0b03603e0128",
+        "name": "Ryuuji Takasu",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Apr 11",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toradora",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b93f31d1-0b73-4ece-aeba-3a6c2706abe7",
+        "name": "Taiga Aisaka",
+        "gender": "f",
+        "height": "145.00",
+        "extras": {
+            "Birthday": "Jul 27",
+            "Age": "17-18",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toradora",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

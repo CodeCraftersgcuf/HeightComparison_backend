@@ -1,0 +1,19 @@
+[
+    {
+        "id": "6081ce6f-4bc6-4502-9223-bac3434e8c64",
+        "name": "Motoko Kusanagi",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "1986",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Koukaku Kidoutai Stand Alone Complex 2nd GIG",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

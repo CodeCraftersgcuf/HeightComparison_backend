@@ -1,0 +1,138 @@
+[
+    {
+        "id": "96d2f710-edf9-4f81-b131-498f11b0741f",
+        "name": "Ash Lynx",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Aug 12",
+            "Age": "17-18",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BAnullA FISH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b3f132de-ca32-4389-9e15-9ac3b3d92897",
+        "name": "Blanca",
+        "gender": "m",
+        "height": "196.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "32",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BAnullA FISH",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "216dae66-a504-4042-8926-022fa50216da",
+        "name": "Cain Blood",
+        "gender": "m",
+        "height": "192.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BAnullA FISH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cfe27366-a940-48b2-8619-50796d213dfa",
+        "name": "Dino Francis Golzine",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BAnullA FISH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9dd05af4-1970-4ae4-8926-b1c6896e864d",
+        "name": "Eduardo L. Fox",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BAnullA FISH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "72124c91-51b6-4043-ad6e-1d08456c69a1",
+        "name": "Eiji Okumura",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": "A+"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BAnullA FISH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "995f4e46-3edf-4d69-8b4d-eaebf2a7c5c0",
+        "name": "Frederick Arthur",
+        "gender": "m",
+        "height": "182.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BAnullA FISH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "08f29555-1906-4209-a228-50963957b923",
+        "name": "Sing Soo-ling",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "14",
+            "gender": "m",
+            "Blood Type": "B+"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "BAnullA FISH",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

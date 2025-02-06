@@ -1,0 +1,342 @@
+[
+    {
+        "id": "2967c226-6cf0-49f2-b925-d34d0a5d3ec0",
+        "name": "Airi Momoi",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Mar 19",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "09824d58-5abc-4f91-bbcc-49668bf035cc",
+        "name": "Akito Shinonome",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Nov 12",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7167b33a-1302-453d-8f5c-acc66726eb36",
+        "name": "An Shiraishi",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Jul 26",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4785b054-c1b1-4399-be5d-9d799abff97a",
+        "name": "Emu Otori",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Sep 9",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e9e57e05-5b3b-48cd-ab41-d5833ba3ad0b",
+        "name": "Ena Shinonome",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Apr 30",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ed3e41c9-c8c5-4a48-88ae-92b3a65d06dc",
+        "name": "Haruka Kiritani",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Oct 5",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ca7ace5d-b31a-44e3-87c9-a9809962abdb",
+        "name": "Honami Mochizuki",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Oct 27",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "86610ed2-384c-47ef-9cd1-92fb3706f5de",
+        "name": "Ichika Hoshino",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": "Aug 11",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "adc9e0de-6557-4a78-9d85-1c8f85f56b73",
+        "name": "Kanade Yoisaki",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Feb 10",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "05f15d09-8317-47af-aadc-b348d1334bbd",
+        "name": "Kohane Azusawa",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Mar 2",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2a285bb9-b04b-44d2-bde6-9c08af8fe2c0",
+        "name": "Mafuyu Asahina",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Jan 27",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "541b4ba9-bce5-4866-bfdd-cba55fb7817d",
+        "name": "Minori Hanasato",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Apr 14",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4b0f1e92-0fb4-4c38-b1b3-a0dfe540f9d9",
+        "name": "Mizuki Akiyama",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Aug 27",
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "143b14f0-faa1-4221-a34c-40974e14a7e2",
+        "name": "Nene Kusanagi",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Jul 20",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "149e99a7-6df0-48d6-be29-65c354b05ad1",
+        "name": "Rui Kamishiro",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Jun 24",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "cadc972e-b3b0-45aa-969f-7cfcbc3c84e5",
+        "name": "Saki Tenma",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "May 9",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "50d75107-30f0-4df3-a1a1-e3b9f236b172",
+        "name": "Shiho Hinomori",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "Jan 8",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f59ffd76-d447-4cd7-977e-2e8c83bfe5a6",
+        "name": "Shizuku Hinomori",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Dec 6",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "eb0b1082-158b-4a0b-b028-71964fe0ad55",
+        "name": "Toya Aoyagi",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "May 25",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "370217ce-2b27-4a76-888a-d99ec7a7ae5f",
+        "name": "Tsukasa Tenma",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "May 17",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Gunjou Sanka 2022",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,342 @@
+[
+    {
+        "id": "550bf650-0467-442d-9c20-86e623eb32ef",
+        "name": "Charlotte Roselei",
+        "gender": "f",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Sep 18",
+            "Age": "27",
+            "gender": null,
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1fb58713-2209-4f5e-a747-4aa981024d09",
+        "name": "Charmy Pappitson",
+        "gender": "f",
+        "height": "142.00",
+        "extras": {
+            "Birthday": "Jun 3",
+            "Age": "19",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "22a50d21-3a9d-4e9a-afa1-4c2e3a391830",
+        "name": "Finral Roulacase",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Feb 6",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3b4d7fbe-8f4d-4c6a-ad34-7e9d8bbb48e6",
+        "name": "Fuegoleon Vermillion",
+        "gender": "m",
+        "height": "188.00",
+        "extras": {
+            "Birthday": "Aug 5",
+            "Age": "30",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d58cdd76-91ce-4b93-80a3-166904eb4872",
+        "name": "Gauche Adlai",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": "Jun 27",
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1163e07c-ed0b-4ee0-8e42-e789bc4982da",
+        "name": "Jack The Ripper",
+        "gender": "m",
+        "height": "197.00",
+        "extras": {
+            "Birthday": "Jun 1",
+            "Age": "28",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "afe24a23-c2a9-435c-bb2a-6164efa4b2a4",
+        "name": "Julius Novachrono",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Oct 15",
+            "Age": "42",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9869b0d8-8ac3-4728-b6cc-7fce9a34a9e0",
+        "name": "Klaus Lunettes",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Apr 19",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "373034ce-7bb2-4a66-b10a-4a93d625fe3b",
+        "name": "Magna Swing",
+        "gender": "m",
+        "height": "169.00",
+        "extras": {
+            "Birthday": "Apr 7",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4256aa8c-c0c9-4eea-b45d-87201de187ae",
+        "name": "Marx Francois",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Oct 21",
+            "Age": "25",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5cb115bc-929f-4f32-b9b2-df91b7da5a7d",
+        "name": "Mereoleona Vermillion",
+        "gender": "f",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Jul 26",
+            "Age": "32",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "87ae1c19-b36e-438b-8fdb-a8ee5b9f21f7",
+        "name": "Mimosa Vermillion",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Aug 26",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7ac9470d-7255-4512-be10-a29c07dfd878",
+        "name": "Nacht Faust",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Apr 30",
+            "Age": "29",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "42cea7eb-c1c7-4e83-854c-973da466e68c",
+        "name": "Noelle Silva",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": "Nov 15",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bef3a888-11d9-445d-aa51-a385cc5fd4ee",
+        "name": "Nozel Silva",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Dec 30",
+            "Age": "29",
+            "gender": null,
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c1cabd30-4974-4c00-9049-4695e3b40dd4",
+        "name": "Sally",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Mar 17",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4faa1b9e-9710-420c-a5bd-28e57871859a",
+        "name": "Sekke Bronzazza",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Apr 22",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2fac0c3c-4b30-495b-852e-7733e07a080d",
+        "name": "Vanessa Enoteca",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "May 16",
+            "Age": "24",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "da0b6618-80f0-43a8-a58e-c1923bae2640",
+        "name": "William Vangeance",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Dec 24",
+            "Age": "26",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "142b2a17-db3b-4806-b2bf-0b0a551d4ef6",
+        "name": "Yami Sukehiro",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Sep 17",
+            "Age": "28",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Black Clover Mahou Tei no Ken",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

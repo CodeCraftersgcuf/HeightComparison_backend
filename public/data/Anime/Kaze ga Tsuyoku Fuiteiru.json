@@ -1,0 +1,155 @@
+[
+    {
+        "id": "95eb790f-3aba-4a88-9f50-b0f0cfbe6c0c",
+        "name": "Akane Kashiwazaki",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaze ga Tsuyoku Fuiteiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c77c4d0c-bff5-4684-931e-77f83c2c906c",
+        "name": "Akihiro Hirata",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaze ga Tsuyoku Fuiteiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2165e2a9-3dcf-4d5c-ba31-eb912158538a",
+        "name": "Haiji Kiyose",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaze ga Tsuyoku Fuiteiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "87dcfe49-f058-4552-af93-04233a8fa974",
+        "name": "Kakeru Kurahara",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaze ga Tsuyoku Fuiteiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f9a94c4e-8ff5-47ef-910e-e90457f557ff",
+        "name": "Musa Kamala",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaze ga Tsuyoku Fuiteiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2eb439ab-9aa8-4df1-b561-865a49371070",
+        "name": "Takashi Sugiyama",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaze ga Tsuyoku Fuiteiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c3440f84-d246-4d7c-8e07-333cdd9bd695",
+        "name": "Tarou Jou",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaze ga Tsuyoku Fuiteiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "91544a2a-9bf4-49e0-82ce-5536e246e94c",
+        "name": "Youhei Sakaguchi",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaze ga Tsuyoku Fuiteiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9d468065-3332-4b4e-9c7c-ca83b52fcc6d",
+        "name": "Yukihiko Iwakura",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kaze ga Tsuyoku Fuiteiru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

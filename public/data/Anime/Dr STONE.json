@@ -1,0 +1,53 @@
+[
+    {
+        "id": "4dd06ab2-b89d-4575-94cd-d4baa74f0cf9",
+        "name": "Darya Nikitina",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Mar 6, 1988",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Dr STONE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "877b8030-2097-49de-b6e4-6af512500491",
+        "name": "Homura Momiji",
+        "gender": "f",
+        "height": "145.00",
+        "extras": {
+            "Birthday": "Mar 3",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Dr STONE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f574f9e1-cc1f-4429-9330-28acdac62941",
+        "name": "Yakov Nikitin",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Feb 9, 1975",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Dr STONE",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

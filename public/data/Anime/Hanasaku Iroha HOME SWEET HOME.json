@@ -1,0 +1,53 @@
+[
+    {
+        "id": "481ad605-eda0-4227-b7a9-d5dfa11d0ade",
+        "name": "Minko Tsurugi",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Apr 5",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hanasaku Iroha HOME SWEET HOME",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "831428d4-37ae-4dbc-b7a5-67329394d352",
+        "name": "Nako Oshimizu",
+        "gender": "f",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Apr 7",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hanasaku Iroha HOME SWEET HOME",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a83b3591-6725-4011-ab9c-17338c4aa0a3",
+        "name": "Ohana Matsumae",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Nov 30",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hanasaku Iroha HOME SWEET HOME",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "id": "a94ac5a3-489e-40fa-82b7-07704391cb9c",
+        "name": "Kouyou Ozaki",
+        "gender": "f",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Jan 10",
+            "Age": "26",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 3rd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e36d4684-d75c-41a7-981f-0f97fc38da27",
+        "name": "Motojirou Kajii",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Feb 17",
+            "Age": "28",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Bungou Stray Dogs 3rd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

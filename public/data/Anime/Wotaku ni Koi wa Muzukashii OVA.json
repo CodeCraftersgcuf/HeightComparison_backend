@@ -1,0 +1,70 @@
+[
+    {
+        "id": "f9edfe61-fc2e-4b3c-aec4-0ec6d04aeea9",
+        "name": "Hanako Koyanagi",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Aug 28",
+            "Age": "27",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Wotaku ni Koi wa Muzukashii OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "830c9070-3d64-4eaf-95bf-52917d7773d1",
+        "name": "Hirotaka Nifuji",
+        "gender": "m",
+        "height": "184.00",
+        "extras": {
+            "Birthday": "Mar 20",
+            "Age": "26",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Wotaku ni Koi wa Muzukashii OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "14d720bd-a928-4733-a4f5-81a4d104c177",
+        "name": "Naoya Nifuji",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Apr 21",
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Wotaku ni Koi wa Muzukashii OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "33d657b1-1651-4da1-9fc6-691905d02f21",
+        "name": "Tarou Kabakura",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Nov 9",
+            "Age": "28",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Wotaku ni Koi wa Muzukashii OVA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

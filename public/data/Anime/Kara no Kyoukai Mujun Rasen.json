@@ -1,0 +1,104 @@
+[
+    {
+        "id": "dfd94ec6-01fd-4ec5-a491-8244494ec359",
+        "name": "Azaka Kokutou",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Dec 21",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kara no Kyoukai Mujun Rasen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5152995a-ffd3-4892-919c-f1ebccc71b5f",
+        "name": "Daisuke Akimi",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kara no Kyoukai Mujun Rasen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2e83e313-ea3e-4d44-a0dd-8a758252da91",
+        "name": "Mikiya Kokutou",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Dec 20",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kara no Kyoukai Mujun Rasen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7f09a3fc-3769-4589-b2f3-59f87952b3fc",
+        "name": "Shiki Ryougi",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Feb 17",
+            "Age": "16-19",
+            "gender": "f",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kara no Kyoukai Mujun Rasen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9f35f90e-f457-4850-9a86-eb0a5b1cad63",
+        "name": "Souren Araya",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kara no Kyoukai Mujun Rasen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "56ca8df8-a689-4e8e-b0eb-f96fe82d91bb",
+        "name": "Tomoe Enjou",
+        "gender": "m",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Jul 10",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Kara no Kyoukai Mujun Rasen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

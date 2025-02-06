@@ -1,0 +1,19 @@
+[
+    {
+        "id": "39cd8ee5-18ea-4eea-8092-955603ceec2d",
+        "name": "Zangief",
+        "gender": "m",
+        "height": "214.00",
+        "extras": {
+            "Birthday": "Jun 1, 1956",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Hi Score Girl II",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

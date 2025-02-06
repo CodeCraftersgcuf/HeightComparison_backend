@@ -1,0 +1,87 @@
+[
+    {
+        "id": "d006eca3-918b-4ac2-9900-158bbe1688ee",
+        "name": "Nulla Komatsu",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Nov 30, 1980",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "dba9565d-d4e2-4b69-b3bf-a5d0a0b5d12d",
+        "name": "Nulla Oosaki",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": "Mar 5, 1981",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5d304308-152e-457e-9573-1f87e927213e",
+        "name": "Sachiko Kawamura",
+        "gender": "f",
+        "height": "146.00",
+        "extras": {
+            "Birthday": "May 5, 1982",
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "825f542f-f8c8-4969-bac3-798d0e84b600",
+        "name": "Shinichi Okazaki",
+        "gender": "m",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Nov 1, 1985",
+            "Age": "15-22",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d1477c46-d33d-4ab4-98d1-20a7299369c7",
+        "name": "Takumi Ichinose",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Dec 12, 1977",
+            "Age": "23",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "nullA",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

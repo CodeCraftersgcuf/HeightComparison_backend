@@ -1,0 +1,53 @@
+[
+    {
+        "id": "d9517775-745c-428d-a2ed-d999a76c3d2b",
+        "name": "Ram",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Feb 2",
+            "Age": "17 (Arc 1-2) / 18 (Arc 3-4) / 19 (Arc 5+)",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ReZero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "033209b7-acb5-4f42-9923-f3e7f6684779",
+        "name": "Rem",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Feb 2",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ReZero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0243fd0b-3d8f-4c12-917a-821da54f33a9",
+        "name": "Subaru Natsuki",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Apr 1",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "ReZero kara Hajimeru Isekai Seikatsu 2nd Season Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

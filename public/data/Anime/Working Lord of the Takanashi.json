@@ -1,0 +1,87 @@
+[
+    {
+        "id": "247c67b4-89eb-4412-832b-cd28d197e19b",
+        "name": "Izumi Takanashi",
+        "gender": "f",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Jul 26",
+            "Age": "28",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Working Lord of the Takanashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a5ca0bb1-e2ca-48a0-944e-43c31e1ec886",
+        "name": "Kozue Takanashi",
+        "gender": "f",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "May 30",
+            "Age": "25",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Working Lord of the Takanashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ec70b9ee-aaa2-463f-9fe0-b7d26be324f5",
+        "name": "Mahiru Inami",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Apr 1",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Working Lord of the Takanashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "817437cc-ad05-4547-b94e-a6c6ea1b1996",
+        "name": "Maya Matsumoto",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "May 5",
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Working Lord of the Takanashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ebf3739b-fcba-43d3-8a0b-5c21970803f0",
+        "name": "Nazuna Takanashi",
+        "gender": "f",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Jul 26",
+            "Age": "12",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Working Lord of the Takanashi",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

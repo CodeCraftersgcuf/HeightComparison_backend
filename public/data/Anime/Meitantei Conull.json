@@ -1,0 +1,19 @@
+[
+    {
+        "id": "a942b940-c95f-4d0a-9ac2-916e48e2c24a",
+        "name": "Conull Edogawa",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "May 4",
+            "Age": "6-7 (as Conull); 17 (as Shinichi)",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Meitantei Conull",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

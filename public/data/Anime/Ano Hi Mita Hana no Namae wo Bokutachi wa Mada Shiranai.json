@@ -1,0 +1,36 @@
+[
+    {
+        "id": "64e733b3-782a-4f67-94a4-52fb828cd53c",
+        "name": "Atsumu Matsuyuki",
+        "gender": "m",
+        "height": "181.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3f22c8b5-0ee2-484d-9b9e-29d4c9c9ea43",
+        "name": "Naruko Anjou",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

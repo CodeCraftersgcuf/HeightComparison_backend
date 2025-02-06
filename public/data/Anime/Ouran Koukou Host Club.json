@@ -1,0 +1,36 @@
+[
+    {
+        "id": "a9f54bfa-f29f-47e9-973f-1d4638d3e33c",
+        "name": "Hikaru Hitachiin",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Jun 9",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ouran Koukou Host Club",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2acf3fb9-3029-4c90-9889-e07c7dded074",
+        "name": "Kyouya Ootori",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Nov 22",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ouran Koukou Host Club",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

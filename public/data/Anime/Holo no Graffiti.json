@@ -1,0 +1,19 @@
+[
+    {
+        "id": "0fd38558-a1c4-4327-b1b0-0f485d20b46c",
+        "name": "Irys",
+        "gender": "f",
+        "height": "166.00",
+        "extras": {
+            "Birthday": "Mar 7",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Holo no Graffiti",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

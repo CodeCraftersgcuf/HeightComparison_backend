@@ -1,0 +1,87 @@
+[
+    {
+        "id": "9b958f97-f67a-4e5d-b4d2-a5f5e7daf708",
+        "name": "Chiaki Tanimura",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Nov 7",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Beelzebub",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4c286e1e-37a1-4988-9ae3-3070a9f268d3",
+        "name": "Hajime Kanzaki",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Jun 1",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Beelzebub",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "da6c8b11-6f64-4473-a686-58061580cfab",
+        "name": "Takayuki Furuichi",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Nov 11",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Beelzebub",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "83968839-207c-4569-8fb8-d55f58218bd3",
+        "name": "Tatsumi Oga",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": "Aug 31",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Beelzebub",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a3243750-73d3-4158-8dfc-ad8d5073306d",
+        "name": "Yuka Hanazawa",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "May 25",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Beelzebub",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

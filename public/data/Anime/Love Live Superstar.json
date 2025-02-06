@@ -1,0 +1,53 @@
+[
+    {
+        "id": "e89090e2-30a0-4d2c-90f8-dc0a4157fa6b",
+        "name": "Kanon Shibuya",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "May 1",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Superstar",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "98ea34b9-ac90-41bc-8780-6d7e685136d6",
+        "name": "Keke Tang",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "Jul 17",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Superstar",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ea023675-d4eb-47d6-98a5-96d3321348d8",
+        "name": "Ren Hazuki",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Nov 24",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Love Live Superstar",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

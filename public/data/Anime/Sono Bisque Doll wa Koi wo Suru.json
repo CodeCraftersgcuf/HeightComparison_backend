@@ -1,0 +1,53 @@
+[
+    {
+        "id": "297bd682-871e-4a22-a965-40ff734b0b36",
+        "name": "Marin Kitagawa",
+        "gender": "f",
+        "height": "164.00",
+        "extras": {
+            "Birthday": "Mar 5",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sono Bisque Doll wa Koi wo Suru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "24709d7c-209f-41dc-b00f-da8d28d70b3a",
+        "name": "Shinju Inui",
+        "gender": "f",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Sep 29",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sono Bisque Doll wa Koi wo Suru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c0746f59-2688-4c7e-a4cc-5a1b66c07629",
+        "name": "Wakana Gojou",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Mar 21",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Sono Bisque Doll wa Koi wo Suru",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

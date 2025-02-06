@@ -1,0 +1,19 @@
+[
+    {
+        "id": "4755be49-ba05-4b74-8bff-025a353eab32",
+        "name": "Kanon Konomori",
+        "gender": "f",
+        "height": "141.00",
+        "extras": {
+            "Birthday": "Feb 28",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Watashi ni Tenshi ga Maiorita Precious Friends",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

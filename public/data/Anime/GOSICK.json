@@ -1,0 +1,36 @@
+[
+    {
+        "id": "fd1bc4a9-b25a-4717-8712-bb5b7b1542c0",
+        "name": "Kazuya Kujou",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Sep 2",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "GOSICK",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "64121e59-3e6e-4aba-873d-a398872cd6fd",
+        "name": "Victorique De Blois",
+        "gender": "f",
+        "height": "140.00",
+        "extras": {
+            "Birthday": "Dec 25",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "GOSICK",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,223 @@
+[
+    {
+        "id": "28496fd0-39c8-4bfe-ae55-2f363ab2b38d",
+        "name": "Accelerator",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "15-16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toaru Kagaku no Railgun T",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "28c27d10-679f-4ce5-b613-0fc12f2e0735",
+        "name": "Aisa Himegami",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "15-16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toaru Kagaku no Railgun T",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b3a59925-11fe-4d14-8cc8-c42f95b268e8",
+        "name": "Frenda Seivelun",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toaru Kagaku no Railgun T",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c2acad47-fc6a-4aac-b266-6957c4a89861",
+        "name": "Index Librorum Prohibitorum",
+        "gender": "f",
+        "height": "148.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "14-15",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toaru Kagaku no Railgun T",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a32b05bf-70ca-499a-965d-e1b1019e7bb4",
+        "name": "Kazari Uiharu",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "12-13",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toaru Kagaku no Railgun T",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9925ca5d-11ac-445d-af44-1e725012c204",
+        "name": "Kuroko Shirai",
+        "gender": "f",
+        "height": "152.00",
+        "extras": {
+            "Birthday": "Apr 5",
+            "Age": "12-13",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toaru Kagaku no Railgun T",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "61e528c1-dafa-4a70-85d0-c0194cd3541c",
+        "name": "Mikoto Misaka",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": "May 2",
+            "Age": "13-14",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toaru Kagaku no Railgun T",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9144d1a1-b424-49f0-84a4-17cb010c76ee",
+        "name": "Misaki Shokuhou",
+        "gender": "f",
+        "height": "169.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toaru Kagaku no Railgun T",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b5586f9e-2c94-43ce-81e9-d25bdae12fa7",
+        "name": "Motoharu Tsuchimikado",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "15-16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toaru Kagaku no Railgun T",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "82493d81-6b29-4c07-b66e-868ceefd684d",
+        "name": "Pierce Aogami",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toaru Kagaku no Railgun T",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "56c2e36b-9218-4bdb-921a-c9bdd254c938",
+        "name": "Ruiko Saten",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "12-13",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toaru Kagaku no Railgun T",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "06e830aa-0c76-4030-bc6e-c7cd0fcec01c",
+        "name": "Shizuri Mugino",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toaru Kagaku no Railgun T",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c91b0f9d-cfd4-4983-8ebe-9a64f70a4ce4",
+        "name": "Touma Kamijou",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "15-16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Toaru Kagaku no Railgun T",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

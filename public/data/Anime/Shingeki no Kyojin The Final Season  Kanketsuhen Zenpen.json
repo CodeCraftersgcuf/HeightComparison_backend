@@ -1,0 +1,70 @@
+[
+    {
+        "id": "69ec7fde-308f-4f2b-bb8d-2e8fbda25ba4",
+        "name": "Falco Grice",
+        "gender": "m",
+        "height": "140.00",
+        "extras": {
+            "Birthday": "Feb 10",
+            "Age": "12-15",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin The Final Season  Kanketsuhen Zenpen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b53db768-43d5-4fd2-96ac-168bf88aad48",
+        "name": "Gabi Braun",
+        "gender": "f",
+        "height": "138.00",
+        "extras": {
+            "Birthday": "Apr 14",
+            "Age": "15",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin The Final Season  Kanketsuhen Zenpen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4ce0fb27-d5cd-4d9c-af0a-edbca3771e3f",
+        "name": "Nullaba",
+        "gender": "f",
+        "height": "172.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin The Final Season  Kanketsuhen Zenpen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "806b3228-f519-4245-97dc-8ba5cc8f2ebf",
+        "name": "Pieck Finger",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Aug 5",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Shingeki no Kyojin The Final Season  Kanketsuhen Zenpen",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "id": "3059d418-1a77-4609-8f23-6f23eeea1cfc",
+        "name": "Izumi Shimomura",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Ajin 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

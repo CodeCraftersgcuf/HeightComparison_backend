@@ -1,0 +1,121 @@
+[
+    {
+        "id": "83d54c94-040d-483f-8530-9aa047ee37fb",
+        "name": "Hinata Tachibana",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "May 21, 1991",
+            "Age": "14 (past), 26 (present)",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5f3cd06d-025b-4af8-8f05-d09413fd606a",
+        "name": "Kazutora Hanemiya",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Sep 16, 1990",
+            "Age": "15 (2005) - 27 (2017)",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "740cf080-2f3a-4ac7-b4fd-f048cc5724e1",
+        "name": "Naoto Tachibana",
+        "gender": "m",
+        "height": "148.00",
+        "extras": {
+            "Birthday": "Apr 12, 1992",
+            "Age": "13 (Past), 25 (Present)",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ed33a3cd-e4a1-46ba-adfc-1bd158af6fad",
+        "name": "Ran Haitani",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "May 26, 1987",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "eb2c1831-e51c-4f50-aa2b-15df0e0ca708",
+        "name": "Rindou Haitani",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Oct 20, 1988",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8cae2b02-f9e1-4838-92d1-3459442e4551",
+        "name": "Seishuu Inui",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": "Oct 18, 1989",
+            "Age": "16 (past), 28 (present)",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e5fc2dc5-ce5d-449c-9ab5-e14975b081d5",
+        "name": "Takemichi Hanagaki",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Jun 25, 1991",
+            "Age": "14 (past), 26 (present)",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tokyo Revengers",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

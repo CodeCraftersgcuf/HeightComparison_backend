@@ -1,0 +1,36 @@
+[
+    {
+        "id": "5dae0625-87a2-4fb6-bd2c-58e569ccdef9",
+        "name": "Seisyun Ri",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "17-18",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Magi The labyrinth of magic",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "57cee499-fe41-4bc1-b7a3-ec69bc29b687",
+        "name": "Spartos Leoxses",
+        "gender": "m",
+        "height": "179.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "22",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Magi The labyrinth of magic",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

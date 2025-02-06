@@ -1,0 +1,36 @@
+[
+    {
+        "id": "a95ba468-6507-48e8-95b9-5ca9fe2917e6",
+        "name": "Tomoyo Daidouji",
+        "gender": "f",
+        "height": "136.00",
+        "extras": {
+            "Birthday": "Sep 3",
+            "Age": "11-12",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Cardcaptor Sakura",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d2e39bc6-8bab-49b1-94a5-f4d554f080aa",
+        "name": "Xiaolang Li",
+        "gender": "m",
+        "height": "140.00",
+        "extras": {
+            "Birthday": "Jul 13",
+            "Age": "11-12",
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Cardcaptor Sakura",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

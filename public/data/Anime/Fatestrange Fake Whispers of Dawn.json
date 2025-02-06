@@ -1,0 +1,19 @@
+[
+    {
+        "id": "8cd026fe-aa8b-48d3-9538-6ac69b6c6302",
+        "name": "Richard I",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fatestrange Fake Whispers of Dawn",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

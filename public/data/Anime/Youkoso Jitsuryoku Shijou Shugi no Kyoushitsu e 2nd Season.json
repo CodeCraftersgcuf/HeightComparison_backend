@@ -1,0 +1,257 @@
+[
+    {
+        "id": "139ba55e-8419-472f-92ce-8d2618d0756d",
+        "name": "Airi Sakura",
+        "gender": "f",
+        "height": "153.00",
+        "extras": {
+            "Birthday": "Oct 15",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "beb55b93-d96f-4daf-beb7-424d501a5151",
+        "name": "Arisu Sakayanagi",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "Mar 12",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "31b368a5-254c-4496-a74e-369ca2f35441",
+        "name": "Honami Ichinose",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "Jul 20",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "b5198d70-55fb-4cc1-bffe-2fa52940ba42",
+        "name": "Kakeru Ryuuen",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Oct 20",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "19c7e685-dd99-4635-a359-8d7882290c63",
+        "name": "Kei Karuizawa",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Mar 8",
+            "Age": "16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f7798bdb-b6b0-4a23-8e36-dec07d48299d",
+        "name": "Ken Sudou",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Oct 5",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c98cfb12-9178-496f-a3ab-b567290fc3c7",
+        "name": "Kikyou Kushida",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Jan 23",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2cd4de0d-2bed-46bf-ae05-dfcdd6ac9048",
+        "name": "Kiyotaka Ayanokouji",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Oct 20",
+            "Age": "16-17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "da1f4535-1c6a-42bf-baf9-b8ee4ed64572",
+        "name": "Kouhei Katsuragi",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Aug 29",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ac541c77-0999-468d-98de-7409cec53334",
+        "name": "Manabu Horikita",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Apr 24",
+            "Age": "18-19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "223e10f6-a8b2-4c5e-84cc-e8aff816ae17",
+        "name": "Miyabi Nagumo",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c5c170ee-781f-42fc-872b-a32aa30b826f",
+        "name": "Ryuuji Kanzaki",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Dec 5",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "e0676995-e614-48d7-9b7d-dfb3ab88128b",
+        "name": "Sae Chabashira",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "May 20",
+            "Age": "26",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "978f8d95-a057-41df-9aaf-23ee22888f8b",
+        "name": "Suzune Horikita",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Feb 15",
+            "Age": "15-16",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "76956c3c-763a-4374-a51b-a85a01ff4407",
+        "name": "Yousuke Hirata",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Sep 1",
+            "Age": "16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

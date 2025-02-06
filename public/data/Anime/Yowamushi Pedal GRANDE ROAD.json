@@ -1,0 +1,19 @@
+[
+    {
+        "id": "ebd49329-46e9-4a6b-8c39-e1b2ed994a9b",
+        "name": "Shingo Kinjou",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Dec 1",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Yowamushi Pedal GRANDE ROAD",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

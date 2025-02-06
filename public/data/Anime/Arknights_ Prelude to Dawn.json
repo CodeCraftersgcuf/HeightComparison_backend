@@ -1,0 +1,19 @@
+[
+    {
+        "id": "3e96a4a6-8ee2-47ac-aa3d-a5ecf77724a0",
+        "name": "Kal'tsit",
+        "gender": "f",
+        "height": "169.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Arknights: Prelude to Dawn",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

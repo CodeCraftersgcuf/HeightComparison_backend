@@ -1,0 +1,291 @@
+[
+    {
+        "id": "bee50465-8a10-4881-ae9d-b242efdb560e",
+        "name": "Akane Yanagi",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Dec 28",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0caf9bc5-a211-49f1-b5fd-c0cfa27e917d",
+        "name": "Chika Ichijou",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Sep 26",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "678115a2-d259-4529-b3d5-212effbf4db1",
+        "name": "Daiki Mizouchi",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Aug 24",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "88adb71b-cd3e-480a-b18f-e1b550fbf5db",
+        "name": "Honoka Sawada",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "Dec 31",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "8f50a228-a0d5-45b6-a092-a49fb4f22ee1",
+        "name": "Ichirou Watabe",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Sep 4",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "af31503f-c94f-4af2-ac1e-19923e917609",
+        "name": "Izumi Miyamura",
+        "gender": "m",
+        "height": "169.00",
+        "extras": {
+            "Birthday": "Apr 17",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1adc56d6-4f40-4e1e-9106-9589b2abefdf",
+        "name": "Kakeru Sengoku",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "May 9",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "93692314-7e4c-42b8-8c7a-9af8b9aa57da",
+        "name": "Kayo Yashiro",
+        "gender": "f",
+        "height": "176.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4afd9eb1-a268-4fb2-9440-bc9fc2ab61ab",
+        "name": "Kouichi Shindou",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Apr 2",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c16a4d5a-f310-4149-bd97-2dd8c126e491",
+        "name": "Kyouko Hori",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Mar 25",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "941e6d85-37d8-4b98-889f-ac11ad2afc77",
+        "name": "Kyousuke Hori",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "35",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1fb25c64-c39c-4d17-889d-026bb130b559",
+        "name": "Makio Tanihara",
+        "gender": "m",
+        "height": "168.00",
+        "extras": {
+            "Birthday": "Apr 16",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c4d83697-c4f4-41af-8f29-a7ce5482e688",
+        "name": "Motoko Iura",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "May 14",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "03318dff-0e45-47a9-a96f-49ced02e0d71",
+        "name": "Remi Ayasaki",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Jun 6",
+            "Age": "17",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "79473b82-4ea9-45b6-8306-b60f0fa73caa",
+        "name": "Sakura Kouno",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Jan 20",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9023d28f-a626-443a-890e-fd4b68e9ffac",
+        "name": "Shuu Iura",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Feb 7",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "86807fab-d88c-43cf-98fa-cbacd8a2ca83",
+        "name": "Tooru Ishikawa",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Oct 1",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Horimiya",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "id": "369e61a0-4301-477d-8fb8-d21388768c79",
+        "name": "Akio Furukawa",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "Jul 20",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "CLANNAD After Story",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "188e152f-e2a9-4918-8e82-5d284299169b",
+        "name": "Fuuko Ibuki",
+        "gender": "f",
+        "height": "150.00",
+        "extras": {
+            "Birthday": "Jul 20, 1985",
+            "Age": "18",
+            "gender": "f",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "CLANNAD After Story",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "fc24ac97-3af1-40a5-bfc1-ca216f2b1ded",
+        "name": "Kyou Fujibayashi",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Sep 9, 1985",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "CLANNAD After Story",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "346e07a1-7db9-4969-a454-63ad8ef14ffb",
+        "name": "Nagisa Furukawa",
+        "gender": "f",
+        "height": "155.00",
+        "extras": {
+            "Birthday": "Dec 24, 1984",
+            "Age": "18-19",
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "CLANNAD After Story",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "aa484d3f-7ac7-45e6-8f33-45e723bd6e08",
+        "name": "Ryou Fujibayashi",
+        "gender": "f",
+        "height": "159.00",
+        "extras": {
+            "Birthday": "Sep 9, 1985",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "CLANNAD After Story",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "12a9f01a-c4e8-4fc4-a01b-6ff24a59321f",
+        "name": "Sanae Furukawa",
+        "gender": "f",
+        "height": "158.00",
+        "extras": {
+            "Birthday": "Oct 5",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "CLANNAD After Story",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "5301449d-6ecc-4aa0-af09-5ee169606edf",
+        "name": "Youhei Sunohara",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Feb 17, 1986",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "CLANNAD After Story",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

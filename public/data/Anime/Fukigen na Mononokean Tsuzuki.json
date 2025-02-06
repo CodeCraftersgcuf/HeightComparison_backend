@@ -1,0 +1,36 @@
+[
+    {
+        "id": "eb1f72ad-686e-4d83-9e10-062014bb70e6",
+        "name": "Hanae Ashiya",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Dec 21",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fukigen na Mononokean Tsuzuki",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "683b534c-e083-4b1b-a96e-f3921c15ee7e",
+        "name": "Haruitsuki Abeno",
+        "gender": "m",
+        "height": "171.00",
+        "extras": {
+            "Birthday": "Jun 21",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fukigen na Mononokean Tsuzuki",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

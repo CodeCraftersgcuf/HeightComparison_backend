@@ -1,0 +1,206 @@
+[
+    {
+        "id": "b7b9ea5a-ead4-40de-91c4-5dd7cc571cca",
+        "name": "Gaku Yaotome",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Aug 16",
+            "Age": "22",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "IDOLiSH7 Third BEAT Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "68f882e8-d201-4493-a35a-1bee8929f980",
+        "name": "Haruka Isumi",
+        "gender": "m",
+        "height": "170.00",
+        "extras": {
+            "Birthday": "Dec 6",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "IDOLiSH7 Third BEAT Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9af7ff8b-52eb-4c52-89fc-f66475a7935d",
+        "name": "Minami Natsume",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Jun 8",
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "IDOLiSH7 Third BEAT Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "053a4f28-441e-402d-bd83-f2499a6507e6",
+        "name": "Mitsuki Izumi",
+        "gender": "m",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Mar 3",
+            "Age": "21",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "IDOLiSH7 Third BEAT Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d14dd54c-8b70-48b9-afb2-61df154b1e89",
+        "name": "Nagi Rokuya",
+        "gender": "m",
+        "height": "180.00",
+        "extras": {
+            "Birthday": "Jun 20",
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "IDOLiSH7 Third BEAT Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "61c0976e-82f4-41bc-89a8-c6dda115d7cc",
+        "name": "Riku Nullase",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Jul 9",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "IDOLiSH7 Third BEAT Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "6e6738dd-a33b-4b3d-bb76-6a076557d906",
+        "name": "Ryuunosuke Tsunashi",
+        "gender": "m",
+        "height": "190.00",
+        "extras": {
+            "Birthday": "Oct 12",
+            "Age": "23",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "IDOLiSH7 Third BEAT Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "c85fe800-d410-4b83-851f-947c84879c2a",
+        "name": "Sougo Osaka",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": "May 28",
+            "Age": "20",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "IDOLiSH7 Third BEAT Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9a994620-c47a-4d6e-8d05-1a6bb15cb4af",
+        "name": "Tamaki Yotsuba",
+        "gender": "m",
+        "height": "183.00",
+        "extras": {
+            "Birthday": "Apr 1",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "IDOLiSH7 Third BEAT Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1b01732e-cd7d-407e-946a-518e88ea1c91",
+        "name": "Tenn Kujo",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": "Jul 9",
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "IDOLiSH7 Third BEAT Part 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1362ad7e-81d4-4b92-8f58-52a50d43b06d",
+        "name": "Torao Mido",
+        "gender": "m",
+        "height": "185.00",
+        "extras": {
+            "Birthday": "Mar 15",
+            "Age": "21",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "IDOLiSH7 Third BEAT Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "40c74fe4-7d07-4061-8656-302a0cc13f4c",
+        "name": "Touma Inumaru",
+        "gender": "m",
+        "height": "176.00",
+        "extras": {
+            "Birthday": "Nov 29",
+            "Age": "20",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "IDOLiSH7 Third BEAT Part 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "id": "28be29e4-beb6-40dc-ad0f-4b55e5f01fea",
+        "name": "Junji Kuroishi",
+        "gender": "m",
+        "height": "173.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "15-16",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Haikyuu TO THE TOP",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0aacbf2d-aba2-4599-99aa-c50bf4af5c67",
+        "name": "Yumeto Nagamatsu",
+        "gender": "m",
+        "height": "189.00",
+        "extras": {
+            "Birthday": "1997",
+            "Age": "14-15",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Haikyuu TO THE TOP",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

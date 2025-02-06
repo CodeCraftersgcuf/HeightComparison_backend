@@ -1,0 +1,19 @@
+[
+    {
+        "id": "2a87c0a8-af86-4653-ad07-9244816c8d3c",
+        "name": "Mitsuo Yanagisawa",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "18-19",
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Golden Time",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

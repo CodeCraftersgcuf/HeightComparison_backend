@@ -1,0 +1,36 @@
+[
+    {
+        "id": "a37a2182-ea92-43a2-86d2-5581c6bb98de",
+        "name": "Natsuki Usami",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": "Aug 28",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tsuritama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "f2d31378-053c-46e5-812f-805d08138aef",
+        "name": "Yuki Sanada",
+        "gender": "m",
+        "height": "172.00",
+        "extras": {
+            "Birthday": "Mar 31",
+            "Age": "17",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Tsuritama",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

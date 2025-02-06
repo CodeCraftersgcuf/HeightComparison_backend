@@ -1,0 +1,155 @@
+[
+    {
+        "id": "bc35ecf7-5e5b-4a0b-93ea-1d40c9661eea",
+        "name": "Akiha Tohno",
+        "gender": "f",
+        "height": "160.00",
+        "extras": {
+            "Birthday": "Sep 22",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Carnival Phantasm",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "2d2f81c2-3869-4097-b44e-06d8c6c8952e",
+        "name": "Aoko Aozaki",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Jul 7",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Carnival Phantasm",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "18058219-b337-45b0-8c42-0c2a78cdeceb",
+        "name": "Arcueid Brunestud",
+        "gender": "f",
+        "height": "167.00",
+        "extras": {
+            "Birthday": "Dec 25",
+            "Age": "800+",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Carnival Phantasm",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7eb40a6d-edf1-454a-95e7-5277a4fc0af6",
+        "name": "Arihiko Inui",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Oct 24",
+            "Age": null,
+            "gender": "m",
+            "Blood Type": "B"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Carnival Phantasm",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "419a7161-e79b-434d-888c-0616b62ceac0",
+        "name": "Ciel",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "May 3, 1976",
+            "Age": "23-25",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Carnival Phantasm",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "bbde8e84-ef15-49f2-bfd8-221b3f5161c5",
+        "name": "Hibiki Hibino",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": "Sep 7",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Carnival Phantasm",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "992f1421-eb54-41e1-b54a-dd4f772f759a",
+        "name": "Hisui",
+        "gender": "f",
+        "height": "156.00",
+        "extras": {
+            "Birthday": "Mar 12",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Carnival Phantasm",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "0368f058-f35a-4ec8-8546-6c03358d4b82",
+        "name": "Shiki Tohno",
+        "gender": "m",
+        "height": "169.00",
+        "extras": {
+            "Birthday": "Oct 15",
+            "Age": "17 (Tsukihime), 18 (Melty Blood)",
+            "gender": "m",
+            "Blood Type": "AB"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Carnival Phantasm",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ed8159cf-f7d5-4a60-a431-322935c7b180",
+        "name": "Sion Eltnam Atlasia",
+        "gender": "f",
+        "height": "161.00",
+        "extras": {
+            "Birthday": "Jun 1",
+            "Age": "18-19",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Carnival Phantasm",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

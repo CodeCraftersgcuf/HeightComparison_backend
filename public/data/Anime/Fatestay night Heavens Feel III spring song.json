@@ -1,0 +1,138 @@
+[
+    {
+        "id": "be3a04b8-52f3-4adc-a228-b3efbe2fdb9d",
+        "name": "Artoria Pendragon",
+        "gender": "f",
+        "height": "154.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fatestay night Heavens Feel III spring song",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "9e094f5c-58e5-49f9-af00-a26ca874e7af",
+        "name": "Ayako Mitsuzuri",
+        "gender": "f",
+        "height": "162.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fatestay night Heavens Feel III spring song",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "ce47579e-70af-442a-9124-a0c8af7df56e",
+        "name": "Illyasviel Von Einzbern",
+        "gender": "f",
+        "height": "133.00",
+        "extras": {
+            "Birthday": "Nov 20",
+            "Age": "8 (Fate/Zero), 18 (Fate/stay night)",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fatestay night Heavens Feel III spring song",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3b4e8260-873e-4054-943b-d66d00753545",
+        "name": "Rin Tohsaka",
+        "gender": "f",
+        "height": "124.00",
+        "extras": {
+            "Birthday": "Feb 3",
+            "Age": "17-20",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fatestay night Heavens Feel III spring song",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4d24456d-31e3-4f2d-95f7-2d1a862614ef",
+        "name": "Sakura Matou",
+        "gender": "f",
+        "height": "120.00",
+        "extras": {
+            "Birthday": "Mar 2",
+            "Age": "16-18",
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fatestay night Heavens Feel III spring song",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "4948271b-05b5-414e-a102-1664b6acc743",
+        "name": "Shirou Emiya",
+        "gender": "m",
+        "height": "167.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "16-19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fatestay night Heavens Feel III spring song",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "3f5e8920-4d73-41eb-8b80-d4e38c898747",
+        "name": "Taiga Fujimura",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": null,
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fatestay night Heavens Feel III spring song",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "a69b0bbd-142a-43a9-9d1b-c1168c5bd71c",
+        "name": "Touko Aozaki",
+        "gender": "f",
+        "height": "165.00",
+        "extras": {
+            "Birthday": "Aug 8",
+            "Age": null,
+            "gender": "f",
+            "Blood Type": "O"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Fatestay night Heavens Feel III spring song",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

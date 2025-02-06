@@ -1,0 +1,70 @@
+[
+    {
+        "id": "16e085f4-f86b-4f8b-8eb8-5f089ddc7276",
+        "name": "Garou",
+        "gender": "m",
+        "height": "177.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "18",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "One Punch Man",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "293415b7-c09a-4942-83d3-7832c3bdcdd8",
+        "name": "Genos",
+        "gender": "m",
+        "height": "178.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "19",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "One Punch Man",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "7200b45b-fb2d-44bb-a319-015144f5cc5d",
+        "name": "Hammer-head",
+        "gender": "m",
+        "height": "215.00",
+        "extras": {
+            "Birthday": null,
+            "Age": null,
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "One Punch Man",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "d9d8b0e3-4270-4753-ae9b-cb85c0fca6e2",
+        "name": "Saitama",
+        "gender": "m",
+        "height": "175.00",
+        "extras": {
+            "Birthday": null,
+            "Age": "25",
+            "gender": "m",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "One Punch Man",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    }
+]

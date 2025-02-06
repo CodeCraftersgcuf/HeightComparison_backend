@@ -1,0 +1,36 @@
+[
+    {
+        "id": "8e6bf49c-903c-4230-bbb3-9761204c22df",
+        "name": "Maya Toomi",
+        "gender": "f",
+        "height": "163.00",
+        "extras": {
+            "Birthday": "Nov 11, 2131",
+            "Age": "14",
+            "gender": "f",
+            "Blood Type": null
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Soukyuu no Fafner EXODUS 2",
+        "createdAt": "Aug 23, 12:21 PM",
+        "updatedAt": "155 days"
+    },
+    {
+        "id": "1476709a-1fd0-4e2e-acf3-5a93fb780024",
+        "name": "Ryou Masaoka",
+        "gender": "m",
+        "height": "174.00",
+        "extras": {
+            "Birthday": "Jun 15, 2130",
+            "Age": "15",
+            "gender": "m",
+            "Blood Type": "A"
+        },
+        "category": "Fictional",
+        "subCat1": "Anime",
+        "subCat2": "Soukyuu no Fafner EXODUS 2",
+        "createdAt": "Aug 23, 12:22 PM",
+        "updatedAt": "155 days"
+    }
+]
