@@ -100,4 +100,40 @@ class ApiController extends Controller
            'message' => 'Fictional data retrieved successfully'
         ]);
     }
+
+
+    public function search(Request $request){
+        $query = $request->input('query');
+
+        if (empty($query)) {
+            return response()->json([
+                'staus'=> false,
+                'message' => 'No query provided'], 400);
+        }
+
+        // Search for celebrities
+        $celebrityData = Category::where('name', 'celebrity')
+            ->with(['celebrityData' => function ($queryBuilder) use ($query) {
+                $queryBuilder->where('name', 'LIKE', "%$query%");
+            }])
+            ->first();
+
+        // Search for fictional characters
+        $fictionalData = Category::where('name', 'fictional')
+            ->with(['fictionalData' => function ($queryBuilder) use ($query) {
+                $queryBuilder->where('name', 'LIKE', "%$query%");
+            }])
+            ->first();
+            $status = true;
+        $results = [
+            'celebrities' => $celebrityData?->celebrityData ?? [],
+            'fictional' => $fictionalData?->fictionalData ?? [],
+        ];
+
+        return response()->json([
+            'status' => $status,
+            'query' => $query,
+           'results' => $results,
+        ]);
+    }
 }

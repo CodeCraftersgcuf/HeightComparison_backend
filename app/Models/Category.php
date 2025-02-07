@@ -11,10 +11,6 @@ class Category extends Model
    public function subcategory(){
     return $this->hasMany(Subcategory::class,'category_id');
    }
-//    public function fictionalSubcategories()
-//     {
-//         return $this->hasMany(FictionalSubcategory::class,'category_id');
-//     }
 
     public function celebrityData()
     {
