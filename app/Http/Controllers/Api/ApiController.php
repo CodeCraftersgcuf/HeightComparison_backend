@@ -15,7 +15,7 @@ use Illuminate\Http\Request;
 class ApiController extends Controller
 {
     public function entities(){
-        $entities = Entity::where('isFrozen', false)->get();
+        $entities = Entity::where('isFrozen', false)->lazy();
         return response()->json([
             'status' => true,
             'entities' => $entities,
@@ -23,7 +23,7 @@ class ApiController extends Controller
         ]);
     }
     public function avatar_ectomorph(){
-        $Avatar = Avatar::with('ectomorph')->get();
+        $Avatar = Avatar::with('ectomorph')->lazy();
         return response()->json([
             'status' => true,
             'ectomorph' => $Avatar,
@@ -31,7 +31,7 @@ class ApiController extends Controller
         ]);
     }
     public function avatar_endomorph(){
-        $Avatar = Avatar::with('endomorph')->get();
+        $Avatar = Avatar::with('endomorph')->lazy();
         return response()->json([
             'status' => true,
             'endomorph' => $Avatar,
@@ -39,7 +39,7 @@ class ApiController extends Controller
         ]);
     }
     public function avatar_mesomorph(){
-        $Avatar = Avatar::with('mesomorph')->get();
+        $Avatar = Avatar::with('mesomorph')->lazy();
         return response()->json([
             'status' => true,
             'mesomorph' => $Avatar,
@@ -59,7 +59,7 @@ class ApiController extends Controller
     }
     public function subcategories($categoryId){
         $category = Category::findOrFail($categoryId);
-        $subcategoris = Subcategory::where('category_id',$categoryId)->get();
+        $subcategoris = Subcategory::where('category_id',$categoryId)->lazy();
 
         return response()->json([
            'status' => true,
@@ -71,7 +71,7 @@ class ApiController extends Controller
 
     public function fictionalSubcategory($subcategoryId){
         $subcategory = Subcategory::findOrFail($subcategoryId);
-        $fictionalSubcategory = FictionalSubcategory::where('subcategory1_id',$subcategoryId)->get();
+        $fictionalSubcategory = FictionalSubcategory::where('subcategory1_id',$subcategoryId)->lazy();
         return response()->json([
            'status' => true,
            'subcategory_detail' => $subcategory,
@@ -81,7 +81,7 @@ class ApiController extends Controller
     }
 
     public function celebrity_data($subcategoryId){
-        $celebrityData = CelebrityData::where('subcategory_id',$subcategoryId)->get();
+        $celebrityData = CelebrityData::where('subcategory_id',$subcategoryId)->lazy();
       $subcategory =  Subcategory::find($subcategoryId);
         return response()->json([
            'status' => true,
@@ -91,7 +91,7 @@ class ApiController extends Controller
         ]);
     }
     public function fictional_data($fictionalsubcategoryId){
-        $celebrityData = FictionalData::where('fictional_subcategory_id',$fictionalsubcategoryId)->get();
+        $celebrityData = FictionalData::where('fictional_subcategory_id',$fictionalsubcategoryId)->lazy();
       $subcategory =  FictionalSubcategory::find($fictionalsubcategoryId);
         return response()->json([
            'status' => true,
